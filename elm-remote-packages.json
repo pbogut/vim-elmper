@@ -1,0 +1,10162 @@
+[
+  {
+    "name": "1602/elm-feather",
+    "latest": "2.2.0",
+    "modules": [
+      "FeatherIcons"
+    ]
+  },
+  {
+    "name": "1602/json-schema",
+    "latest": "3.0.0",
+    "modules": [
+      "Json.Schema.Random",
+      "Json.Schema",
+      "Json.Schema.Builder",
+      "Json.Schema.Validation",
+      "Json.Schema.Definitions"
+    ]
+  },
+  {
+    "name": "1602/json-value",
+    "latest": "1.1.0",
+    "modules": [
+      "JsonValue"
+    ]
+  },
+  {
+    "name": "2mol/elm-colormaps",
+    "latest": "1.0.2",
+    "modules": [
+      "Color.Colormaps"
+    ]
+  },
+  {
+    "name": "ASVBPREAUBV/elm-flexbox",
+    "latest": "1.0.0",
+    "modules": [
+      "Flex"
+    ]
+  },
+  {
+    "name": "AaronCZim/to-elm-format-string",
+    "latest": "1.0.3",
+    "modules": [
+      "ToElmFormatString"
+    ]
+  },
+  {
+    "name": "Apanatshka/elm-list-ndet",
+    "latest": "1.0.1",
+    "modules": [
+      "List.NDet"
+    ]
+  },
+  {
+    "name": "Apanatshka/elm-signal-extra",
+    "latest": "5.7.0",
+    "modules": [
+      "Signal.Stream",
+      "Signal.Time",
+      "Signal.Fun",
+      "Signal.Extra",
+      "Signal.Discrete"
+    ]
+  },
+  {
+    "name": "Bernardoow/elm-alert-timer-message",
+    "latest": "1.0.0",
+    "modules": [
+      "AlertTimerMessage"
+    ]
+  },
+  {
+    "name": "Bernardoow/elm-rating-component",
+    "latest": "2.0.1",
+    "modules": [
+      "Rating"
+    ]
+  },
+  {
+    "name": "Bogdanp/elm-ast",
+    "latest": "8.0.10",
+    "modules": [
+      "Ast",
+      "Ast.Statement",
+      "Ast.Expression",
+      "Ast.BinOp"
+    ]
+  },
+  {
+    "name": "Bogdanp/elm-combine",
+    "latest": "3.1.1",
+    "modules": [
+      "Combine.Num",
+      "Combine.Char",
+      "Combine"
+    ]
+  },
+  {
+    "name": "Bogdanp/elm-datepicker",
+    "latest": "3.0.2",
+    "modules": [
+      "DatePicker"
+    ]
+  },
+  {
+    "name": "Bogdanp/elm-generate",
+    "latest": "1.2.0",
+    "modules": [
+      "Generate"
+    ]
+  },
+  {
+    "name": "Bogdanp/elm-querystring",
+    "latest": "1.0.0",
+    "modules": [
+      "QueryString"
+    ]
+  },
+  {
+    "name": "Bogdanp/elm-route",
+    "latest": "4.0.0",
+    "modules": [
+      "Route"
+    ]
+  },
+  {
+    "name": "Bogdanp/elm-time",
+    "latest": "1.4.0",
+    "modules": [
+      "Time.ZonedDateTime",
+      "Time.TimeZones",
+      "Time.DateTime",
+      "Time.Date",
+      "Time.TimeZone"
+    ]
+  },
+  {
+    "name": "Bractlet/elm-plot",
+    "latest": "1.0.0",
+    "modules": [
+      "Plot"
+    ]
+  },
+  {
+    "name": "BrianHicks/elm-avl-exploration",
+    "latest": "1.0.0",
+    "modules": [
+      "Dict.Avl"
+    ]
+  },
+  {
+    "name": "BrianHicks/elm-benchmark",
+    "latest": "2.0.2",
+    "modules": [
+      "Benchmark.Runner",
+      "Benchmark.Reporting",
+      "Benchmark",
+      "Benchmark.Status",
+      "Benchmark.LowLevel"
+    ]
+  },
+  {
+    "name": "BrianHicks/elm-trend",
+    "latest": "2.1.1",
+    "modules": [
+      "Trend.Linear",
+      "Trend.Math"
+    ]
+  },
+  {
+    "name": "CallumJHays/elm-kalman-filter",
+    "latest": "2.0.2",
+    "modules": [
+      "KalmanFilter"
+    ]
+  },
+  {
+    "name": "CallumJHays/elm-sliders",
+    "latest": "1.0.1",
+    "modules": [
+      "Slider"
+    ]
+  },
+  {
+    "name": "CallumJHays/elm-unwrap",
+    "latest": "1.0.0",
+    "modules": [
+      "Unwrap"
+    ]
+  },
+  {
+    "name": "Chadtech/ct-colors",
+    "latest": "1.0.1",
+    "modules": [
+      "Chadtech.Colors"
+    ]
+  },
+  {
+    "name": "Chadtech/ctpaint-keys",
+    "latest": "4.0.0",
+    "modules": [
+      "Data.Keys"
+    ]
+  },
+  {
+    "name": "Chadtech/elm-bool-extra",
+    "latest": "1.2.1",
+    "modules": [
+      "Bool.Extra"
+    ]
+  },
+  {
+    "name": "Chadtech/elm-loop",
+    "latest": "1.0.2",
+    "modules": [
+      "Loop"
+    ]
+  },
+  {
+    "name": "Chadtech/elm-us-state-abbreviations",
+    "latest": "2.0.1",
+    "modules": [
+      "UsStates"
+    ]
+  },
+  {
+    "name": "Chadtech/hfnss",
+    "latest": "1.0.1",
+    "modules": [
+      "Hfnss"
+    ]
+  },
+  {
+    "name": "Chadtech/order",
+    "latest": "1.0.4",
+    "modules": [
+      "Order"
+    ]
+  },
+  {
+    "name": "Chadtech/tuple-infix",
+    "latest": "1.1.1",
+    "modules": [
+      "Tuple.Infix"
+    ]
+  },
+  {
+    "name": "Chadtech/unique-list",
+    "latest": "2.0.0",
+    "modules": [
+      "List.Unique"
+    ]
+  },
+  {
+    "name": "ChristophP/elm-i18next",
+    "latest": "2.0.1",
+    "modules": [
+      "I18Next"
+    ]
+  },
+  {
+    "name": "Dandandan/Easing",
+    "latest": "2.0.2",
+    "modules": [
+      "Easing"
+    ]
+  },
+  {
+    "name": "Dandandan/parser",
+    "latest": "6.2.5",
+    "modules": [
+      "Parser.Char",
+      "Parser.Number",
+      "Parser"
+    ]
+  },
+  {
+    "name": "DavidTobin/elm-key",
+    "latest": "3.0.0",
+    "modules": [
+      "Key"
+    ]
+  },
+  {
+    "name": "DrBearhands/elm-json-editor",
+    "latest": "1.0.0",
+    "modules": [
+      "EditableValue"
+    ]
+  },
+  {
+    "name": "Elm-Canvas/element-relative-mouse-events",
+    "latest": "1.0.0",
+    "modules": [
+      "ElementRelativeMouseEvents"
+    ]
+  },
+  {
+    "name": "Elm-Canvas/raster-shapes",
+    "latest": "1.1.1",
+    "modules": [
+      "RasterShapes"
+    ]
+  },
+  {
+    "name": "FabienHenon/elm-infinite-list-view",
+    "latest": "2.0.0",
+    "modules": [
+      "InfiniteList"
+    ]
+  },
+  {
+    "name": "FabienHenon/elm-infinite-scroll",
+    "latest": "2.3.1",
+    "modules": [
+      "InfiniteScroll"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-animate-css",
+    "latest": "1.0.1",
+    "modules": [
+      "Animate.Css"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-cardinal",
+    "latest": "1.0.0",
+    "modules": [
+      "Cardinal"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-font-awesome",
+    "latest": "2.0.2",
+    "modules": [
+      "FontAwesome.Brand",
+      "FontAwesome.Web",
+      "FontAwesome.Brand.Class",
+      "FontAwesome.Web.Class"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-function-extra",
+    "latest": "3.0.0",
+    "modules": [
+      "Function.Infix",
+      "Function.Pro",
+      "Function"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-guards",
+    "latest": "1.0.1",
+    "modules": [
+      "Guards"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-nearly-eq",
+    "latest": "1.0.1",
+    "modules": [
+      "Nearly"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-number-expanded",
+    "latest": "1.0.2",
+    "modules": [
+      "Number.Expanded"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-restrict-number",
+    "latest": "2.2.0",
+    "modules": [
+      "Convert",
+      "Positive",
+      "NonZero",
+      "Odd",
+      "Negative",
+      "Prime",
+      "Whole",
+      "Even",
+      "Natural"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-return",
+    "latest": "6.0.3",
+    "modules": [
+      "Infix",
+      "Return",
+      "Respond"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-sprite",
+    "latest": "1.0.0",
+    "modules": [
+      "Sprite"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-tuple-extra",
+    "latest": "3.0.0",
+    "modules": [
+      "Tuple4",
+      "Tuple3",
+      "Tuple2"
+    ]
+  },
+  {
+    "name": "Fresheyeball/elm-yala",
+    "latest": "1.1.0",
+    "modules": [
+      "Math.Vec2",
+      "Math.Interpolate"
+    ]
+  },
+  {
+    "name": "Fresheyeball/perspective",
+    "latest": "1.0.2",
+    "modules": [
+      "Perspective"
+    ]
+  },
+  {
+    "name": "Fresheyeball/sprite",
+    "latest": "1.0.1",
+    "modules": [
+      "Sprite"
+    ]
+  },
+  {
+    "name": "Gizra/elm-all-set",
+    "latest": "1.0.0",
+    "modules": [
+      "EverySet"
+    ]
+  },
+  {
+    "name": "Gizra/elm-attribute-builder",
+    "latest": "1.0.0",
+    "modules": [
+      "Html.AttributeBuilder"
+    ]
+  },
+  {
+    "name": "Gizra/elm-compat-017",
+    "latest": "1.0.0",
+    "modules": [
+      "Task018",
+      "Result018",
+      "Tuple018",
+      "Random018",
+      "Json.Decode018",
+      "List018",
+      "Basics018",
+      "Maybe018",
+      "Bitwise018"
+    ]
+  },
+  {
+    "name": "Gizra/elm-compat-018",
+    "latest": "1.0.0",
+    "modules": [
+      "Task017",
+      "Result017",
+      "Basics017",
+      "Random017",
+      "Maybe017",
+      "Json.Decode017",
+      "Bitwise017"
+    ]
+  },
+  {
+    "name": "Gizra/elm-dictlist",
+    "latest": "2.1.0",
+    "modules": [
+      "DictList",
+      "EveryDictList",
+      "AllDictList"
+    ]
+  },
+  {
+    "name": "Gizra/elm-editable-webdata",
+    "latest": "1.0.1",
+    "modules": [
+      "Editable.WebData"
+    ]
+  },
+  {
+    "name": "Gizra/elm-essentials",
+    "latest": "1.2.0",
+    "modules": [
+      "Gizra.NominalDate",
+      "Gizra.Date",
+      "Gizra.WebData",
+      "Gizra.Update",
+      "Gizra.Maybe",
+      "Gizra.String",
+      "Gizra.Json",
+      "Gizra.List",
+      "Gizra.Dom",
+      "Gizra.Html"
+    ]
+  },
+  {
+    "name": "Gizra/elm-keyboard-event",
+    "latest": "1.0.0",
+    "modules": [
+      "Keyboard.Event"
+    ]
+  },
+  {
+    "name": "Gizra/elm-storage-key",
+    "latest": "1.1.0",
+    "modules": [
+      "StorageKey"
+    ]
+  },
+  {
+    "name": "GlobalWebIndex/class-namespaces",
+    "latest": "1.0.0",
+    "modules": [
+      "WeakCss"
+    ]
+  },
+  {
+    "name": "GlobalWebIndex/cmd-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "Cmd.Extra"
+    ]
+  },
+  {
+    "name": "Guid75/ziplist",
+    "latest": "1.0.1",
+    "modules": [
+      "ZipList"
+    ]
+  },
+  {
+    "name": "JOEANDAVERDE/flex-html",
+    "latest": "1.0.0",
+    "modules": [
+      "Flex"
+    ]
+  },
+  {
+    "name": "Janiczek/cmd-extra",
+    "latest": "1.1.0",
+    "modules": [
+      "Cmd.Extra"
+    ]
+  },
+  {
+    "name": "Janiczek/elm-architecture-test",
+    "latest": "1.0.9",
+    "modules": [
+      "ArchitectureTest",
+      "ArchitectureTest.Types"
+    ]
+  },
+  {
+    "name": "Janiczek/elm-encoding",
+    "latest": "1.0.1",
+    "modules": [
+      "Encoding.URL",
+      "Encoding.Integral"
+    ]
+  },
+  {
+    "name": "Janiczek/package-info",
+    "latest": "1.0.0",
+    "modules": [
+      "PackageInfo",
+      "PackageInfo.VersionRange",
+      "PackageInfo.Version"
+    ]
+  },
+  {
+    "name": "JasonGFitzpatrick/elm-router",
+    "latest": "1.0.1",
+    "modules": [
+      "Router"
+    ]
+  },
+  {
+    "name": "JeremyBellows/elm-bootstrapify",
+    "latest": "9.0.0",
+    "modules": [
+      "Bootstrap.Panels",
+      "Bootstrap.Wells",
+      "Bootstrap.Navbar",
+      "Bootstrap.Page",
+      "Bootstrap.ListGroup",
+      "Bootstrap.Buttons",
+      "Bootstrap.Forms",
+      "Bootstrap.Grid"
+    ]
+  },
+  {
+    "name": "JoelQ/elm-dollar",
+    "latest": "1.0.0",
+    "modules": [
+      "Dollar"
+    ]
+  },
+  {
+    "name": "JoeyEremondi/LoadAssets",
+    "latest": "1.0.0",
+    "modules": [
+      "LoadAssets"
+    ]
+  },
+  {
+    "name": "JoeyEremondi/array-multidim",
+    "latest": "1.0.0",
+    "modules": [
+      "Array.MultiDim"
+    ]
+  },
+  {
+    "name": "JoeyEremondi/elm-MultiDimArray",
+    "latest": "2.0.2",
+    "modules": [
+      "Array.MultiDim"
+    ]
+  },
+  {
+    "name": "JoeyEremondi/elm-SafeLists",
+    "latest": "2.0.0",
+    "modules": [
+      "List.SafeList"
+    ]
+  },
+  {
+    "name": "JoeyEremondi/elm-typenats",
+    "latest": "1.0.2",
+    "modules": [
+      "TypeNat"
+    ]
+  },
+  {
+    "name": "JoeyEremondi/safelist",
+    "latest": "2.0.0",
+    "modules": [
+      "List.SafeList"
+    ]
+  },
+  {
+    "name": "JoeyEremondi/typenats",
+    "latest": "1.0.0",
+    "modules": [
+      "TypeNat"
+    ]
+  },
+  {
+    "name": "JohnBugner/elm-bag",
+    "latest": "1.0.1",
+    "modules": [
+      "Bag"
+    ]
+  },
+  {
+    "name": "JohnBugner/elm-loop",
+    "latest": "2.0.1",
+    "modules": [
+      "Loop"
+    ]
+  },
+  {
+    "name": "JordyMoos/elm-clockpicker",
+    "latest": "2.0.1",
+    "modules": [
+      "ClockPicker"
+    ]
+  },
+  {
+    "name": "JordyMoos/elm-pageloader",
+    "latest": "2.0.1",
+    "modules": [
+      "PageLoader.DependencyStatus.RemoteDataExt",
+      "PageLoader",
+      "PageLoader.DependencyStatus",
+      "PageLoader.Progression"
+    ]
+  },
+  {
+    "name": "JulianKniephoff/elm-time-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "Time.Extra"
+    ]
+  },
+  {
+    "name": "JustusAdam/elm-path",
+    "latest": "1.3.0",
+    "modules": [
+      "Path.Url",
+      "Path.Windows",
+      "Path.Posix",
+      "Path.Generic"
+    ]
+  },
+  {
+    "name": "Kinto/elm-kinto",
+    "latest": "6.0.0",
+    "modules": [
+      "Kinto"
+    ]
+  },
+  {
+    "name": "KtorZ/elm-notification",
+    "latest": "1.1.1",
+    "modules": [
+      "Notification"
+    ]
+  },
+  {
+    "name": "Kwarrtz/render",
+    "latest": "2.0.0",
+    "modules": [
+      "Graphics.Render"
+    ]
+  },
+  {
+    "name": "Leonti/elm-material-datepicker",
+    "latest": "1.0.0",
+    "modules": [
+      "DatePicker"
+    ]
+  },
+  {
+    "name": "Leonti/elm-time-picker",
+    "latest": "2.0.0",
+    "modules": [
+      "TimePicker"
+    ]
+  },
+  {
+    "name": "Logiraptor/elm-bench",
+    "latest": "1.1.0",
+    "modules": [
+      "Bench.Runner",
+      "Bench"
+    ]
+  },
+  {
+    "name": "Luftzig/elm-quadtree",
+    "latest": "1.0.0",
+    "modules": [
+      "QuadTree"
+    ]
+  },
+  {
+    "name": "M1chaelTran/elm-graphql",
+    "latest": "1.0.0",
+    "modules": [
+      "GraphQL"
+    ]
+  },
+  {
+    "name": "MacCASOutreach/graphicsvg",
+    "latest": "2.1.0",
+    "modules": [
+      "GraphicSVG"
+    ]
+  },
+  {
+    "name": "MadonnaMat/elm-select-two",
+    "latest": "2.0.2",
+    "modules": [
+      "SelectTwo.Html",
+      "SelectTwo",
+      "SelectTwo.Types"
+    ]
+  },
+  {
+    "name": "MartinKavik/elm-combinatorics",
+    "latest": "1.0.1",
+    "modules": [
+      "Combinatorics.Counts",
+      "Combinatorics.Helpers",
+      "Combinatorics.Lists"
+    ]
+  },
+  {
+    "name": "MatthewJohnHeath/elm-fingertree",
+    "latest": "1.1.1",
+    "modules": [
+      "Container",
+      "PriorityQueue",
+      "Annotated",
+      "Monoid"
+    ]
+  },
+  {
+    "name": "MazeChaZer/elm-ckeditor",
+    "latest": "1.0.0",
+    "modules": [
+      "CKEditor"
+    ]
+  },
+  {
+    "name": "MichaelCombs28/elm-base85",
+    "latest": "1.0.0",
+    "modules": [
+      "Base85"
+    ]
+  },
+  {
+    "name": "MichaelCombs28/elm-dom",
+    "latest": "1.0.0",
+    "modules": [
+      "DOM"
+    ]
+  },
+  {
+    "name": "MichaelCombs28/elm-mdl",
+    "latest": "1.0.1",
+    "modules": [
+      "Material",
+      "Material.Scheme",
+      "Material.List",
+      "Material.Textfield",
+      "Material.Menu",
+      "Material.Layout",
+      "Material.Chip",
+      "Material.Tabs",
+      "Material.Toggles",
+      "Material.Button",
+      "Material.Grid",
+      "Material.Spinner",
+      "Material.Footer",
+      "Material.Typography",
+      "Material.Slider",
+      "Material.Color",
+      "Material.Icon",
+      "Material.Card",
+      "Material.Tooltip",
+      "Material.Table",
+      "Material.Progress",
+      "Material.Elevation",
+      "Material.Dialog",
+      "Material.Badge",
+      "Material.Snackbar",
+      "Material.Options",
+      "Material.Helpers"
+    ]
+  },
+  {
+    "name": "MichaelCombs28/elm-parts",
+    "latest": "1.0.0",
+    "modules": [
+      "Parts"
+    ]
+  },
+  {
+    "name": "MichaelCombs28/unit-list",
+    "latest": "1.0.0",
+    "modules": [
+      "UnitList.Decode",
+      "UnitList"
+    ]
+  },
+  {
+    "name": "NoRedInk/datetimepicker",
+    "latest": "2.0.3",
+    "modules": [
+      "DateTimePicker",
+      "DateTimePicker.Config",
+      "DateTimePicker.Css"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-api-components",
+    "latest": "2.0.0",
+    "modules": [
+      "Component.Filter.View",
+      "Component.Filter.Update",
+      "Component.Filter.Model"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-check",
+    "latest": "3.0.0",
+    "modules": [
+      "Check.Test",
+      "Check",
+      "Check.Producer"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-compare",
+    "latest": "1.1.0",
+    "modules": [
+      "Compare"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-decode-pipeline",
+    "latest": "3.0.0",
+    "modules": [
+      "Json.Decode.Pipeline"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-doodad",
+    "latest": "2.7.1",
+    "modules": [
+      "Nri.Alert",
+      "Nri.Tabs",
+      "Nri.Modal",
+      "Nri.TextAreaWithOverlappingLabel",
+      "Nri.Button",
+      "Nri.Text",
+      "Nri.Divider",
+      "Nri.BannerAlert",
+      "Nri.TextInput",
+      "Nri.Styles"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-feature-interest",
+    "latest": "1.0.1",
+    "modules": [
+      "Nri.FeatureInterest",
+      "Nri.FeatureInterest.Admin",
+      "Nri.FeatureInterest.Page",
+      "Nri.FeatureInterest.Feature"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-formatted-text",
+    "latest": "1.0.0",
+    "modules": [
+      "FormattedText.Markdown",
+      "FormattedText.Fuzz",
+      "FormattedText",
+      "FormattedText.Regex"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-lazy-list",
+    "latest": "2.0.0",
+    "modules": [
+      "Lazy.List"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-phoenix",
+    "latest": "1.0.0",
+    "modules": [
+      "Phoenix.Channel.Helpers",
+      "Phoenix.Channel.Update",
+      "Phoenix.Channel.Model"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-rails",
+    "latest": "6.2.0",
+    "modules": [
+      "Rails",
+      "Rails.Decode"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-random-extra",
+    "latest": "2.1.1",
+    "modules": [
+      "Random.Mouse",
+      "Random.String",
+      "Random.Touch",
+      "Random.Array",
+      "Random.Bool",
+      "Random.Char",
+      "Random.Color",
+      "Random.Date",
+      "Random.Dict",
+      "Random.Float",
+      "Random.Function",
+      "Random.Keyboard",
+      "Random.List",
+      "Random.Mailbox",
+      "Random.Maybe",
+      "Random.Order",
+      "Random.Result",
+      "Random.Window",
+      "Random.Signal",
+      "Random.Task",
+      "Random.Set",
+      "Random.Extra",
+      "Random.Int"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-rfc5988-parser",
+    "latest": "1.0.0",
+    "modules": [
+      "RFC5988"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-shrink",
+    "latest": "1.0.3",
+    "modules": [
+      "Shrink"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-simple-fuzzy",
+    "latest": "1.0.2",
+    "modules": [
+      "Simple.Fuzzy"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-string-extra",
+    "latest": "1.3.1",
+    "modules": [
+      "String.Extra"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-sweet-poll",
+    "latest": "4.0.0",
+    "modules": [
+      "SweetPoll"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-task-extra",
+    "latest": "2.0.0",
+    "modules": [
+      "Task.Extra"
+    ]
+  },
+  {
+    "name": "NoRedInk/elm-view-utils",
+    "latest": "1.1.1",
+    "modules": [
+      "View.Utils"
+    ]
+  },
+  {
+    "name": "NoRedInk/json-elm-schema",
+    "latest": "2.2.1",
+    "modules": [
+      "JsonSchema.Fuzz",
+      "JsonSchema.Validator",
+      "JsonSchema",
+      "JsonSchema.Encoder",
+      "JsonSchema.Decoder"
+    ]
+  },
+  {
+    "name": "NoRedInk/list-selection",
+    "latest": "1.2.0",
+    "modules": [
+      "List.Selection"
+    ]
+  },
+  {
+    "name": "NoRedInk/nri-elm-css",
+    "latest": "5.0.0",
+    "modules": [
+      "Nri.Colors.Deprecated",
+      "Nri.Colors",
+      "Nri.Stylers",
+      "Nri.Css.Extra",
+      "Nri.Colors.Extra",
+      "Nri",
+      "Nri.Fonts",
+      "Nri.Accessibility"
+    ]
+  },
+  {
+    "name": "NoRedInk/rocket-update",
+    "latest": "1.0.0",
+    "modules": [
+      "Rocket"
+    ]
+  },
+  {
+    "name": "NoRedInk/start-app",
+    "latest": "2.0.0",
+    "modules": [
+      "StartApp"
+    ]
+  },
+  {
+    "name": "NoRedInk/style-elements",
+    "latest": "2.0.1",
+    "modules": [
+      "Element.Keyed",
+      "Element",
+      "Style.Sheet",
+      "Style.Shadow",
+      "Style.Transition",
+      "Style.Color",
+      "Style.Border",
+      "Style.Font",
+      "Style.Filter",
+      "Element.Attributes",
+      "Style.Background",
+      "Style.Scale",
+      "Element.Events",
+      "Style"
+    ]
+  },
+  {
+    "name": "NoRedInk/view-extra",
+    "latest": "2.0.0",
+    "modules": [
+      "View.Extra"
+    ]
+  },
+  {
+    "name": "OldhamMade/elm-charts",
+    "latest": "1.0.2",
+    "modules": [
+      "ScatterPlot",
+      "BarChart",
+      "LineChart",
+      "Chart"
+    ]
+  },
+  {
+    "name": "Pilatch/elm-simple-port-program",
+    "latest": "1.0.1",
+    "modules": [
+      "SimplePortProgram"
+    ]
+  },
+  {
+    "name": "RGBboy/websocket-server",
+    "latest": "1.0.1",
+    "modules": [
+      "WebSocketServer"
+    ]
+  },
+  {
+    "name": "RobbieMcKinstry/stripe",
+    "latest": "1.0.0",
+    "modules": [
+      "Checkout"
+    ]
+  },
+  {
+    "name": "RomanErnst/updated-list",
+    "latest": "3.0.0",
+    "modules": [
+      "UpdatedList"
+    ]
+  },
+  {
+    "name": "RoyalIcing/lofi-elm",
+    "latest": "3.0.0",
+    "modules": [
+      "Lofi.Parse",
+      "Lofi"
+    ]
+  },
+  {
+    "name": "RoyalIcing/lofi-schema-elm",
+    "latest": "1.0.0",
+    "modules": [
+      "Lofi.Schema.Output.ReactProps",
+      "Lofi.Schema.Output.Swift",
+      "Lofi.Schema.Output.Mongoose",
+      "Lofi.Schema.Output.MySQL",
+      "Lofi.Schema.Output.Joi",
+      "Lofi.Schema.Output.Elm",
+      "Lofi.Schema.Output.Go",
+      "Lofi.Schema"
+    ]
+  },
+  {
+    "name": "SHyx0rmZ/selectable-list",
+    "latest": "1.0.0",
+    "modules": [
+      "SelectableList"
+    ]
+  },
+  {
+    "name": "SamirTalwar/arborist",
+    "latest": "3.0.0",
+    "modules": [
+      "Arborist.Framework",
+      "Arborist.Matchers",
+      "Arborist.Assertions"
+    ]
+  },
+  {
+    "name": "Saulzar/elm-keyboard-keys",
+    "latest": "1.0.0",
+    "modules": [
+      "Keyboard.KeySet",
+      "Keyboard.Attributes",
+      "Keyboard.Key"
+    ]
+  },
+  {
+    "name": "Saulzar/key-constants",
+    "latest": "1.0.0",
+    "modules": [
+      "Keyboard.Keys"
+    ]
+  },
+  {
+    "name": "SelectricSimian/elm-constructive",
+    "latest": "1.0.0",
+    "modules": [
+      "Constructive.Combinators",
+      "Constructive.Action"
+    ]
+  },
+  {
+    "name": "SimplyNaOH/elm-searchable-menu",
+    "latest": "1.0.0",
+    "modules": [
+      "SearchableMenu"
+    ]
+  },
+  {
+    "name": "Skinney/collections-ng",
+    "latest": "3.0.0",
+    "modules": [
+      "CollectionsNg.Set",
+      "CollectionsNg.Dict",
+      "CollectionsNg.Array"
+    ]
+  },
+  {
+    "name": "Skinney/elm-array-exploration",
+    "latest": "2.0.5",
+    "modules": [
+      "Array.Hamt"
+    ]
+  },
+  {
+    "name": "Skinney/elm-dict-exploration",
+    "latest": "1.0.4",
+    "modules": [
+      "Dict.LLRB"
+    ]
+  },
+  {
+    "name": "Skinney/elm-dict-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "Dict.Extra"
+    ]
+  },
+  {
+    "name": "Skinney/fnv",
+    "latest": "1.0.4",
+    "modules": [
+      "FNV"
+    ]
+  },
+  {
+    "name": "Skinney/murmur3",
+    "latest": "2.0.6",
+    "modules": [
+      "Murmur3"
+    ]
+  },
+  {
+    "name": "Spottt/elm-dialog",
+    "latest": "1.0.6",
+    "modules": [
+      "Dialog"
+    ]
+  },
+  {
+    "name": "SwiftsNamesake/euclidean-space",
+    "latest": "2.0.0",
+    "modules": [
+      "Euclid.Rectangle",
+      "Euclid.Vector"
+    ]
+  },
+  {
+    "name": "SwiftsNamesake/please-focus",
+    "latest": "1.1.2",
+    "modules": [
+      "Focus"
+    ]
+  },
+  {
+    "name": "SwiftsNamesake/proper-keyboard",
+    "latest": "3.0.1",
+    "modules": [
+      "Keyboard.Key"
+    ]
+  },
+  {
+    "name": "TSFoster/elm-compare",
+    "latest": "1.0.0",
+    "modules": [
+      "Compare"
+    ]
+  },
+  {
+    "name": "TSFoster/elm-heap",
+    "latest": "2.1.0",
+    "modules": [
+      "Heap"
+    ]
+  },
+  {
+    "name": "TheDahv/doctari",
+    "latest": "1.0.0",
+    "modules": [
+      "Doctari"
+    ]
+  },
+  {
+    "name": "TheSeamau5/GraphicsEngine",
+    "latest": "2.0.0",
+    "modules": [
+      "Engine",
+      "Engine.Camera.Camera",
+      "Engine.Light.Light",
+      "Engine.Material.Material",
+      "Engine.Math.Utils",
+      "Engine.Mesh.Mesh",
+      "Engine.Mesh.Triangle",
+      "Engine.Mesh.Rectangle",
+      "Engine.Mesh.Pyramid",
+      "Engine.Mesh.Cube",
+      "Engine.Mesh.Sphere",
+      "Engine.Render.Renderable",
+      "Engine.Render.DefaultRenderable",
+      "Engine.Render.Render",
+      "Engine.Scene.Scene",
+      "Engine.Shader.Shader",
+      "Engine.Shader.Attribute",
+      "Engine.Shader.Uniform",
+      "Engine.Shader.Boilerplate",
+      "Engine.Shader.Library",
+      "Engine.Shader.Utils",
+      "Engine.Shader.VertexShader",
+      "Engine.Shader.FragmentShader",
+      "Engine.Transform.Transform",
+      "Engine.Viewport.Viewport"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-check",
+    "latest": "3.2.0",
+    "modules": [
+      "Check",
+      "Check.Investigator",
+      "Check.Test",
+      "Check.Runner.Browser"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-history",
+    "latest": "1.0.0",
+    "modules": [
+      "History"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-html-decoder",
+    "latest": "1.0.1",
+    "modules": [
+      "Html.Decoder"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-lazy-list",
+    "latest": "2.0.0",
+    "modules": [
+      "Lazy.List"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-material-icons",
+    "latest": "1.0.2",
+    "modules": [
+      "Material.Icons.Toggle",
+      "Material.Icons.Social",
+      "Material.Icons.Notification",
+      "Material.Icons.Navigation",
+      "Material.Icons.Maps",
+      "Material.Icons.Image",
+      "Material.Icons.Hardware",
+      "Material.Icons.File",
+      "Material.Icons.Editor",
+      "Material.Icons.Device",
+      "Material.Icons.Content",
+      "Material.Icons.Communication",
+      "Material.Icons.Action",
+      "Material.Icons.Alert",
+      "Material.Icons.Av"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-quadtree",
+    "latest": "2.0.1",
+    "modules": [
+      "QuadTree"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-random-extra",
+    "latest": "2.1.0",
+    "modules": [
+      "Random.Array",
+      "Random.Bool",
+      "Random.Char",
+      "Random.Color",
+      "Random.Date",
+      "Random.Dict",
+      "Random.Extra",
+      "Random.Float",
+      "Random.Function",
+      "Random.Int",
+      "Random.Keyboard",
+      "Random.List",
+      "Random.Mailbox",
+      "Random.Maybe",
+      "Random.Mouse",
+      "Random.Order",
+      "Random.Result",
+      "Random.Set",
+      "Random.Signal",
+      "Random.String",
+      "Random.Task",
+      "Random.Touch",
+      "Random.Window"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-rosetree",
+    "latest": "1.0.0",
+    "modules": [
+      "RoseTree"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-router",
+    "latest": "1.0.0",
+    "modules": [
+      "Router"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-shrink",
+    "latest": "3.0.1",
+    "modules": [
+      "Shrink"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-spring",
+    "latest": "1.0.0",
+    "modules": [
+      "Spring"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-task-extra",
+    "latest": "2.0.0",
+    "modules": [
+      "Task.Extra"
+    ]
+  },
+  {
+    "name": "TheSeamau5/elm-undo-redo",
+    "latest": "2.0.0",
+    "modules": [
+      "UndoList",
+      "UndoList.Decode",
+      "UndoList.Encode",
+      "UndoList.Random",
+      "UndoList.Shrink"
+    ]
+  },
+  {
+    "name": "TheSeamau5/flex-html",
+    "latest": "2.0.1",
+    "modules": [
+      "Flex"
+    ]
+  },
+  {
+    "name": "TheSeamau5/selection-list",
+    "latest": "1.0.0",
+    "modules": [
+      "SelectionList"
+    ]
+  },
+  {
+    "name": "TheSeamau5/typographic-scale",
+    "latest": "1.0.0",
+    "modules": [
+      "Typography.Scale"
+    ]
+  },
+  {
+    "name": "ThinkAlexandria/elm-drag-locations",
+    "latest": "1.0.0",
+    "modules": [
+      "Drag"
+    ]
+  },
+  {
+    "name": "ThinkAlexandria/elm-primer-tooltips",
+    "latest": "1.0.0",
+    "modules": [
+      "Css.Primer.Tooltips.Selectors"
+    ]
+  },
+  {
+    "name": "ThinkAlexandria/keyboard-extra",
+    "latest": "1.0.1",
+    "modules": [
+      "Keyboard.Extra",
+      "Keyboard.Extra.Keys"
+    ]
+  },
+  {
+    "name": "ThomasWeiser/elmfire",
+    "latest": "1.0.7",
+    "modules": [
+      "ElmFire.Auth",
+      "ElmFire"
+    ]
+  },
+  {
+    "name": "ThomasWeiser/elmfire-extra",
+    "latest": "1.0.4",
+    "modules": [
+      "ElmFire.Op",
+      "ElmFire.Dict"
+    ]
+  },
+  {
+    "name": "VerbalExpressions/elm-verbal-expressions",
+    "latest": "1.2.2",
+    "modules": [
+      "VerbalExpressions"
+    ]
+  },
+  {
+    "name": "Voronchuk/hexagons",
+    "latest": "2.0.2",
+    "modules": [
+      "Hexagons.Map",
+      "Hexagons.Layout",
+      "Hexagons.Hex"
+    ]
+  },
+  {
+    "name": "Warry/ascii-table",
+    "latest": "1.0.0",
+    "modules": [
+      "Ascii"
+    ]
+  },
+  {
+    "name": "Warry/elmi-decoder",
+    "latest": "2.0.0",
+    "modules": [
+      "Elmi.Interface"
+    ]
+  },
+  {
+    "name": "Xerpa/elm-graphql",
+    "latest": "1.0.1",
+    "modules": [
+      "GraphQl"
+    ]
+  },
+  {
+    "name": "Zinggi/elm-2d-game",
+    "latest": "3.1.0",
+    "modules": [
+      "Game.TwoD",
+      "Game.TwoD.Render",
+      "Game.TwoD.Shaders",
+      "Game.TwoD.Camera",
+      "Game.TwoD.Shapes"
+    ]
+  },
+  {
+    "name": "Zinggi/elm-game-resources",
+    "latest": "2.0.0",
+    "modules": [
+      "Game.Resources"
+    ]
+  },
+  {
+    "name": "Zinggi/elm-obj-loader",
+    "latest": "1.0.3",
+    "modules": [
+      "OBJ",
+      "OBJ.Types"
+    ]
+  },
+  {
+    "name": "Zinggi/elm-random-general",
+    "latest": "1.0.1",
+    "modules": [
+      "Random.General"
+    ]
+  },
+  {
+    "name": "Zinggi/elm-random-pcg-extended",
+    "latest": "2.0.1",
+    "modules": [
+      "Random.Pcg.Extended"
+    ]
+  },
+  {
+    "name": "Zinggi/elm-webgl-math",
+    "latest": "1.0.5",
+    "modules": [
+      "Matrix4",
+      "Vector4",
+      "Matrix3",
+      "Vector3",
+      "Matrix2",
+      "Vector2"
+    ]
+  },
+  {
+    "name": "aardito2/realm",
+    "latest": "1.0.6",
+    "modules": [
+      "Realm"
+    ]
+  },
+  {
+    "name": "abadi199/dateparser",
+    "latest": "1.0.3",
+    "modules": [
+      "DateParser",
+      "Error"
+    ]
+  },
+  {
+    "name": "abadi199/datetimepicker",
+    "latest": "6.0.0",
+    "modules": [
+      "DateTimePicker",
+      "DateTimePicker.Config",
+      "DateTimePicker.SharedStyles"
+    ]
+  },
+  {
+    "name": "abadi199/datetimepicker-css",
+    "latest": "1.1.0",
+    "modules": [
+      "DateTimePicker.Css"
+    ]
+  },
+  {
+    "name": "abadi199/elm-creditcard",
+    "latest": "10.0.0",
+    "modules": [
+      "CreditCard",
+      "CreditCard.Config",
+      "CreditCard.Events"
+    ]
+  },
+  {
+    "name": "abadi199/elm-input-extra",
+    "latest": "5.2.1",
+    "modules": [
+      "MaskedInput.Text",
+      "MaskedInput.Number",
+      "Input.Text",
+      "Input.Number",
+      "Input.BigNumber",
+      "MultiSelect",
+      "Dropdown"
+    ]
+  },
+  {
+    "name": "abadi199/intl-phone-input",
+    "latest": "1.0.0",
+    "modules": [
+      "IntlPhoneInput",
+      "IntlPhoneInput.Css",
+      "IntlPhoneInput.Config",
+      "IntlPhoneInput.Type"
+    ]
+  },
+  {
+    "name": "abrykajlo/elm-scroll",
+    "latest": "2.0.1",
+    "modules": [
+      "Scroll"
+    ]
+  },
+  {
+    "name": "adam-r-kowalski/Elm-Css",
+    "latest": "2.1.3",
+    "modules": [
+      "Css.Border",
+      "Css.Util",
+      "Css.Border.Bottom",
+      "Css.Border.Left",
+      "Css.Border.Right",
+      "Css.Border.Top",
+      "Css.Background",
+      "Css.Cursor",
+      "Css.Dimension",
+      "Css.Display",
+      "Css.Flex",
+      "Css.Float",
+      "Css.Font",
+      "Css.Gradient",
+      "Css.ListStyle",
+      "Css.Margin",
+      "Css.Outline",
+      "Css.Text",
+      "Css.Transform3",
+      "Css.Transform2",
+      "Css.Sheet",
+      "Css.Padding",
+      "Css.Shadow",
+      "Css.Position",
+      "Css.Border.Style",
+      "Css"
+    ]
+  },
+  {
+    "name": "adam-r-kowalski/elm-css-legacy",
+    "latest": "1.0.0",
+    "modules": [
+      "Css.Border",
+      "Css.Util",
+      "Css.Background",
+      "Css.Border.Bottom",
+      "Css.Border.Left",
+      "Css.Border.Right",
+      "Css.Border.Top",
+      "Css.Cursor",
+      "Css.Dimension",
+      "Css.Display",
+      "Css.Flex",
+      "Css.Float",
+      "Css.Font",
+      "Css.Gradient",
+      "Css.ListStyle",
+      "Css.Margin",
+      "Css.Outline",
+      "Css.Sheet",
+      "Css.Text",
+      "Css.Shadow",
+      "Css.Transform2",
+      "Css.Padding",
+      "Css.Position",
+      "Css.Transform3",
+      "Css",
+      "Css.Border.Style"
+    ]
+  },
+  {
+    "name": "adeschamps/mdl-context",
+    "latest": "1.0.2",
+    "modules": [
+      "Context"
+    ]
+  },
+  {
+    "name": "adius/vectual",
+    "latest": "2.0.0",
+    "modules": [
+      "Vectual",
+      "Vectual.BarChartStacked",
+      "Vectual.BarChart",
+      "Vectual.CoordinateSystem",
+      "Vectual.Helpers",
+      "Vectual.PieChart",
+      "Vectual.Types"
+    ]
+  },
+  {
+    "name": "agrafix/elm-bootforms",
+    "latest": "10.0.0",
+    "modules": [
+      "Html.Form.Input.Suggest",
+      "Html.Form.Input.Suggest.External",
+      "Html.Form.Input.Date",
+      "Html.Form.Input"
+    ]
+  },
+  {
+    "name": "akbiggs/elm-effects",
+    "latest": "3.0.0",
+    "modules": [
+      "Effects.App",
+      "Effects"
+    ]
+  },
+  {
+    "name": "akbiggs/elm-game-update",
+    "latest": "1.1.0",
+    "modules": [
+      "Game.Update"
+    ]
+  },
+  {
+    "name": "akheron/elm-easter",
+    "latest": "1.0.1",
+    "modules": [
+      "Easter"
+    ]
+  },
+  {
+    "name": "akoppela/elm-css-extra-properties",
+    "latest": "1.2.0",
+    "modules": [
+      "CssExtraProperties"
+    ]
+  },
+  {
+    "name": "akoppela/elm-css-extra-ptoperties",
+    "latest": "1.0.0",
+    "modules": [
+      "CssExtraProperties"
+    ]
+  },
+  {
+    "name": "alech/elm-calendarweeks",
+    "latest": "1.0.0",
+    "modules": [
+      "Date.CalendarWeeks"
+    ]
+  },
+  {
+    "name": "alepop/elm-google-url-shortener",
+    "latest": "1.0.0",
+    "modules": [
+      "Shortener"
+    ]
+  },
+  {
+    "name": "alexeisavca/keyframes.elm",
+    "latest": "1.0.0",
+    "modules": [
+      "Keyframes.Easing",
+      "Keyframes"
+    ]
+  },
+  {
+    "name": "alinz/elm-vector2d",
+    "latest": "1.0.0",
+    "modules": [
+      "Vector2D"
+    ]
+  },
+  {
+    "name": "alltonp/elm-driveby",
+    "latest": "2.0.1",
+    "modules": [
+      "Driveby"
+    ]
+  },
+  {
+    "name": "alpacaaa/elm-date-distance",
+    "latest": "1.1.0",
+    "modules": [
+      "Date.Distance",
+      "Date.Distance.I18n.En",
+      "Date.Distance.I18n.Fr",
+      "Date.Distance.Types"
+    ]
+  },
+  {
+    "name": "aluuu/elm-check-io",
+    "latest": "1.0.0",
+    "modules": [
+      "Check.Runner.IO"
+    ]
+  },
+  {
+    "name": "amaksimov/elm-maybe-pipeline",
+    "latest": "1.0.0",
+    "modules": [
+      "MaybePipeline"
+    ]
+  },
+  {
+    "name": "amaksimov/elm-multikey-handling",
+    "latest": "1.0.0",
+    "modules": [
+      "MultikeyHandling"
+    ]
+  },
+  {
+    "name": "amazzeo/elm-math-strings",
+    "latest": "1.0.1",
+    "modules": [
+      "Math.Strings"
+    ]
+  },
+  {
+    "name": "amilner42/keyboard-extra",
+    "latest": "2.1.1",
+    "modules": [
+      "Keyboard.Extra"
+    ]
+  },
+  {
+    "name": "amitu/elm-formatting",
+    "latest": "1.0.0",
+    "modules": [
+      "Formatting.Html",
+      "Formatting"
+    ]
+  },
+  {
+    "name": "andrewMacmurray/elm-delay",
+    "latest": "2.0.3",
+    "modules": [
+      "Delay"
+    ]
+  },
+  {
+    "name": "andybalaam/elm-param-parsing",
+    "latest": "1.0.1",
+    "modules": [
+      "UrlParameterParser"
+    ]
+  },
+  {
+    "name": "andys8/elm-geohash",
+    "latest": "1.1.1",
+    "modules": [
+      "Geohash"
+    ]
+  },
+  {
+    "name": "antivanov/eunit",
+    "latest": "1.0.0",
+    "modules": [
+      "Runner",
+      "Test",
+      "Expectation"
+    ]
+  },
+  {
+    "name": "aphorisme/elm-oprocesso",
+    "latest": "1.1.0",
+    "modules": [
+      "Oprocesso.EDSL",
+      "Oprocesso",
+      "Oprocesso.Types"
+    ]
+  },
+  {
+    "name": "apuchenkin/elm-multiway-tree-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "MultiwayTreeUtil"
+    ]
+  },
+  {
+    "name": "apuchenkin/elm-nested-router",
+    "latest": "5.0.0",
+    "modules": [
+      "Router",
+      "Router.Types",
+      "URL.Matcher",
+      "URL.Route",
+      "URL.Segments"
+    ]
+  },
+  {
+    "name": "aramiscd/elm-basscss",
+    "latest": "1.0.1",
+    "modules": [
+      "Bass"
+    ]
+  },
+  {
+    "name": "aristidesstaffieri/elm-poisson",
+    "latest": "1.0.0",
+    "modules": [
+      "Poisson"
+    ]
+  },
+  {
+    "name": "arnau/elm-feather",
+    "latest": "1.0.0",
+    "modules": [
+      "Feather"
+    ]
+  },
+  {
+    "name": "arowM/elm-chat-scenario",
+    "latest": "1.1.0",
+    "modules": [
+      "Scenario.Simple",
+      "Scenario"
+    ]
+  },
+  {
+    "name": "arowM/elm-check-button",
+    "latest": "1.0.0",
+    "modules": [
+      "CheckButtons",
+      "CheckButton",
+      "CheckButtons.Css",
+      "CheckButton.Css"
+    ]
+  },
+  {
+    "name": "arowM/elm-default",
+    "latest": "1.0.0",
+    "modules": [
+      "Default"
+    ]
+  },
+  {
+    "name": "arowM/elm-istring",
+    "latest": "1.0.3",
+    "modules": [
+      "IString"
+    ]
+  },
+  {
+    "name": "arowM/elm-monoid",
+    "latest": "1.1.0",
+    "modules": [
+      "Monoid"
+    ]
+  },
+  {
+    "name": "arowM/elm-raw-html",
+    "latest": "1.0.1",
+    "modules": [
+      "RawHtml"
+    ]
+  },
+  {
+    "name": "arowM/elm-time-machine",
+    "latest": "1.0.1",
+    "modules": [
+      "TimeMachine"
+    ]
+  },
+  {
+    "name": "arturopala/elm-monocle",
+    "latest": "1.5.0",
+    "modules": [
+      "Monocle.Common",
+      "Monocle.Optional",
+      "Monocle.Prism",
+      "Monocle.Lens",
+      "Monocle.Iso"
+    ]
+  },
+  {
+    "name": "ashelab/elm-cqrs",
+    "latest": "1.0.2",
+    "modules": [
+      "CQRS"
+    ]
+  },
+  {
+    "name": "astynax/elm-state",
+    "latest": "1.0.1",
+    "modules": [
+      "State"
+    ]
+  },
+  {
+    "name": "astynax/tea-combine",
+    "latest": "1.1.0",
+    "modules": [
+      "TeaCombine.Pure.Pair",
+      "TeaCombine.Pure.Many",
+      "TeaCombine.Effectful.Pair",
+      "TeaCombine.Effectful.Many",
+      "TeaCombine.Pure",
+      "TeaCombine",
+      "TeaCombine.Effectful"
+    ]
+  },
+  {
+    "name": "athanclark/elm-debouncer",
+    "latest": "3.0.2",
+    "modules": [
+      "Debounce"
+    ]
+  },
+  {
+    "name": "athanclark/elm-discrete-transition",
+    "latest": "2.0.1",
+    "modules": [
+      "Transition.Discrete"
+    ]
+  },
+  {
+    "name": "athanclark/elm-duration",
+    "latest": "5.0.1",
+    "modules": [
+      "Duration"
+    ]
+  },
+  {
+    "name": "athanclark/elm-every",
+    "latest": "7.0.1",
+    "modules": [
+      "Every"
+    ]
+  },
+  {
+    "name": "athanclark/elm-param-parsing-2",
+    "latest": "1.0.0",
+    "modules": [
+      "Query"
+    ]
+  },
+  {
+    "name": "athanclark/elm-threading",
+    "latest": "2.0.0",
+    "modules": [
+      "Threading"
+    ]
+  },
+  {
+    "name": "avh4/elm-beautiful-example",
+    "latest": "1.1.1",
+    "modules": [
+      "BeautifulExample"
+    ]
+  },
+  {
+    "name": "avh4/elm-debug-controls",
+    "latest": "1.0.1",
+    "modules": [
+      "Debug.Control"
+    ]
+  },
+  {
+    "name": "avh4/elm-diff",
+    "latest": "1.0.7",
+    "modules": [
+      "Diff"
+    ]
+  },
+  {
+    "name": "avh4/elm-dropbox",
+    "latest": "1.2.0",
+    "modules": [
+      "Dropbox"
+    ]
+  },
+  {
+    "name": "avh4/elm-favicon",
+    "latest": "1.0.0",
+    "modules": [
+      "Favicon"
+    ]
+  },
+  {
+    "name": "avh4/elm-fifo",
+    "latest": "1.0.3",
+    "modules": [
+      "Fifo"
+    ]
+  },
+  {
+    "name": "avh4/elm-meshes",
+    "latest": "1.0.1",
+    "modules": [
+      "Meshes"
+    ]
+  },
+  {
+    "name": "avh4/elm-spec",
+    "latest": "2.0.0",
+    "modules": [
+      "Spec.Runner.Console",
+      "Spec.Assertions",
+      "Spec"
+    ]
+  },
+  {
+    "name": "avh4/elm-table",
+    "latest": "1.0.0",
+    "modules": [
+      "Table"
+    ]
+  },
+  {
+    "name": "avh4/elm-testable",
+    "latest": "3.0.0",
+    "modules": [
+      "Testable.TestContext",
+      "Testable",
+      "Testable.Http",
+      "Testable.Cmd",
+      "Testable.Task"
+    ]
+  },
+  {
+    "name": "avh4/elm-transducers",
+    "latest": "3.0.1",
+    "modules": [
+      "Transducer.Debug",
+      "Transducer"
+    ]
+  },
+  {
+    "name": "avh4/elm-typed-styles",
+    "latest": "2.0.0",
+    "modules": [
+      "TypedStyles"
+    ]
+  },
+  {
+    "name": "avh4-experimental/elm-compose-programs",
+    "latest": "1.0.0",
+    "modules": [
+      "ProgramRecord"
+    ]
+  },
+  {
+    "name": "avh4-experimental/elm-debug-controls-without-datepicker",
+    "latest": "1.0.1",
+    "modules": [
+      "Debug.Control"
+    ]
+  },
+  {
+    "name": "avh4-experimental/elm-layout",
+    "latest": "2.1.0",
+    "modules": [
+      "Layout.StartApp",
+      "Layout.Circular",
+      "Layout"
+    ]
+  },
+  {
+    "name": "b52/elm-semantic-ui",
+    "latest": "1.1.0",
+    "modules": [
+      "SemanticUi"
+    ]
+  },
+  {
+    "name": "bakkemo/elm-collision",
+    "latest": "2.0.2",
+    "modules": [
+      "Collision"
+    ]
+  },
+  {
+    "name": "bardt/elm-rosetree",
+    "latest": "1.0.1",
+    "modules": [
+      "RoseTree"
+    ]
+  },
+  {
+    "name": "bartavelle/json-helpers",
+    "latest": "1.3.0",
+    "modules": [
+      "Json.Helpers"
+    ]
+  },
+  {
+    "name": "base-dev/elm-graphql-module",
+    "latest": "1.0.0",
+    "modules": [
+      "GraphQL"
+    ]
+  },
+  {
+    "name": "basti1302/elm-human-readable-filesize",
+    "latest": "1.1.0",
+    "modules": [
+      "Filesize"
+    ]
+  },
+  {
+    "name": "basti1302/elm-non-empty-array",
+    "latest": "1.4.0",
+    "modules": [
+      "Array.NonEmpty"
+    ]
+  },
+  {
+    "name": "bcardiff/elm-debounce",
+    "latest": "1.1.3",
+    "modules": [
+      "Debounce"
+    ]
+  },
+  {
+    "name": "bcardiff/elm-infscroll",
+    "latest": "1.0.0",
+    "modules": [
+      "InfScroll"
+    ]
+  },
+  {
+    "name": "benansell/elm-geometric-transformation",
+    "latest": "1.0.3",
+    "modules": [
+      "Transformer2D"
+    ]
+  },
+  {
+    "name": "benansell/lobo-elm-test-extra",
+    "latest": "2.0.0",
+    "modules": [
+      "ElmTest.Extra",
+      "ElmTest.Runner"
+    ]
+  },
+  {
+    "name": "bendyworks/elm-action-cable",
+    "latest": "1.0.0",
+    "modules": [
+      "ActionCable",
+      "ActionCable.Msg",
+      "ActionCable.Subscription",
+      "ActionCable.Identifier"
+    ]
+  },
+  {
+    "name": "benthepoet/elm-purecss",
+    "latest": "1.0.1",
+    "modules": [
+      "Pure"
+    ]
+  },
+  {
+    "name": "besuikerd/elm-dictset",
+    "latest": "1.0.1",
+    "modules": [
+      "IntIdSet",
+      "DictSet",
+      "IdSet"
+    ]
+  },
+  {
+    "name": "billperegoy/elm-form-validations",
+    "latest": "1.0.2",
+    "modules": [
+      "Forms"
+    ]
+  },
+  {
+    "name": "billstclair/elm-bitwise-infix",
+    "latest": "1.0.2",
+    "modules": [
+      "BitwiseInfix"
+    ]
+  },
+  {
+    "name": "billstclair/elm-chat",
+    "latest": "1.2.1",
+    "modules": [
+      "ElmChat"
+    ]
+  },
+  {
+    "name": "billstclair/elm-crypto-aes",
+    "latest": "1.0.5",
+    "modules": [
+      "Crypto.AES"
+    ]
+  },
+  {
+    "name": "billstclair/elm-crypto-string",
+    "latest": "2.1.0",
+    "modules": [
+      "Crypto.Strings",
+      "Crypto.Strings.Crypt",
+      "Crypto.Strings.Encoding",
+      "Crypto.Strings.Chaining",
+      "Crypto.Strings.BlockAes",
+      "Crypto.Strings.Types"
+    ]
+  },
+  {
+    "name": "billstclair/elm-dev-random",
+    "latest": "1.1.4",
+    "modules": [
+      "DevRandom"
+    ]
+  },
+  {
+    "name": "billstclair/elm-digital-ocean",
+    "latest": "1.0.0",
+    "modules": [
+      "DigitalOcean"
+    ]
+  },
+  {
+    "name": "billstclair/elm-dynamodb",
+    "latest": "1.0.2",
+    "modules": [
+      "DynamoBackend"
+    ]
+  },
+  {
+    "name": "billstclair/elm-html-template",
+    "latest": "3.1.1",
+    "modules": [
+      "HtmlTemplate.PlayDiv",
+      "HtmlTemplate",
+      "HtmlTemplate.Markdown",
+      "HtmlTemplate.Utility",
+      "HtmlTemplate.EncodeDecode",
+      "HtmlTemplate.Types"
+    ]
+  },
+  {
+    "name": "billstclair/elm-oauth-middleware",
+    "latest": "1.0.2",
+    "modules": [
+      "OAuthMiddleware",
+      "OAuthMiddleware.EncodeDecode"
+    ]
+  },
+  {
+    "name": "billstclair/elm-s3",
+    "latest": "1.0.0",
+    "modules": [
+      "S3",
+      "S3.Types"
+    ]
+  },
+  {
+    "name": "billstclair/elm-sha256",
+    "latest": "1.0.7",
+    "modules": [
+      "Sha256"
+    ]
+  },
+  {
+    "name": "billstclair/elm-simple-xml-to-json",
+    "latest": "1.1.1",
+    "modules": [
+      "Xml.SimpleXmlToJson"
+    ]
+  },
+  {
+    "name": "billstclair/elm-versioned-json",
+    "latest": "1.0.2",
+    "modules": [
+      "VersionedJson"
+    ]
+  },
+  {
+    "name": "billstclair/elm-xml-extra",
+    "latest": "2.1.0",
+    "modules": [
+      "Xml.Extra"
+    ]
+  },
+  {
+    "name": "bitrage-io/elm-ratequeue",
+    "latest": "1.0.0",
+    "modules": [
+      "RateQueue"
+    ]
+  },
+  {
+    "name": "blacksheepmails/elm-set",
+    "latest": "1.0.2",
+    "modules": [
+      "AllSet"
+    ]
+  },
+  {
+    "name": "bloom/aviators",
+    "latest": "3.1.0",
+    "modules": [
+      "Aviators"
+    ]
+  },
+  {
+    "name": "bloom/elm-return",
+    "latest": "1.0.1",
+    "modules": [
+      "Return",
+      "Respond"
+    ]
+  },
+  {
+    "name": "bloom/remotedata",
+    "latest": "1.0.1",
+    "modules": [
+      "RemoteData"
+    ]
+  },
+  {
+    "name": "brainrape/elm-ast",
+    "latest": "1.0.1",
+    "modules": [
+      "Ast",
+      "Ast.Statement",
+      "Ast.Expression",
+      "Ast.BinOp"
+    ]
+  },
+  {
+    "name": "brainrape/elm-bidict",
+    "latest": "1.0.0",
+    "modules": [
+      "EveryBiDict",
+      "BiDict",
+      "EverySetDict",
+      "SetDict"
+    ]
+  },
+  {
+    "name": "brainrape/flex-html",
+    "latest": "1.0.3",
+    "modules": [
+      "Flex"
+    ]
+  },
+  {
+    "name": "brenden/elm-tree-diagram",
+    "latest": "3.0.0",
+    "modules": [
+      "TreeDiagram.Svg",
+      "TreeDiagram.Canvas",
+      "TreeDiagram"
+    ]
+  },
+  {
+    "name": "bruz/elm-simple-form-infix",
+    "latest": "1.0.1",
+    "modules": [
+      "Form.Infix"
+    ]
+  },
+  {
+    "name": "burabure/elm-collision",
+    "latest": "2.0.3",
+    "modules": [
+      "Collision2D"
+    ]
+  },
+  {
+    "name": "cacay/elm-void",
+    "latest": "1.0.0",
+    "modules": [
+      "Void"
+    ]
+  },
+  {
+    "name": "cakenggt/elm-net",
+    "latest": "1.0.0",
+    "modules": [
+      "Net"
+    ]
+  },
+  {
+    "name": "camjc/elm-chart",
+    "latest": "2.0.2",
+    "modules": [
+      "Chart"
+    ]
+  },
+  {
+    "name": "camjc/elm-quiz",
+    "latest": "1.1.1",
+    "modules": [
+      "Quiz"
+    ]
+  },
+  {
+    "name": "canadaduane/elm-hccb",
+    "latest": "1.0.2",
+    "modules": [
+      "Hccb",
+      "Hccb.Specification"
+    ]
+  },
+  {
+    "name": "canadaduane/typed-svg",
+    "latest": "2.1.1",
+    "modules": [
+      "TypedSvg.Extra.InPx",
+      "TypedSvg.Attributes.InPx",
+      "TypedSvg.Attributes.InEm",
+      "TypedSvg.Filters.Attributes",
+      "TypedSvg.Attributes",
+      "TypedSvg",
+      "TypedSvg.Events",
+      "TypedSvg.Filters",
+      "TypedSvg.Types",
+      "TypedSvg.Core"
+    ]
+  },
+  {
+    "name": "capitalist/elm-octicons",
+    "latest": "2.0.0",
+    "modules": [
+      "Octicons"
+    ]
+  },
+  {
+    "name": "careport/elm-avl",
+    "latest": "1.1.0",
+    "modules": [
+      "Avl.Dict",
+      "Avl.Set",
+      "Avl"
+    ]
+  },
+  {
+    "name": "carwow/elm-core",
+    "latest": "4.1.3",
+    "modules": [
+      "Core.MakeModelMenu",
+      "Core.NotificationDrawer",
+      "Core.Data.Make",
+      "Core.Data.Model",
+      "Core.NotificationMenu"
+    ]
+  },
+  {
+    "name": "carwow/elm-slider",
+    "latest": "2.0.1",
+    "modules": [
+      "DoubleSlider",
+      "SingleSlider"
+    ]
+  },
+  {
+    "name": "carwow/elm-theme",
+    "latest": "5.0.0",
+    "modules": [
+      "CarwowTheme.Filters",
+      "CarwowTheme.Modal",
+      "CarwowTheme.Drawer",
+      "CarwowTheme.Pagination",
+      "CarwowTheme.Inputs",
+      "CarwowTheme.Icons",
+      "CarwowTheme.Tabs"
+    ]
+  },
+  {
+    "name": "ccapndave/elm-effects-extra",
+    "latest": "1.0.2",
+    "modules": [
+      "Effects.Extra.Infix",
+      "Effects.Extra"
+    ]
+  },
+  {
+    "name": "ccapndave/elm-flat-map",
+    "latest": "1.1.0",
+    "modules": [
+      "List.FlatMap",
+      "Maybe.FlatMap"
+    ]
+  },
+  {
+    "name": "ccapndave/elm-list-map",
+    "latest": "1.0.0",
+    "modules": [
+      "ListMap"
+    ]
+  },
+  {
+    "name": "ccapndave/elm-reflect",
+    "latest": "1.0.0",
+    "modules": [
+      "Reflect"
+    ]
+  },
+  {
+    "name": "ccapndave/elm-translator",
+    "latest": "1.1.0",
+    "modules": [
+      "Translator",
+      "Translations"
+    ]
+  },
+  {
+    "name": "ccapndave/elm-update-extra",
+    "latest": "3.0.0",
+    "modules": [
+      "Update.Extra.Infix",
+      "Update.Extra"
+    ]
+  },
+  {
+    "name": "ccapndave/focus",
+    "latest": "2.1.0",
+    "modules": [
+      "Focus"
+    ]
+  },
+  {
+    "name": "chendrix/elm-matrix",
+    "latest": "3.1.3",
+    "modules": [
+      "Matrix.Random",
+      "Matrix"
+    ]
+  },
+  {
+    "name": "chendrix/elm-numpad",
+    "latest": "1.0.1",
+    "modules": [
+      "Numpad"
+    ]
+  },
+  {
+    "name": "chrilves/elm-io",
+    "latest": "1.2.1",
+    "modules": [
+      "IO.Infix",
+      "Select.Infix",
+      "IO",
+      "CmdM.Infix",
+      "Select",
+      "Lens.Infix",
+      "CmdM",
+      "Lens"
+    ]
+  },
+  {
+    "name": "chrisalmeida/graphqelm",
+    "latest": "1.0.1",
+    "modules": [
+      "GraphQElm"
+    ]
+  },
+  {
+    "name": "chrisbuttery/elm-greeting",
+    "latest": "1.0.1",
+    "modules": [
+      "Greeting"
+    ]
+  },
+  {
+    "name": "chrisbuttery/elm-parting",
+    "latest": "1.0.1",
+    "modules": [
+      "Parting"
+    ]
+  },
+  {
+    "name": "chrisbuttery/elm-scroll-progress",
+    "latest": "1.0.3",
+    "modules": [
+      "ScrollProgress"
+    ]
+  },
+  {
+    "name": "chrisbuttery/is-online",
+    "latest": "1.0.2",
+    "modules": [
+      "IsOnline"
+    ]
+  },
+  {
+    "name": "chrisbuttery/reading-time",
+    "latest": "2.0.0",
+    "modules": [
+      "ReadingTime"
+    ]
+  },
+  {
+    "name": "circuithub/elm-array-extra",
+    "latest": "1.1.2",
+    "modules": [
+      "Array.Extra"
+    ]
+  },
+  {
+    "name": "circuithub/elm-array-focus",
+    "latest": "1.0.2",
+    "modules": [
+      "Array.Focus"
+    ]
+  },
+  {
+    "name": "circuithub/elm-bootstrap-html",
+    "latest": "7.0.0",
+    "modules": [
+      "Bootstrap.Html",
+      "Bootstrap.Html.Internal"
+    ]
+  },
+  {
+    "name": "circuithub/elm-filepickerio-api-types",
+    "latest": "1.0.0",
+    "modules": [
+      "FilepickerIO.Api.Type"
+    ]
+  },
+  {
+    "name": "circuithub/elm-function-extra",
+    "latest": "1.2.2",
+    "modules": [
+      "Function.Extra"
+    ]
+  },
+  {
+    "name": "circuithub/elm-graphics-shorthand",
+    "latest": "1.0.2",
+    "modules": [
+      "Graphics.Shorthand"
+    ]
+  },
+  {
+    "name": "circuithub/elm-html-extra",
+    "latest": "1.5.2",
+    "modules": [
+      "Html.Events.Extra",
+      "Html.Attributes.Extra"
+    ]
+  },
+  {
+    "name": "circuithub/elm-html-shorthand",
+    "latest": "11.0.0",
+    "modules": [
+      "Html.Shorthand",
+      "Html.Shorthand.Internal",
+      "Html.Shorthand.Event",
+      "Html.Shorthand.Type"
+    ]
+  },
+  {
+    "name": "circuithub/elm-json-extra",
+    "latest": "2.2.1",
+    "modules": [
+      "Json.Decode.Extra"
+    ]
+  },
+  {
+    "name": "circuithub/elm-list-extra",
+    "latest": "3.10.0",
+    "modules": [
+      "List.Extra"
+    ]
+  },
+  {
+    "name": "circuithub/elm-list-signal",
+    "latest": "2.0.0",
+    "modules": [
+      "List.Signal"
+    ]
+  },
+  {
+    "name": "circuithub/elm-list-split",
+    "latest": "1.0.1",
+    "modules": [
+      "List.Split"
+    ]
+  },
+  {
+    "name": "circuithub/elm-maybe-extra",
+    "latest": "1.6.0",
+    "modules": [
+      "Maybe.Extra"
+    ]
+  },
+  {
+    "name": "circuithub/elm-number-format",
+    "latest": "2.0.0",
+    "modules": [
+      "Number.Format"
+    ]
+  },
+  {
+    "name": "circuithub/elm-result-extra",
+    "latest": "1.4.0",
+    "modules": [
+      "Result.Extra"
+    ]
+  },
+  {
+    "name": "circuithub/elm-string-split",
+    "latest": "1.0.3",
+    "modules": [
+      "String.Split"
+    ]
+  },
+  {
+    "name": "cjduncana/three-words",
+    "latest": "1.0.0",
+    "modules": [
+      "ThreeWords"
+    ]
+  },
+  {
+    "name": "ckoster22/elm-genetic",
+    "latest": "1.0.1",
+    "modules": [
+      "Genetic"
+    ]
+  },
+  {
+    "name": "cobalamin/elm-json-extra",
+    "latest": "2.0.1",
+    "modules": [
+      "Json.Decode.Extra"
+    ]
+  },
+  {
+    "name": "cobalamin/history-tree",
+    "latest": "2.1.0",
+    "modules": [
+      "HistoryTree"
+    ]
+  },
+  {
+    "name": "cobalamin/safe-int",
+    "latest": "1.0.0",
+    "modules": [
+      "SafeInt"
+    ]
+  },
+  {
+    "name": "comsysto/harvest-api",
+    "latest": "1.0.1",
+    "modules": [
+      "Harvest.Auth",
+      "Harvest.UserAPI",
+      "Harvest.TimesheetAPI",
+      "Harvest.TaskAPI",
+      "Harvest.WhoAmI",
+      "Harvest.ProjectAPI",
+      "Harvest.InvoiceAPI",
+      "Harvest.ClientAPI",
+      "Harvest.ReportingAPI"
+    ]
+  },
+  {
+    "name": "coreytrampe/elm-vendor",
+    "latest": "2.0.3",
+    "modules": [
+      "Vendor"
+    ]
+  },
+  {
+    "name": "cotterjd/elm-mdl",
+    "latest": "1.0.4",
+    "modules": [
+      "Material",
+      "Material.List",
+      "Material.Textfield",
+      "Material.Menu",
+      "Material.Layout",
+      "Material.Chip",
+      "Material.Button",
+      "Material.Toggles",
+      "Material.Tabs",
+      "Material.Scheme",
+      "Material.Typography",
+      "Material.Tooltip",
+      "Material.Table",
+      "Material.Spinner",
+      "Material.Badge",
+      "Material.Slider",
+      "Material.Grid",
+      "Material.Icon",
+      "Material.Footer",
+      "Material.Elevation",
+      "Material.Dialog",
+      "Material.Progress",
+      "Material.Color",
+      "Material.Card",
+      "Material.Options",
+      "Material.Snackbar",
+      "Material.Helpers"
+    ]
+  },
+  {
+    "name": "crazymykl/ex-em-elm",
+    "latest": "1.4.0",
+    "modules": [
+      "ExEmElm.Decoder",
+      "ExEmElm.Parser",
+      "ExEmElm.Traverse",
+      "ExEmElm.Builder",
+      "ExEmElm.Encoder"
+    ]
+  },
+  {
+    "name": "csicar/elm-mathui",
+    "latest": "2.0.0",
+    "modules": [
+      "MathUi"
+    ]
+  },
+  {
+    "name": "cuducos/elm-format-number",
+    "latest": "5.0.2",
+    "modules": [
+      "FormatNumber",
+      "FormatNumber.Locales"
+    ]
+  },
+  {
+    "name": "cultureamp/elm-css-modules-loader",
+    "latest": "2.0.2",
+    "modules": [
+      "CssModules"
+    ]
+  },
+  {
+    "name": "cutsea110/elm-temperature",
+    "latest": "1.0.1",
+    "modules": [
+      "Temperature"
+    ]
+  },
+  {
+    "name": "dailydrip/elm-emoji",
+    "latest": "1.0.1",
+    "modules": [
+      "Emoji"
+    ]
+  },
+  {
+    "name": "dalen/elm-charts",
+    "latest": "1.0.2",
+    "modules": [
+      "Chart"
+    ]
+  },
+  {
+    "name": "damienklinnert/elm-hue",
+    "latest": "3.1.1",
+    "modules": [
+      "Hue",
+      "Hue.Errors"
+    ]
+  },
+  {
+    "name": "damienklinnert/elm-spinner",
+    "latest": "3.0.1",
+    "modules": [
+      "Spinner"
+    ]
+  },
+  {
+    "name": "damukles/elm-dialog",
+    "latest": "1.0.4",
+    "modules": [
+      "Dialog"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-bulma-classes",
+    "latest": "2.0.14",
+    "modules": [
+      "BulmaClasses"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-color-math",
+    "latest": "1.0.4",
+    "modules": [
+      "ColorMath"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-css-basics",
+    "latest": "3.1.0",
+    "modules": [
+      "CssBasics.Properties",
+      "CssBasics"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-css-frameworks",
+    "latest": "4.0.2",
+    "modules": [
+      "CssFrameworks.Skeleton",
+      "CssFrameworks.BootstrapThemes.Default",
+      "CssFrameworks",
+      "CssFrameworks.Normalize",
+      "CssFrameworks.Pure",
+      "CssFrameworks.Milligram",
+      "CssFrameworks.Minireset",
+      "CssFrameworks.Foundation",
+      "CssFrameworks.Materialize",
+      "CssFrameworks.Bulma",
+      "CssFrameworks.FontAwesome",
+      "CssFrameworks.BootstrapThemes.United",
+      "CssFrameworks.BootstrapThemes.Yeti",
+      "CssFrameworks.BootstrapThemes.Spacelab",
+      "CssFrameworks.BootstrapThemes.Superhero",
+      "CssFrameworks.BootstrapThemes.Simplex",
+      "CssFrameworks.BootstrapThemes.Slate",
+      "CssFrameworks.BootstrapThemes.Readable",
+      "CssFrameworks.BootstrapThemes.Sandstone",
+      "CssFrameworks.BootstrapThemes.Lumen",
+      "CssFrameworks.BootstrapThemes.Paper",
+      "CssFrameworks.BootstrapThemes.Flatly",
+      "CssFrameworks.BootstrapThemes.Journal",
+      "CssFrameworks.BootstrapThemes.Cyborg",
+      "CssFrameworks.BootstrapThemes.Darkly",
+      "CssFrameworks.BootstrapThemes.Cerulean",
+      "CssFrameworks.BootstrapThemes.Cosmo",
+      "CssFrameworks.Animate",
+      "CssFrameworks.Bootstrap"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-css-math",
+    "latest": "2.0.0",
+    "modules": [
+      "CssMath"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-font-import",
+    "latest": "1.0.2",
+    "modules": [
+      "FontImport"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-form-capture",
+    "latest": "1.0.4",
+    "modules": [
+      "FormCapture.Readers",
+      "FormCapture"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-html-tree",
+    "latest": "4.0.0",
+    "modules": [
+      "HtmlTree.Modify",
+      "HtmlTree",
+      "HtmlTree.Tags",
+      "HtmlTree.Attributes"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-input-validation",
+    "latest": "1.0.2",
+    "modules": [
+      "InputValidation"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-modular-design",
+    "latest": "2.0.3",
+    "modules": [
+      "ModularDesign.Stylesheet",
+      "ModularDesign.FormInput",
+      "ModularDesign",
+      "ModularDesign.Operators",
+      "ModularDesign.Helpers"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-semantic-content",
+    "latest": "1.4.1",
+    "modules": [
+      "Content.Graphic",
+      "Content.Source",
+      "Content.Text",
+      "Content.Media",
+      "Content.Icon",
+      "Content"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-semantic-dom",
+    "latest": "3.0.0",
+    "modules": [
+      "Dom.Keyed",
+      "Dom.Svg",
+      "Dom.Lazy",
+      "Dom.Text",
+      "Dom.Style",
+      "Dom.Program",
+      "Dom.Node",
+      "Dom.Class",
+      "Dom.Element",
+      "Dom.Event",
+      "Dom.Property",
+      "Dom.Attribute",
+      "Dom"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-semantic-effects",
+    "latest": "1.0.0",
+    "modules": [
+      "Effect.Focus",
+      "Effect.Scroll",
+      "Effect.Url",
+      "Effect",
+      "Effect.Page",
+      "Effect.Routing"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-stylesheet",
+    "latest": "7.1.1",
+    "modules": [
+      "Stylesheet.Shorthand",
+      "Stylesheet.FontImport",
+      "Stylesheet.Combinators",
+      "Stylesheet"
+    ]
+  },
+  {
+    "name": "danielnarey/elm-toolkit",
+    "latest": "6.1.0",
+    "modules": [
+      "Toolkit.List",
+      "Toolkit.Tuple4",
+      "Toolkit.Compare",
+      "Toolkit.Tuple3",
+      "Toolkit.Tuple.Operators",
+      "Toolkit.Tuple",
+      "Toolkit.String",
+      "Toolkit.Result.Operators",
+      "Toolkit.Result",
+      "Toolkit.Maybe.Operators",
+      "Toolkit.Maybe",
+      "Toolkit.Function.Operators",
+      "Toolkit.List.Operators",
+      "Toolkit.Float",
+      "Toolkit.Function"
+    ]
+  },
+  {
+    "name": "danielspaniol/elm-tuple-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "Tuple2.Extra",
+      "Tuple2.Infix"
+    ]
+  },
+  {
+    "name": "danmarcab/elm-retroactive",
+    "latest": "1.0.0",
+    "modules": [
+      "Retroactive"
+    ]
+  },
+  {
+    "name": "danpalmer/elm-param-parsing",
+    "latest": "1.0.0",
+    "modules": [
+      "UrlParameterParser"
+    ]
+  },
+  {
+    "name": "danstn/elm-postgrest",
+    "latest": "1.0.0",
+    "modules": [
+      "PostgRest"
+    ]
+  },
+  {
+    "name": "danyx23/elm-dropzone",
+    "latest": "2.0.1",
+    "modules": [
+      "DropZone"
+    ]
+  },
+  {
+    "name": "danyx23/elm-mimetype",
+    "latest": "4.0.0",
+    "modules": [
+      "MimeType"
+    ]
+  },
+  {
+    "name": "danyx23/elm-uuid",
+    "latest": "2.1.1",
+    "modules": [
+      "Uuid",
+      "Uuid.Barebones"
+    ]
+  },
+  {
+    "name": "dasch/elm-basics-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "Basics.Extra"
+    ]
+  },
+  {
+    "name": "davidpelaez/elm-scenic",
+    "latest": "1.0.1",
+    "modules": [
+      "Scenic"
+    ]
+  },
+  {
+    "name": "dawehner/elm-colorbrewer",
+    "latest": "2.1.0",
+    "modules": [
+      "Colorbrewer.SequentialMH",
+      "Colorbrewer.Qualitative",
+      "Colorbrewer.Diverging",
+      "Colorbrewer.SequentialSH"
+    ]
+  },
+  {
+    "name": "deadfoxygrandpa/elm-architecture",
+    "latest": "1.0.0",
+    "modules": [
+      "Architecture.Simple",
+      "Architecture"
+    ]
+  },
+  {
+    "name": "deadfoxygrandpa/elm-test",
+    "latest": "3.1.1",
+    "modules": [
+      "ElmTest"
+    ]
+  },
+  {
+    "name": "debois/elm-dom",
+    "latest": "1.2.3",
+    "modules": [
+      "DOM"
+    ]
+  },
+  {
+    "name": "debois/elm-mdl",
+    "latest": "8.1.0",
+    "modules": [
+      "Material",
+      "Material.Tabs",
+      "Material.Toggles",
+      "Material.Menu",
+      "Material.Layout",
+      "Material.Button",
+      "Material.Textfield",
+      "Material.List",
+      "Material.Chip",
+      "Material.Scheme",
+      "Material.Progress",
+      "Material.Typography",
+      "Material.Table",
+      "Material.Slider",
+      "Material.Tooltip",
+      "Material.Dialog",
+      "Material.Icon",
+      "Material.Spinner",
+      "Material.Grid",
+      "Material.Footer",
+      "Material.Elevation",
+      "Material.Color",
+      "Material.Card",
+      "Material.Badge",
+      "Material.Options",
+      "Material.Snackbar",
+      "Material.Helpers"
+    ]
+  },
+  {
+    "name": "debois/elm-parts",
+    "latest": "6.0.0",
+    "modules": [
+      "Parts"
+    ]
+  },
+  {
+    "name": "derekdreery/elm-die-faces",
+    "latest": "1.0.0",
+    "modules": [
+      "DieFaces"
+    ]
+  },
+  {
+    "name": "dhruvin2910/elm-css",
+    "latest": "3.0.0",
+    "modules": [
+      "Css"
+    ]
+  },
+  {
+    "name": "dillonkearns/graphqelm",
+    "latest": "3.0.0",
+    "modules": [
+      "Graphqelm.Http",
+      "Graphqelm.Builder.Object",
+      "Graphqelm.Document",
+      "Graphqelm.SelectionSet",
+      "Graphqelm.FieldDecoder",
+      "Graphqelm.Builder.Argument",
+      "Graphqelm.Http.GraphqlError",
+      "Graphqelm.Encode",
+      "Graphqelm",
+      "Graphqelm.OptionalArgument"
+    ]
+  },
+  {
+    "name": "dillonkearns/graphqelm-demo",
+    "latest": "3.0.0",
+    "modules": [
+      "Swapi.Object.Human",
+      "Swapi.Object.Character",
+      "Swapi.Query",
+      "Swapi.Object.Droid",
+      "Swapi.Enum.Episode",
+      "Swapi.Object"
+    ]
+  },
+  {
+    "name": "dividat/elm-semver",
+    "latest": "1.0.0",
+    "modules": [
+      "Semver"
+    ]
+  },
+  {
+    "name": "doodledood/elm-split-pane",
+    "latest": "5.0.0",
+    "modules": [
+      "SplitPane"
+    ]
+  },
+  {
+    "name": "dosarf/elm-guarded-input",
+    "latest": "1.0.0",
+    "modules": [
+      "Guarded.Input.Parsers",
+      "Guarded.Input.CssUtil",
+      "Guarded.Input"
+    ]
+  },
+  {
+    "name": "drathier/elm-graph",
+    "latest": "3.1.0",
+    "modules": [
+      "Graph.Random",
+      "Graph.Pair",
+      "Graph"
+    ]
+  },
+  {
+    "name": "drathier/elm-test-graph",
+    "latest": "1.0.3",
+    "modules": [
+      "Test.Graph"
+    ]
+  },
+  {
+    "name": "drojas/elm-http-parser",
+    "latest": "2.0.0",
+    "modules": [
+      "Http.Parser"
+    ]
+  },
+  {
+    "name": "drojas/elm-task-middleware",
+    "latest": "3.0.0",
+    "modules": [
+      "Task.Middleware"
+    ]
+  },
+  {
+    "name": "dtraft/elm-classnames",
+    "latest": "1.0.2",
+    "modules": [
+      "ClassNames"
+    ]
+  },
+  {
+    "name": "dustinfarris/elm-autocomplete",
+    "latest": "1.0.1",
+    "modules": [
+      "Autocomplete"
+    ]
+  },
+  {
+    "name": "dustinspecker/capitalize-word",
+    "latest": "1.0.0",
+    "modules": [
+      "CapitalizeWord"
+    ]
+  },
+  {
+    "name": "dustinspecker/dict-key-values",
+    "latest": "1.0.0",
+    "modules": [
+      "DictKeyValues"
+    ]
+  },
+  {
+    "name": "dustinspecker/is-fibonacci-number",
+    "latest": "1.0.0",
+    "modules": [
+      "IsFibonacciNumber"
+    ]
+  },
+  {
+    "name": "dustinspecker/last",
+    "latest": "1.0.1",
+    "modules": [
+      "Last"
+    ]
+  },
+  {
+    "name": "dustinspecker/list-join-conjunction",
+    "latest": "1.0.0",
+    "modules": [
+      "ListJoinConjunction"
+    ]
+  },
+  {
+    "name": "dustinspecker/us-states",
+    "latest": "1.0.1",
+    "modules": [
+      "UsStates"
+    ]
+  },
+  {
+    "name": "dwyl/elm-input-tables",
+    "latest": "2.0.0",
+    "modules": [
+      "InputTable.View",
+      "InputTable.Update",
+      "InputTable.Messages",
+      "InputTable.Model"
+    ]
+  },
+  {
+    "name": "edvail/elm-polymer",
+    "latest": "3.0.0",
+    "modules": [
+      "Polymer.Firebase",
+      "Polymer.Attributes",
+      "Polymer.Paper",
+      "Polymer.Events",
+      "Polymer.App",
+      "Polymer.Iron"
+    ]
+  },
+  {
+    "name": "eeue56/elm-all-dict",
+    "latest": "2.0.1",
+    "modules": [
+      "AllDict",
+      "EveryDict"
+    ]
+  },
+  {
+    "name": "eeue56/elm-alternative-json",
+    "latest": "1.0.0",
+    "modules": [
+      "Json"
+    ]
+  },
+  {
+    "name": "eeue56/elm-debug-json-view",
+    "latest": "1.0.0",
+    "modules": [
+      "Debug.Json.View"
+    ]
+  },
+  {
+    "name": "eeue56/elm-default-dict",
+    "latest": "2.0.2",
+    "modules": [
+      "DefaultDict"
+    ]
+  },
+  {
+    "name": "eeue56/elm-flat-matrix",
+    "latest": "3.0.2",
+    "modules": [
+      "Matrix.Extra",
+      "Matrix"
+    ]
+  },
+  {
+    "name": "eeue56/elm-html-in-elm",
+    "latest": "5.2.0",
+    "modules": [
+      "ElmHtml.ToHtml",
+      "ElmHtml.ToString",
+      "ElmHtml.ToElmString",
+      "ElmHtml.InternalTypes",
+      "ElmHtml.Constants",
+      "ElmHtml.Markdown"
+    ]
+  },
+  {
+    "name": "eeue56/elm-html-query",
+    "latest": "3.0.0",
+    "modules": [
+      "ElmHtml.Query"
+    ]
+  },
+  {
+    "name": "eeue56/elm-html-test",
+    "latest": "5.1.2",
+    "modules": [
+      "Test.Html.Event",
+      "Test.Html.Query",
+      "Test.Html.Selector"
+    ]
+  },
+  {
+    "name": "eeue56/elm-http-error-view",
+    "latest": "1.0.0",
+    "modules": [
+      "Http.Error.View.Welsh",
+      "Http.Error.View"
+    ]
+  },
+  {
+    "name": "eeue56/elm-json-field-value",
+    "latest": "1.0.0",
+    "modules": [
+      "Json.Decode.FieldValue"
+    ]
+  },
+  {
+    "name": "eeue56/elm-lazy",
+    "latest": "1.0.0",
+    "modules": [
+      "Lazy"
+    ]
+  },
+  {
+    "name": "eeue56/elm-lazy-list",
+    "latest": "1.0.0",
+    "modules": [
+      "Lazy.List"
+    ]
+  },
+  {
+    "name": "eeue56/elm-pretty-print-json",
+    "latest": "1.0.0",
+    "modules": [
+      "Json.PrettyPrint"
+    ]
+  },
+  {
+    "name": "eeue56/elm-shrink",
+    "latest": "1.0.0",
+    "modules": [
+      "Shrink"
+    ]
+  },
+  {
+    "name": "eeue56/elm-simple-data",
+    "latest": "1.2.0",
+    "modules": [
+      "Convert.String",
+      "Convert.Date",
+      "Convert.List",
+      "Convert.Array",
+      "Convert",
+      "Convert.Color"
+    ]
+  },
+  {
+    "name": "eeue56/elm-stringify",
+    "latest": "1.0.2",
+    "modules": [
+      "Stringify"
+    ]
+  },
+  {
+    "name": "eeue56/elm-xml",
+    "latest": "2.2.3",
+    "modules": [
+      "Xml.Decode",
+      "Xml.Encode",
+      "Xml.Query",
+      "Xml"
+    ]
+  },
+  {
+    "name": "egillet/elm-sortable-table",
+    "latest": "2.0.1",
+    "modules": [
+      "Table"
+    ]
+  },
+  {
+    "name": "eliaslfox/orderedmap",
+    "latest": "1.0.0",
+    "modules": [
+      "OrderedMap"
+    ]
+  },
+  {
+    "name": "eliaslfox/queue",
+    "latest": "1.0.0",
+    "modules": [
+      "Queue"
+    ]
+  },
+  {
+    "name": "elm-bodybuilder/elegant",
+    "latest": "7.1.2",
+    "modules": [
+      "Router",
+      "Elegant.Grid",
+      "BodyBuilder",
+      "BodyBuilderHtml",
+      "Elegant.Elements",
+      "Elegant"
+    ]
+  },
+  {
+    "name": "elm-bodybuilder/elm-function",
+    "latest": "1.0.0",
+    "modules": [
+      "Function"
+    ]
+  },
+  {
+    "name": "elm-bodybuilder/formbuilder",
+    "latest": "4.0.0",
+    "modules": [
+      "FormBuilder",
+      "FormBuilder.FieldBuilder",
+      "FormBuilder.FieldBuilder.Events",
+      "FormBuilder.FieldBuilder.Attributes"
+    ]
+  },
+  {
+    "name": "elm-bodybuilder/formbuilder-autocomplete",
+    "latest": "2.0.0",
+    "modules": [
+      "FormBuilder.FieldBuilder.Autocomplete"
+    ]
+  },
+  {
+    "name": "elm-bodybuilder/formbuilder-photo",
+    "latest": "1.0.2",
+    "modules": [
+      "FormBuilder.Photo",
+      "FormBuilder.Photo.Attributes"
+    ]
+  },
+  {
+    "name": "elm-canvas/element-relative-mouse-events",
+    "latest": "1.0.0",
+    "modules": [
+      "ElementRelativeMouseEvents"
+    ]
+  },
+  {
+    "name": "elm-canvas/raster-shapes",
+    "latest": "1.0.0",
+    "modules": [
+      "RasterShapes"
+    ]
+  },
+  {
+    "name": "elm-community/array-extra",
+    "latest": "1.0.2",
+    "modules": [
+      "Array.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/basics-extra",
+    "latest": "2.2.0",
+    "modules": [
+      "Basics.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/dict-extra",
+    "latest": "2.3.0",
+    "modules": [
+      "Dict.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/easing-functions",
+    "latest": "1.0.2",
+    "modules": [
+      "Ease"
+    ]
+  },
+  {
+    "name": "elm-community/elm-check",
+    "latest": "2.0.1",
+    "modules": [
+      "Check.Test",
+      "Check",
+      "Check.Producer"
+    ]
+  },
+  {
+    "name": "elm-community/elm-datepicker",
+    "latest": "7.2.5",
+    "modules": [
+      "DatePicker"
+    ]
+  },
+  {
+    "name": "elm-community/elm-function-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "Function.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/elm-history",
+    "latest": "1.2.0",
+    "modules": [
+      "Location",
+      "History"
+    ]
+  },
+  {
+    "name": "elm-community/elm-json-extra",
+    "latest": "1.0.2",
+    "modules": [
+      "Json.Decode.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/elm-lazy-list",
+    "latest": "1.3.0",
+    "modules": [
+      "Lazy.List"
+    ]
+  },
+  {
+    "name": "elm-community/elm-linear-algebra",
+    "latest": "2.0.3",
+    "modules": [
+      "Math.Matrix4",
+      "Math.Vector3",
+      "Math.Vector2",
+      "Math.Vector4"
+    ]
+  },
+  {
+    "name": "elm-community/elm-list-extra",
+    "latest": "2.0.0",
+    "modules": [
+      "List.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/elm-material-icons",
+    "latest": "2.0.1",
+    "modules": [
+      "Material.Icons.Toggle",
+      "Material.Icons.Action",
+      "Material.Icons.Av",
+      "Material.Icons.Social",
+      "Material.Icons.Maps",
+      "Material.Icons.Communication",
+      "Material.Icons.Notification",
+      "Material.Icons.Image",
+      "Material.Icons.Navigation",
+      "Material.Icons.Editor",
+      "Material.Icons.Hardware",
+      "Material.Icons.Device",
+      "Material.Icons.File",
+      "Material.Icons.Content",
+      "Material.Icons.Alert"
+    ]
+  },
+  {
+    "name": "elm-community/elm-random-extra",
+    "latest": "1.0.2",
+    "modules": [
+      "Random.String",
+      "Random.Set",
+      "Random.Maybe",
+      "Random.List",
+      "Random.Order",
+      "Random.Result",
+      "Random.Char",
+      "Random.Array",
+      "Random.Date",
+      "Random.Dict",
+      "Random.Int",
+      "Random.Float",
+      "Random.Extra",
+      "Random.Color"
+    ]
+  },
+  {
+    "name": "elm-community/elm-route",
+    "latest": "1.0.1",
+    "modules": [
+      "Route"
+    ]
+  },
+  {
+    "name": "elm-community/elm-test",
+    "latest": "4.2.0",
+    "modules": [
+      "Test.Runner",
+      "Test",
+      "Expect",
+      "Test.Runner.Failure",
+      "Fuzz"
+    ]
+  },
+  {
+    "name": "elm-community/elm-time",
+    "latest": "1.0.11",
+    "modules": [
+      "Time.ZonedDateTime",
+      "Time.TimeZones",
+      "Time.DateTime",
+      "Time.Date",
+      "Time.TimeZone"
+    ]
+  },
+  {
+    "name": "elm-community/elm-undo-redo",
+    "latest": "1.0.1",
+    "modules": [
+      "UndoList.Shrink",
+      "UndoList.Random",
+      "UndoList.Encode",
+      "UndoList.Decode",
+      "UndoList"
+    ]
+  },
+  {
+    "name": "elm-community/elm-webgl",
+    "latest": "3.0.4",
+    "modules": [
+      "WebGL"
+    ]
+  },
+  {
+    "name": "elm-community/graph",
+    "latest": "4.0.1",
+    "modules": [
+      "Graph.GraphViz",
+      "Graph",
+      "Graph.Tree"
+    ]
+  },
+  {
+    "name": "elm-community/html-extra",
+    "latest": "2.2.0",
+    "modules": [
+      "Html.Extra",
+      "Html.Attributes.Extra",
+      "Html.Events.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/html-test-runner",
+    "latest": "1.0.6",
+    "modules": [
+      "Test.Runner.Html"
+    ]
+  },
+  {
+    "name": "elm-community/intdict",
+    "latest": "2.1.0",
+    "modules": [
+      "IntDict.Safe",
+      "IntDict"
+    ]
+  },
+  {
+    "name": "elm-community/json-extra",
+    "latest": "2.6.0",
+    "modules": [
+      "Json.Decode.Extra",
+      "Json.Encode.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/lazy-list",
+    "latest": "1.0.0",
+    "modules": [
+      "Lazy.List"
+    ]
+  },
+  {
+    "name": "elm-community/linear-algebra",
+    "latest": "3.1.1",
+    "modules": [
+      "Math.Matrix4",
+      "Math.Vector4",
+      "Math.Vector3",
+      "Math.Vector2"
+    ]
+  },
+  {
+    "name": "elm-community/list-extra",
+    "latest": "7.0.1",
+    "modules": [
+      "List.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/list-split",
+    "latest": "1.0.2",
+    "modules": [
+      "List.Split"
+    ]
+  },
+  {
+    "name": "elm-community/material-icons",
+    "latest": "1.1.0",
+    "modules": [
+      "Material.Icons.File",
+      "Material.Icons.Content",
+      "Material.Icons.Social",
+      "Material.Icons.Editor",
+      "Material.Icons.Notification",
+      "Material.Icons.Toggle",
+      "Material.Icons.Image",
+      "Material.Icons.Hardware",
+      "Material.Icons.Navigation",
+      "Material.Icons.Maps",
+      "Material.Icons.Device",
+      "Material.Icons.Action",
+      "Material.Icons.Communication",
+      "Material.Icons.Av",
+      "Material.Icons.Alert"
+    ]
+  },
+  {
+    "name": "elm-community/maybe-extra",
+    "latest": "4.0.0",
+    "modules": [
+      "Maybe.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/parser-combinators",
+    "latest": "2.0.0",
+    "modules": [
+      "Combine.Num",
+      "Combine.Char",
+      "Combine"
+    ]
+  },
+  {
+    "name": "elm-community/random-extra",
+    "latest": "2.0.0",
+    "modules": [
+      "Random.Set",
+      "Random.Order",
+      "Random.List",
+      "Random.Char",
+      "Random.Date",
+      "Random.Array",
+      "Random.Float",
+      "Random.Dict",
+      "Random.String",
+      "Random.Int",
+      "Random.Extra",
+      "Random.Color"
+    ]
+  },
+  {
+    "name": "elm-community/ratio",
+    "latest": "1.1.0",
+    "modules": [
+      "Ratio.Infix",
+      "Ratio"
+    ]
+  },
+  {
+    "name": "elm-community/result-extra",
+    "latest": "2.2.0",
+    "modules": [
+      "Result.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/shrink",
+    "latest": "2.0.0",
+    "modules": [
+      "Shrink"
+    ]
+  },
+  {
+    "name": "elm-community/string-extra",
+    "latest": "1.4.0",
+    "modules": [
+      "String.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/svg-extra",
+    "latest": "1.0.1",
+    "modules": [
+      "Svg.Extra"
+    ]
+  },
+  {
+    "name": "elm-community/typed-svg",
+    "latest": "2.0.0",
+    "modules": [
+      "TypedSvg.Extra.InPx",
+      "TypedSvg.Attributes.InPx",
+      "TypedSvg.Attributes.InEm",
+      "TypedSvg.Filters.Attributes",
+      "TypedSvg.Attributes",
+      "TypedSvg.Filters",
+      "TypedSvg.Events",
+      "TypedSvg",
+      "TypedSvg.Types",
+      "TypedSvg.Core"
+    ]
+  },
+  {
+    "name": "elm-community/undo-redo",
+    "latest": "2.0.0",
+    "modules": [
+      "UndoList.Shrink",
+      "UndoList.Random",
+      "UndoList.Decode",
+      "UndoList.Encode",
+      "UndoList"
+    ]
+  },
+  {
+    "name": "elm-community/webgl",
+    "latest": "2.0.5",
+    "modules": [
+      "WebGL.Texture",
+      "WebGL",
+      "WebGL.Settings.DepthTest",
+      "WebGL.Settings.StencilTest",
+      "WebGL.Settings.Blend",
+      "WebGL.Settings"
+    ]
+  },
+  {
+    "name": "elm-lang/animation-frame",
+    "latest": "1.0.1",
+    "modules": [
+      "AnimationFrame"
+    ]
+  },
+  {
+    "name": "elm-lang/core",
+    "latest": "5.1.1",
+    "modules": [
+      "Date",
+      "Random",
+      "Process",
+      "Json.Decode",
+      "Time",
+      "Set",
+      "Json.Encode",
+      "Dict",
+      "Task",
+      "Array",
+      "String",
+      "Platform",
+      "Regex",
+      "List",
+      "Result",
+      "Color",
+      "Char",
+      "Tuple",
+      "Platform.Sub",
+      "Platform.Cmd",
+      "Maybe",
+      "Debug",
+      "Bitwise",
+      "Basics"
+    ]
+  },
+  {
+    "name": "elm-lang/dom",
+    "latest": "1.1.1",
+    "modules": [
+      "Dom.Scroll",
+      "Dom.LowLevel",
+      "Dom"
+    ]
+  },
+  {
+    "name": "elm-lang/geolocation",
+    "latest": "1.0.2",
+    "modules": [
+      "Geolocation"
+    ]
+  },
+  {
+    "name": "elm-lang/html",
+    "latest": "2.0.0",
+    "modules": [
+      "Html.Lazy",
+      "Html.Attributes",
+      "Html.Events",
+      "Html.Keyed",
+      "Html"
+    ]
+  },
+  {
+    "name": "elm-lang/http",
+    "latest": "1.0.0",
+    "modules": [
+      "Http.Progress",
+      "Http"
+    ]
+  },
+  {
+    "name": "elm-lang/keyboard",
+    "latest": "1.0.1",
+    "modules": [
+      "Keyboard"
+    ]
+  },
+  {
+    "name": "elm-lang/lazy",
+    "latest": "2.0.0",
+    "modules": [
+      "Lazy"
+    ]
+  },
+  {
+    "name": "elm-lang/mouse",
+    "latest": "1.0.1",
+    "modules": [
+      "Mouse"
+    ]
+  },
+  {
+    "name": "elm-lang/navigation",
+    "latest": "2.1.0",
+    "modules": [
+      "Navigation"
+    ]
+  },
+  {
+    "name": "elm-lang/page-visibility",
+    "latest": "1.0.1",
+    "modules": [
+      "PageVisibility"
+    ]
+  },
+  {
+    "name": "elm-lang/svg",
+    "latest": "2.0.0",
+    "modules": [
+      "Svg.Lazy",
+      "Svg.Events",
+      "Svg.Attributes",
+      "Svg.Keyed",
+      "Svg"
+    ]
+  },
+  {
+    "name": "elm-lang/trampoline",
+    "latest": "1.0.1",
+    "modules": [
+      "Trampoline"
+    ]
+  },
+  {
+    "name": "elm-lang/virtual-dom",
+    "latest": "2.0.4",
+    "modules": [
+      "VirtualDom"
+    ]
+  },
+  {
+    "name": "elm-lang/websocket",
+    "latest": "1.0.2",
+    "modules": [
+      "WebSocket",
+      "WebSocket.LowLevel"
+    ]
+  },
+  {
+    "name": "elm-lang/window",
+    "latest": "1.0.1",
+    "modules": [
+      "Window"
+    ]
+  },
+  {
+    "name": "elm-tools/documentation",
+    "latest": "1.0.1",
+    "modules": [
+      "Elm.Documentation",
+      "Elm.Documentation.Type"
+    ]
+  },
+  {
+    "name": "elm-tools/parser",
+    "latest": "2.0.1",
+    "modules": [
+      "Parser.LowLevel",
+      "Parser.LanguageKit",
+      "Parser"
+    ]
+  },
+  {
+    "name": "elm-tools/parser-primitives",
+    "latest": "1.0.0",
+    "modules": [
+      "ParserPrimitives"
+    ]
+  },
+  {
+    "name": "emilyhorsman/elm-speechrecognition-interop",
+    "latest": "1.0.0",
+    "modules": [
+      "SpeechRecognitionInterop"
+    ]
+  },
+  {
+    "name": "emtenet/elm-component-support",
+    "latest": "1.0.0",
+    "modules": [
+      "Component.App",
+      "Component.Update"
+    ]
+  },
+  {
+    "name": "enetsee/rangeslider",
+    "latest": "1.0.0",
+    "modules": [
+      "RangeSlider"
+    ]
+  },
+  {
+    "name": "enetsee/typed-format",
+    "latest": "1.0.1",
+    "modules": [
+      "TypedFormat"
+    ]
+  },
+  {
+    "name": "ericgj/elm-accordion-menu",
+    "latest": "1.0.0",
+    "modules": [
+      "AccordionMenu.Style",
+      "AccordionMenu"
+    ]
+  },
+  {
+    "name": "ericgj/elm-autoinput",
+    "latest": "2.0.0",
+    "modules": [
+      "Autoinput"
+    ]
+  },
+  {
+    "name": "ericgj/elm-csv-decode",
+    "latest": "2.0.0",
+    "modules": [
+      "Csv.Decode"
+    ]
+  },
+  {
+    "name": "ericgj/elm-quantiles",
+    "latest": "1.1.1",
+    "modules": [
+      "Quantiles"
+    ]
+  },
+  {
+    "name": "ericgj/elm-validation",
+    "latest": "1.0.1",
+    "modules": [
+      "Validation"
+    ]
+  },
+  {
+    "name": "ersocon/creditcard-validation",
+    "latest": "2.0.0",
+    "modules": [
+      "Payment.CreditCard.Validation"
+    ]
+  },
+  {
+    "name": "erwald/elm-edit-distance",
+    "latest": "1.1.1",
+    "modules": [
+      "EditDistance"
+    ]
+  },
+  {
+    "name": "esanmiguelc/elm-validate",
+    "latest": "2.0.0",
+    "modules": [
+      "Validations"
+    ]
+  },
+  {
+    "name": "eskimoblood/elm-color-extra",
+    "latest": "5.0.0",
+    "modules": [
+      "Color.Gradient",
+      "Color.Interpolate",
+      "Color.Manipulate",
+      "Color.Convert",
+      "Color.Blending",
+      "Color.Accessibility"
+    ]
+  },
+  {
+    "name": "eskimoblood/elm-parametric-surface",
+    "latest": "1.0.0",
+    "modules": [
+      "Surface",
+      "Type"
+    ]
+  },
+  {
+    "name": "eskimoblood/elm-simplex-noise",
+    "latest": "1.2.3",
+    "modules": [
+      "Noise"
+    ]
+  },
+  {
+    "name": "eskimoblood/elm-wallpaper",
+    "latest": "2.1.5",
+    "modules": [
+      "WallpaperGroup.Pattern",
+      "WallpaperGroup.Group",
+      "WallpaperGroup.Geom.BoundingBox"
+    ]
+  },
+  {
+    "name": "etaque/elm-dialog",
+    "latest": "1.1.0",
+    "modules": [
+      "Dialog.Simple",
+      "Dialog"
+    ]
+  },
+  {
+    "name": "etaque/elm-form",
+    "latest": "3.0.0",
+    "modules": [
+      "Form.Input",
+      "Form.Test",
+      "Form",
+      "Form.Init",
+      "Form.Validate",
+      "Form.Test.ValidationExpectation",
+      "Form.Field",
+      "Form.Error"
+    ]
+  },
+  {
+    "name": "etaque/elm-hexagons",
+    "latest": "1.0.3",
+    "modules": [
+      "Hexagons.Grid",
+      "Hexagons"
+    ]
+  },
+  {
+    "name": "etaque/elm-response",
+    "latest": "3.0.0",
+    "modules": [
+      "Response"
+    ]
+  },
+  {
+    "name": "etaque/elm-route-parser",
+    "latest": "3.0.0",
+    "modules": [
+      "RouteParser.QueryString",
+      "RouteParser"
+    ]
+  },
+  {
+    "name": "etaque/elm-simple-form",
+    "latest": "5.0.1",
+    "modules": [
+      "Form.Input",
+      "Form",
+      "Form.Validate",
+      "Form.Error",
+      "Form.Field"
+    ]
+  },
+  {
+    "name": "etaque/elm-simple-form-infix",
+    "latest": "1.0.0",
+    "modules": [
+      "Form.Infix"
+    ]
+  },
+  {
+    "name": "etaque/elm-transit",
+    "latest": "7.0.4",
+    "modules": [
+      "Transit"
+    ]
+  },
+  {
+    "name": "etaque/elm-transit-router",
+    "latest": "1.0.1",
+    "modules": [
+      "TransitRouter"
+    ]
+  },
+  {
+    "name": "etaque/elm-transit-style",
+    "latest": "3.1.0",
+    "modules": [
+      "TransitStyle"
+    ]
+  },
+  {
+    "name": "evancz/automaton",
+    "latest": "1.1.0",
+    "modules": [
+      "Automaton"
+    ]
+  },
+  {
+    "name": "evancz/elm-effects",
+    "latest": "2.0.1",
+    "modules": [
+      "Effects"
+    ]
+  },
+  {
+    "name": "evancz/elm-graphics",
+    "latest": "1.0.1",
+    "modules": [
+      "Collage",
+      "Element",
+      "Transform",
+      "Text"
+    ]
+  },
+  {
+    "name": "evancz/elm-html",
+    "latest": "5.0.0",
+    "modules": [
+      "Html",
+      "Html.Lazy",
+      "Html.Attributes",
+      "Html.Events"
+    ]
+  },
+  {
+    "name": "evancz/elm-http",
+    "latest": "3.0.1",
+    "modules": [
+      "Http"
+    ]
+  },
+  {
+    "name": "evancz/elm-markdown",
+    "latest": "3.0.2",
+    "modules": [
+      "Markdown"
+    ]
+  },
+  {
+    "name": "evancz/elm-sortable-table",
+    "latest": "1.0.1",
+    "modules": [
+      "Table"
+    ]
+  },
+  {
+    "name": "evancz/elm-svg",
+    "latest": "3.0.0",
+    "modules": [
+      "Svg.Attributes",
+      "Svg",
+      "Svg.Events",
+      "Svg.Lazy"
+    ]
+  },
+  {
+    "name": "evancz/focus",
+    "latest": "2.0.2",
+    "modules": [
+      "Focus"
+    ]
+  },
+  {
+    "name": "evancz/start-app",
+    "latest": "2.0.2",
+    "modules": [
+      "StartApp.Simple",
+      "StartApp"
+    ]
+  },
+  {
+    "name": "evancz/task-tutorial",
+    "latest": "1.0.3",
+    "modules": [
+      "TaskTutorial"
+    ]
+  },
+  {
+    "name": "evancz/url-parser",
+    "latest": "2.0.1",
+    "modules": [
+      "UrlParser"
+    ]
+  },
+  {
+    "name": "evancz/virtual-dom",
+    "latest": "2.1.0",
+    "modules": [
+      "VirtualDom"
+    ]
+  },
+  {
+    "name": "fabiommendes/elm-bricks",
+    "latest": "2.0.0",
+    "modules": [
+      "Bricks",
+      "Bricks.Json",
+      "Bricks.Types"
+    ]
+  },
+  {
+    "name": "fabiommendes/elm-dynamic-forms",
+    "latest": "1.0.0",
+    "modules": [
+      "DynForms.View",
+      "DynForms.JsonDecode",
+      "DynForms.Validation",
+      "DynForms.JsonEncode",
+      "DynForms.Layout",
+      "DynForms.Field",
+      "DynForms"
+    ]
+  },
+  {
+    "name": "fabiommendes/elm-sexpr",
+    "latest": "1.0.1",
+    "modules": [
+      "SExpr.Decode",
+      "SExpr.Encode"
+    ]
+  },
+  {
+    "name": "fapian/elm-html-aria",
+    "latest": "1.2.2",
+    "modules": [
+      "Html.Attributes.Aria"
+    ]
+  },
+  {
+    "name": "fauu/elm-selectable-text",
+    "latest": "2.0.1",
+    "modules": [
+      "SelectableText"
+    ]
+  },
+  {
+    "name": "fbonetti/elm-geodesy",
+    "latest": "1.0.1",
+    "modules": [
+      "Geodesy"
+    ]
+  },
+  {
+    "name": "fbonetti/elm-phoenix-socket",
+    "latest": "2.2.0",
+    "modules": [
+      "Phoenix.Socket",
+      "Phoenix.Push",
+      "Phoenix.Channel",
+      "Phoenix.Presence"
+    ]
+  },
+  {
+    "name": "fedragon/elm-typed-dropdown",
+    "latest": "2.0.1",
+    "modules": [
+      "Dropdown"
+    ]
+  },
+  {
+    "name": "felipesere/elm-github-colors",
+    "latest": "1.0.0",
+    "modules": [
+      "Language"
+    ]
+  },
+  {
+    "name": "fiatjaf/hashbow-elm",
+    "latest": "1.0.0",
+    "modules": [
+      "Hashbow"
+    ]
+  },
+  {
+    "name": "flarebyte/ntriples-filter",
+    "latest": "1.0.0",
+    "modules": [
+      "Ntriples.Filter"
+    ]
+  },
+  {
+    "name": "folkertdev/elm-bounding-box",
+    "latest": "1.0.2",
+    "modules": [
+      "BoundingBox",
+      "Vec2"
+    ]
+  },
+  {
+    "name": "folkertdev/elm-deque",
+    "latest": "2.0.0",
+    "modules": [
+      "Deque",
+      "BoundedDeque"
+    ]
+  },
+  {
+    "name": "folkertdev/elm-hexbin",
+    "latest": "2.0.0",
+    "modules": [
+      "HexBin"
+    ]
+  },
+  {
+    "name": "folkertdev/elm-state",
+    "latest": "3.0.0",
+    "modules": [
+      "State"
+    ]
+  },
+  {
+    "name": "folkertdev/elm-treemap",
+    "latest": "1.0.0",
+    "modules": [
+      "Treemap"
+    ]
+  },
+  {
+    "name": "folkertdev/one-true-path-experiment",
+    "latest": "3.0.0",
+    "modules": [
+      "Path",
+      "Curve",
+      "SubPath",
+      "Segment",
+      "LowLevel.Command"
+    ]
+  },
+  {
+    "name": "folkertdev/outmessage",
+    "latest": "1.1.1",
+    "modules": [
+      "OutMessage"
+    ]
+  },
+  {
+    "name": "folkertdev/svg-path-dsl",
+    "latest": "2.0.0",
+    "modules": [
+      "Svg.Path"
+    ]
+  },
+  {
+    "name": "folkertdev/svg-path-lowlevel",
+    "latest": "1.0.1",
+    "modules": [
+      "Path.LowLevel.Parser",
+      "Path.LowLevel"
+    ]
+  },
+  {
+    "name": "freakingawesome/drunk-label",
+    "latest": "5.0.0",
+    "modules": [
+      "DrunkLabel"
+    ]
+  },
+  {
+    "name": "fredcy/elm-debouncer",
+    "latest": "1.0.2",
+    "modules": [
+      "Debounce"
+    ]
+  },
+  {
+    "name": "fredcy/elm-defer-command",
+    "latest": "1.0.1",
+    "modules": [
+      "Defer"
+    ]
+  },
+  {
+    "name": "fredcy/elm-parseint",
+    "latest": "1.3.1",
+    "modules": [
+      "ParseInt"
+    ]
+  },
+  {
+    "name": "fredcy/elm-timer",
+    "latest": "1.0.1",
+    "modules": [
+      "Timer"
+    ]
+  },
+  {
+    "name": "frenchdonuts/elm-autocomplete",
+    "latest": "3.0.0",
+    "modules": [
+      "Autocomplete"
+    ]
+  },
+  {
+    "name": "fresheyeball/elm-cardinal",
+    "latest": "1.0.2",
+    "modules": [
+      "Cardinal"
+    ]
+  },
+  {
+    "name": "fresheyeball/elm-check-runner",
+    "latest": "1.0.0",
+    "modules": [
+      "Check.Runner.Browser"
+    ]
+  },
+  {
+    "name": "gaborv/debouncer",
+    "latest": "1.0.1",
+    "modules": [
+      "Debouncer"
+    ]
+  },
+  {
+    "name": "gampleman/elm-visualization",
+    "latest": "1.6.0",
+    "modules": [
+      "Visualization.Axis",
+      "Visualization.Scale",
+      "Visualization.Shape",
+      "Visualization.Histogram",
+      "Visualization.Path",
+      "Visualization.List",
+      "Visualization.Force"
+    ]
+  },
+  {
+    "name": "garetht/elm-dynamic-style",
+    "latest": "2.0.0",
+    "modules": [
+      "DynamicStyle"
+    ]
+  },
+  {
+    "name": "geekyme/elm-charts",
+    "latest": "1.0.0",
+    "modules": [
+      "Chart"
+    ]
+  },
+  {
+    "name": "geppettodivacin/elm-couchdb",
+    "latest": "2.0.0",
+    "modules": [
+      "Couchdb",
+      "Couchdb.View"
+    ]
+  },
+  {
+    "name": "ggPeti/elm-html-decoder",
+    "latest": "1.0.1",
+    "modules": [
+      "Html.Decoder"
+    ]
+  },
+  {
+    "name": "ggb/elm-bloom",
+    "latest": "1.0.1",
+    "modules": [
+      "Bloom"
+    ]
+  },
+  {
+    "name": "ggb/elm-sentiment",
+    "latest": "1.0.0",
+    "modules": [
+      "Sentiment",
+      "WordList.Afinn"
+    ]
+  },
+  {
+    "name": "ggb/elm-trend",
+    "latest": "1.0.2",
+    "modules": [
+      "Linear",
+      "Seasonal"
+    ]
+  },
+  {
+    "name": "ggb/numeral-elm",
+    "latest": "1.4.0",
+    "modules": [
+      "Numeral",
+      "Languages.Japanese",
+      "Languages.German",
+      "Languages.Russian",
+      "Languages.Ukrainian",
+      "Languages.BritishEnglish",
+      "Languages.Italian",
+      "Languages.French",
+      "Languages.English",
+      "Language"
+    ]
+  },
+  {
+    "name": "ggb/porterstemmer",
+    "latest": "1.0.2",
+    "modules": [
+      "PorterStemmer"
+    ]
+  },
+  {
+    "name": "ggpeti/elm-html-decoder",
+    "latest": "1.0.2",
+    "modules": [
+      "Html.Decoder"
+    ]
+  },
+  {
+    "name": "ghivert/elm-cloudinary",
+    "latest": "2.1.0",
+    "modules": [
+      "Cloudinary"
+    ]
+  },
+  {
+    "name": "ghivert/elm-colors",
+    "latest": "1.1.0",
+    "modules": [
+      "Colors"
+    ]
+  },
+  {
+    "name": "ghivert/elm-data-dumper",
+    "latest": "1.1.0",
+    "modules": [
+      "Data.Dumper"
+    ]
+  },
+  {
+    "name": "ghivert/elm-graphql",
+    "latest": "3.0.0",
+    "modules": [
+      "GraphQl"
+    ]
+  },
+  {
+    "name": "ghivert/elm-mapbox",
+    "latest": "1.0.0",
+    "modules": [
+      "Mapbox.Maps.SlippyMap",
+      "Mapbox.Maps.EditorProject",
+      "Mapbox.Maps.Tiles",
+      "Mapbox",
+      "Mapbox.Endpoint"
+    ]
+  },
+  {
+    "name": "gilbertkennen/bigint",
+    "latest": "1.0.1",
+    "modules": [
+      "BigInt"
+    ]
+  },
+  {
+    "name": "gilesbowkett/html-escape-sequences",
+    "latest": "1.0.0",
+    "modules": [
+      "Unicode"
+    ]
+  },
+  {
+    "name": "gmauricio/elm-semantic-ui",
+    "latest": "1.0.0",
+    "modules": [
+      "SemanticUi"
+    ]
+  },
+  {
+    "name": "gribouille/elm-prelude",
+    "latest": "1.0.0",
+    "modules": [
+      "Prelude"
+    ]
+  },
+  {
+    "name": "gribouille/elm-treeview",
+    "latest": "1.0.0",
+    "modules": [
+      "Treeview"
+    ]
+  },
+  {
+    "name": "grrinchas/elm-natural",
+    "latest": "1.0.0",
+    "modules": [
+      "Nat"
+    ]
+  },
+  {
+    "name": "guillaumeboudon/elm-creditcard",
+    "latest": "2.1.0",
+    "modules": [
+      "CreditCard"
+    ]
+  },
+  {
+    "name": "gummesson/elm-csv",
+    "latest": "1.0.1",
+    "modules": [
+      "Csv"
+    ]
+  },
+  {
+    "name": "h0lyalg0rithm/elm-select",
+    "latest": "1.0.0",
+    "modules": [
+      "Select"
+    ]
+  },
+  {
+    "name": "halfzebra/elm-aframe",
+    "latest": "3.1.0",
+    "modules": [
+      "AFrame.Primitives.Light",
+      "AFrame.Primitives",
+      "AFrame.Primitives.Cursor",
+      "AFrame.Primitives.Attributes",
+      "AFrame.Primitives.Camera",
+      "AFrame.Extra.Physics",
+      "AFrame",
+      "AFrame.Animations"
+    ]
+  },
+  {
+    "name": "halfzebra/elm-sierpinski",
+    "latest": "1.0.1",
+    "modules": [
+      "Sierpinski"
+    ]
+  },
+  {
+    "name": "hanshoglund/elm-interval",
+    "latest": "1.0.3",
+    "modules": [
+      "Interval",
+      "Interval.EndPoint"
+    ]
+  },
+  {
+    "name": "hardfire/elm-ad-bs",
+    "latest": "1.0.1",
+    "modules": [
+      "Adbs"
+    ]
+  },
+  {
+    "name": "hecrj/elm-slug",
+    "latest": "1.0.1",
+    "modules": [
+      "Slug"
+    ]
+  },
+  {
+    "name": "hendore/elm-adorable-avatars",
+    "latest": "1.0.3",
+    "modules": [
+      "AdorableAvatars"
+    ]
+  },
+  {
+    "name": "hendore/elm-temperature",
+    "latest": "1.0.2",
+    "modules": [
+      "Temperature.Convert"
+    ]
+  },
+  {
+    "name": "heyLu/elm-format-date",
+    "latest": "1.0.0",
+    "modules": [
+      "FormatDate"
+    ]
+  },
+  {
+    "name": "hoelzro/elm-drag",
+    "latest": "2.0.0",
+    "modules": [
+      "Drag"
+    ]
+  },
+  {
+    "name": "hrldcpr/elm-cons",
+    "latest": "2.0.0",
+    "modules": [
+      "Cons"
+    ]
+  },
+  {
+    "name": "hugobessaa/elm-logoot",
+    "latest": "2.1.1",
+    "modules": [
+      "Logoot"
+    ]
+  },
+  {
+    "name": "humio/elm-dashboard",
+    "latest": "2.0.0",
+    "modules": [
+      "Dashboard"
+    ]
+  },
+  {
+    "name": "humio/elm-plot",
+    "latest": "1.0.1",
+    "modules": [
+      "Plot"
+    ]
+  },
+  {
+    "name": "ianp/elm-datepicker",
+    "latest": "1.1.1",
+    "modules": [
+      "DatePicker",
+      "DatePicker.Config",
+      "DatePicker.Style"
+    ]
+  },
+  {
+    "name": "identicalsnowflake/elm-dynamic-style",
+    "latest": "2.0.0",
+    "modules": [
+      "DynamicStyle"
+    ]
+  },
+  {
+    "name": "identicalsnowflake/elm-typed-styles",
+    "latest": "3.0.0",
+    "modules": [
+      "TypedStyles"
+    ]
+  },
+  {
+    "name": "imeckler/either",
+    "latest": "1.0.2",
+    "modules": [
+      "Either"
+    ]
+  },
+  {
+    "name": "imeckler/empty",
+    "latest": "2.0.0",
+    "modules": [
+      "Empty"
+    ]
+  },
+  {
+    "name": "imeckler/iterator",
+    "latest": "1.2.0",
+    "modules": [
+      "Iterator"
+    ]
+  },
+  {
+    "name": "imeckler/piece",
+    "latest": "2.1.0",
+    "modules": [
+      "Piece.Infix",
+      "Piece",
+      "Piece.Internal"
+    ]
+  },
+  {
+    "name": "imeckler/queue",
+    "latest": "1.1.3",
+    "modules": [
+      "Queue",
+      "Queue.Internal"
+    ]
+  },
+  {
+    "name": "imeckler/ratio",
+    "latest": "2.0.1",
+    "modules": [
+      "Ratio"
+    ]
+  },
+  {
+    "name": "imeckler/stage",
+    "latest": "2.0.0",
+    "modules": [
+      "Stage",
+      "Stage.Infix",
+      "Stage.Internal"
+    ]
+  },
+  {
+    "name": "imjoehaines/afinn-165-elm",
+    "latest": "1.0.0",
+    "modules": [
+      "Afinn"
+    ]
+  },
+  {
+    "name": "ingara/elm-asoiaf-api",
+    "latest": "2.0.0",
+    "modules": [
+      "Asoiaf.Api",
+      "Asoiaf.Models"
+    ]
+  },
+  {
+    "name": "inkuzmin/elm-multiselect",
+    "latest": "1.1.3",
+    "modules": [
+      "Multiselect"
+    ]
+  },
+  {
+    "name": "iosphere/elm-i18n",
+    "latest": "1.0.0",
+    "modules": [
+      "PO.Import",
+      "Localized.Parser",
+      "PO.Export",
+      "Localized.Writer",
+      "CSV.Export",
+      "CSV.Import",
+      "Localized"
+    ]
+  },
+  {
+    "name": "iosphere/elm-logger",
+    "latest": "1.0.1",
+    "modules": [
+      "Logger"
+    ]
+  },
+  {
+    "name": "iosphere/elm-network-graph",
+    "latest": "2.0.0",
+    "modules": [
+      "Graph.Json",
+      "Graph.Colored.Graph",
+      "Graph.GraphViz",
+      "Graph.Colored.Decorator",
+      "Graph.Degree",
+      "Graph.Edge.Json",
+      "Graph",
+      "Graph.Colored.Node",
+      "Graph.Node.Json",
+      "Graph.Edge",
+      "Graph.Colored.Color",
+      "Graph.Node"
+    ]
+  },
+  {
+    "name": "iosphere/elm-toast",
+    "latest": "1.0.0",
+    "modules": [
+      "Toast"
+    ]
+  },
+  {
+    "name": "ir4y/elm-cursor",
+    "latest": "2.0.0",
+    "modules": [
+      "Cursor"
+    ]
+  },
+  {
+    "name": "ir4y/elm-dnd",
+    "latest": "3.0.1",
+    "modules": [
+      "DnD"
+    ]
+  },
+  {
+    "name": "ivanceras/svgbob",
+    "latest": "1.0.1",
+    "modules": [
+      "Diagram"
+    ]
+  },
+  {
+    "name": "izdi/junk",
+    "latest": "1.0.3",
+    "modules": [
+      "Ff"
+    ]
+  },
+  {
+    "name": "j-panasiuk/elm-ionicons",
+    "latest": "1.0.0",
+    "modules": [
+      "Ionicon",
+      "Ionicon.Social",
+      "Ionicon.Ios",
+      "Ionicon.Android"
+    ]
+  },
+  {
+    "name": "jackfranklin/elm-console-log",
+    "latest": "1.0.0",
+    "modules": [
+      "ConsoleLog"
+    ]
+  },
+  {
+    "name": "jackfranklin/elm-parse-link-header",
+    "latest": "1.1.0",
+    "modules": [
+      "LinkHeader"
+    ]
+  },
+  {
+    "name": "jackfranklin/elm-statey",
+    "latest": "2.0.0",
+    "modules": [
+      "Statey"
+    ]
+  },
+  {
+    "name": "jahewson/elm-graphql-module",
+    "latest": "1.0.0",
+    "modules": [
+      "GraphQL"
+    ]
+  },
+  {
+    "name": "jamby1100/elm-blog-engine",
+    "latest": "2.0.0",
+    "modules": [
+      "Main",
+      "Update",
+      "View",
+      "Players.Commands",
+      "Messages",
+      "Models",
+      "Routing"
+    ]
+  },
+  {
+    "name": "jamesmacaulay/elm-graphql",
+    "latest": "1.8.0",
+    "modules": [
+      "GraphQL.Client.Http",
+      "GraphQL.Request.Builder",
+      "GraphQL.Request.Builder.Arg",
+      "GraphQL.Request.Builder.Variable"
+    ]
+  },
+  {
+    "name": "jamesmacaulay/elm-json-bidirectional",
+    "latest": "1.1.0",
+    "modules": [
+      "Json.Bidirectional"
+    ]
+  },
+  {
+    "name": "janiczek/cmd-extra",
+    "latest": "1.0.2",
+    "modules": [
+      "Cmd.Extra"
+    ]
+  },
+  {
+    "name": "janiczek/elm-markov",
+    "latest": "2.0.3",
+    "modules": [
+      "Markov"
+    ]
+  },
+  {
+    "name": "janjelinek/creditcard-validation",
+    "latest": "1.0.1",
+    "modules": [
+      "Payment.CreditCard.Validation"
+    ]
+  },
+  {
+    "name": "jasonmahr/html-escape-sequences",
+    "latest": "2.0.5",
+    "modules": [
+      "Unicode"
+    ]
+  },
+  {
+    "name": "jasonmahr/html-escaped-unicode",
+    "latest": "1.0.0",
+    "modules": [
+      "Unicode"
+    ]
+  },
+  {
+    "name": "jastice/boxes-and-bubbles",
+    "latest": "3.0.1",
+    "modules": [
+      "BoxesAndBubbles",
+      "BoxesAndBubbles.Engine",
+      "BoxesAndBubbles.Bodies"
+    ]
+  },
+  {
+    "name": "jastice/president",
+    "latest": "1.1.0",
+    "modules": [
+      "President"
+    ]
+  },
+  {
+    "name": "javcasas/elm-decimal",
+    "latest": "1.0.1",
+    "modules": [
+      "Data.Decimal"
+    ]
+  },
+  {
+    "name": "javcasas/elm-integer",
+    "latest": "2.0.2",
+    "modules": [
+      "Data.Integer"
+    ]
+  },
+  {
+    "name": "jcollard/elm-playground",
+    "latest": "1.0.3",
+    "modules": [
+      "Playground",
+      "Playground.Input"
+    ]
+  },
+  {
+    "name": "jcollard/key-constants",
+    "latest": "1.0.1",
+    "modules": [
+      "Keyboard.Keys"
+    ]
+  },
+  {
+    "name": "jergason/elm-hash",
+    "latest": "1.0.0",
+    "modules": [
+      "Hash"
+    ]
+  },
+  {
+    "name": "jessitron/elm-http-with-headers",
+    "latest": "1.1.0",
+    "modules": [
+      "GetWithHeaders"
+    ]
+  },
+  {
+    "name": "jessitron/elm-param-parsing",
+    "latest": "1.0.3",
+    "modules": [
+      "UrlParameterParser"
+    ]
+  },
+  {
+    "name": "jfairbank/elm-stream",
+    "latest": "1.1.0",
+    "modules": [
+      "Stream"
+    ]
+  },
+  {
+    "name": "jfmengels/elm-ast",
+    "latest": "1.0.1",
+    "modules": [
+      "Ast",
+      "Ast.Statement",
+      "Ast.Expression",
+      "Ast.BinOp"
+    ]
+  },
+  {
+    "name": "jfmengels/elm-lint",
+    "latest": "2.0.1",
+    "modules": [
+      "Lint.Rules.SimplifyPiping",
+      "Lint.Rules.NoUnusedVariables",
+      "Lint.Rules.NoUselessPatternMatching",
+      "Lint.Rules.NoWarningComments",
+      "Lint.Rules.SimplifyPropertyAccess",
+      "Lint.Rules.ElmTest.NoDuplicateTestBodies",
+      "Lint.Rules.NoDebug",
+      "Lint.Rules.NoUselessIf",
+      "Lint.Rules.NoDuplicateImports",
+      "Lint.Rules.NoNestedLet",
+      "Lint.Rules.NoUnannotatedFunction",
+      "Lint.Rules.NoExposingEverything",
+      "Lint.Rules.NoImportingEverything",
+      "Lint.Rules.NoConstantCondition",
+      "Lint.Rules.DefaultPatternPosition",
+      "Lint",
+      "Lint.Types"
+    ]
+  },
+  {
+    "name": "jinjor/elm-contextmenu",
+    "latest": "1.1.0",
+    "modules": [
+      "ContextMenu"
+    ]
+  },
+  {
+    "name": "jinjor/elm-csv-decode",
+    "latest": "1.0.1",
+    "modules": [
+      "CsvDecode"
+    ]
+  },
+  {
+    "name": "jinjor/elm-debounce",
+    "latest": "2.1.2",
+    "modules": [
+      "Debounce"
+    ]
+  },
+  {
+    "name": "jinjor/elm-diff",
+    "latest": "1.0.4",
+    "modules": [
+      "Diff"
+    ]
+  },
+  {
+    "name": "jinjor/elm-html-parser",
+    "latest": "1.1.5",
+    "modules": [
+      "HtmlParser.Util",
+      "HtmlParser"
+    ]
+  },
+  {
+    "name": "jinjor/elm-inline-hover",
+    "latest": "1.0.2",
+    "modules": [
+      "InlineHover"
+    ]
+  },
+  {
+    "name": "jinjor/elm-time-travel",
+    "latest": "2.0.0",
+    "modules": [
+      "TimeTravel.Html",
+      "TimeTravel.Navigation"
+    ]
+  },
+  {
+    "name": "jinjor/elm-transition",
+    "latest": "1.0.0",
+    "modules": [
+      "Transition"
+    ]
+  },
+  {
+    "name": "jinjor/elm-xml-parser",
+    "latest": "1.0.0",
+    "modules": [
+      "XmlParser"
+    ]
+  },
+  {
+    "name": "jmackie4/elm-bulma",
+    "latest": "1.0.0",
+    "modules": [
+      "Layout",
+      "Form",
+      "Components.Tabs",
+      "Components.Navbar",
+      "Components.Level",
+      "Components.Message",
+      "Components.Panel",
+      "Elements",
+      "Components.Modal",
+      "Components.Media",
+      "Components.Dropdown",
+      "Columns"
+    ]
+  },
+  {
+    "name": "joeandaverde/flex-html",
+    "latest": "1.0.0",
+    "modules": [
+      "Flex"
+    ]
+  },
+  {
+    "name": "joefiorini/elm-time-machine",
+    "latest": "1.0.0",
+    "modules": [
+      "TimeMachine",
+      "TimeMachine.History",
+      "TimeMachine.Travel"
+    ]
+  },
+  {
+    "name": "john-kelly/elm-interactive-graphics",
+    "latest": "2.0.0",
+    "modules": [
+      "Collage.Program"
+    ]
+  },
+  {
+    "name": "john-kelly/elm-postgrest",
+    "latest": "4.1.0",
+    "modules": [
+      "PostgRest"
+    ]
+  },
+  {
+    "name": "john-kelly/elm-rest",
+    "latest": "3.0.2",
+    "modules": [
+      "Rest"
+    ]
+  },
+  {
+    "name": "johnpmayer/elm-linear-algebra",
+    "latest": "2.0.2",
+    "modules": [
+      "Math.Matrix4",
+      "Math.Vector4",
+      "Math.Vector3",
+      "Math.Vector2"
+    ]
+  },
+  {
+    "name": "johnpmayer/elm-opaque",
+    "latest": "1.0.0",
+    "modules": [
+      "Opaque"
+    ]
+  },
+  {
+    "name": "johnpmayer/elm-webgl",
+    "latest": "4.0.1",
+    "modules": [
+      "WebGL"
+    ]
+  },
+  {
+    "name": "johnpmayer/state",
+    "latest": "1.0.0",
+    "modules": [
+      "Control.State"
+    ]
+  },
+  {
+    "name": "johnpmayer/tagtree",
+    "latest": "1.0.0",
+    "modules": [
+      "Data.TagTree"
+    ]
+  },
+  {
+    "name": "johnpmayer/vec2",
+    "latest": "1.0.0",
+    "modules": [
+      "Data.Vec2"
+    ]
+  },
+  {
+    "name": "jonathanfishbein1/elm-comment",
+    "latest": "4.0.0",
+    "modules": [
+      "CommentView",
+      "CommentUpdate",
+      "CommentStyles",
+      "CommentModel"
+    ]
+  },
+  {
+    "name": "joneshf/elm-",
+    "latest": "1.0.0",
+    "modules": [
+      "Dashes"
+    ]
+  },
+  {
+    "name": "joneshf/elm-comonad",
+    "latest": "2.1.0",
+    "modules": [
+      "Env",
+      "Traced",
+      "Platform.Alternative",
+      "Store",
+      "Html.Alternative"
+    ]
+  },
+  {
+    "name": "joneshf/elm-constraint",
+    "latest": "1.1.0",
+    "modules": [
+      "Constraint.Monoid",
+      "Constraint.Ord",
+      "Constraint.Eq",
+      "Constraint.Semigroup",
+      "Constraint"
+    ]
+  },
+  {
+    "name": "joneshf/elm-mom",
+    "latest": "1.0.0",
+    "modules": [
+      "Mom.Option",
+      "Mom.Identity",
+      "Mom.Either",
+      "Mom.Always",
+      "Mom"
+    ]
+  },
+  {
+    "name": "joneshf/elm-proof",
+    "latest": "2.0.0",
+    "modules": [
+      "Equality",
+      "Equivalence"
+    ]
+  },
+  {
+    "name": "joneshf/elm-proxy",
+    "latest": "1.0.0",
+    "modules": [
+      "Proxy"
+    ]
+  },
+  {
+    "name": "joneshf/elm-tagged",
+    "latest": "2.0.0",
+    "modules": [
+      "Tagged.Dict",
+      "Tagged"
+    ]
+  },
+  {
+    "name": "joneshf/elm-tail-recursion",
+    "latest": "1.0.4",
+    "modules": [
+      "TailRecursion"
+    ]
+  },
+  {
+    "name": "joneshf/elm-these",
+    "latest": "1.2.0",
+    "modules": [
+      "Dict.Simple",
+      "These"
+    ]
+  },
+  {
+    "name": "joonazan/elm-ast",
+    "latest": "1.0.3",
+    "modules": [
+      "Ast",
+      "Ast.Statement",
+      "Ast.Expression",
+      "Ast.BinOp"
+    ]
+  },
+  {
+    "name": "joonazan/elm-type-inference",
+    "latest": "2.0.0",
+    "modules": [
+      "Infer",
+      "Infer.Scheme",
+      "Infer.Expression",
+      "Infer.Monad",
+      "Infer.Type"
+    ]
+  },
+  {
+    "name": "jpagex/elm-geoip",
+    "latest": "1.0.0",
+    "modules": [
+      "Geoip"
+    ]
+  },
+  {
+    "name": "jpagex/elm-loader",
+    "latest": "1.0.0",
+    "modules": [
+      "Loader"
+    ]
+  },
+  {
+    "name": "jpagex/elm-material-color",
+    "latest": "1.0.0",
+    "modules": [
+      "MaterialColor"
+    ]
+  },
+  {
+    "name": "jreut/elm-grid",
+    "latest": "1.0.2",
+    "modules": [
+      "Grid"
+    ]
+  },
+  {
+    "name": "jsanchesleao/elm-assert",
+    "latest": "1.0.1",
+    "modules": [
+      "Assert"
+    ]
+  },
+  {
+    "name": "jschomay/elm-bounded-number",
+    "latest": "1.0.0",
+    "modules": [
+      "Number.Bounded"
+    ]
+  },
+  {
+    "name": "jschomay/elm-narrative-engine",
+    "latest": "3.0.0",
+    "modules": [
+      "Engine"
+    ]
+  },
+  {
+    "name": "jschomay/elm-paginate",
+    "latest": "3.0.0",
+    "modules": [
+      "Paginate",
+      "Paginate.Custom"
+    ]
+  },
+  {
+    "name": "jschonenberg/elm-dropdown",
+    "latest": "1.0.1",
+    "modules": [
+      "Dropdown"
+    ]
+  },
+  {
+    "name": "jtanguy/moulin-rouge",
+    "latest": "2.0.0",
+    "modules": [
+      "Slides"
+    ]
+  },
+  {
+    "name": "jterbraak/DateOp",
+    "latest": "2.1.0",
+    "modules": [
+      "Date.Op",
+      "Date.StartOf",
+      "Date.TimeStamp",
+      "Date.Locale.NL",
+      "Date.Locale.DE",
+      "Date.Locale.EN"
+    ]
+  },
+  {
+    "name": "jtojnar/elm-json-tape",
+    "latest": "1.1.1",
+    "modules": [
+      "Codec.JsonTape.Decode",
+      "Codec.JsonTape.Encode",
+      "Codec.JsonTape"
+    ]
+  },
+  {
+    "name": "juanedi/charty",
+    "latest": "2.0.0",
+    "modules": [
+      "Charty.PieChart",
+      "Charty.LineChart",
+      "Charty.Color"
+    ]
+  },
+  {
+    "name": "justgage/tachyons-elm",
+    "latest": "3.1.1",
+    "modules": [
+      "Tachyons.Classes",
+      "Tachyons"
+    ]
+  },
+  {
+    "name": "justinmimbs/elm-arc-diagram",
+    "latest": "1.0.0",
+    "modules": [
+      "ArcDiagram.Distance",
+      "ArcDiagram",
+      "AcyclicDigraph"
+    ]
+  },
+  {
+    "name": "justinmimbs/elm-date-extra",
+    "latest": "2.0.3",
+    "modules": [
+      "Date.Extra",
+      "Date.Extra.Facts"
+    ]
+  },
+  {
+    "name": "justinmimbs/elm-date-selector",
+    "latest": "1.0.2",
+    "modules": [
+      "DateSelectorDropdown",
+      "DateSelector"
+    ]
+  },
+  {
+    "name": "jvdvleuten/url-parser-combinator",
+    "latest": "1.0.0",
+    "modules": [
+      "UrlParser"
+    ]
+  },
+  {
+    "name": "jvoigtlaender/elm-drag",
+    "latest": "1.0.1",
+    "modules": [
+      "Drag"
+    ]
+  },
+  {
+    "name": "jvoigtlaender/elm-drag-and-drop",
+    "latest": "1.0.6",
+    "modules": [
+      "DragAndDrop"
+    ]
+  },
+  {
+    "name": "jvoigtlaender/elm-gauss",
+    "latest": "1.0.2",
+    "modules": [
+      "Gauss"
+    ]
+  },
+  {
+    "name": "jvoigtlaender/elm-memo",
+    "latest": "2.0.5",
+    "modules": [
+      "Memo"
+    ]
+  },
+  {
+    "name": "jvoigtlaender/elm-warshall",
+    "latest": "1.0.2",
+    "modules": [
+      "Warshall"
+    ]
+  },
+  {
+    "name": "jweir/elm-iso8601",
+    "latest": "4.0.0",
+    "modules": [
+      "ISO8601"
+    ]
+  },
+  {
+    "name": "jweir/sparkline",
+    "latest": "3.0.0",
+    "modules": [
+      "Sparkline",
+      "Sparkline.Extras"
+    ]
+  },
+  {
+    "name": "jwmerrill/elm-animation-frame",
+    "latest": "1.0.5",
+    "modules": [
+      "AnimationFrame"
+    ]
+  },
+  {
+    "name": "jwoudenberg/elm-test-experimental",
+    "latest": "1.0.0",
+    "modules": [
+      "Fuzz.Msg"
+    ]
+  },
+  {
+    "name": "jxxcarlson/minilatex",
+    "latest": "2.0.2",
+    "modules": [
+      "MiniLatex.Driver"
+    ]
+  },
+  {
+    "name": "jystic/elm-font-awesome",
+    "latest": "2.0.1",
+    "modules": [
+      "FontAwesome"
+    ]
+  },
+  {
+    "name": "kallaspriit/elm-basic-auth",
+    "latest": "1.0.0",
+    "modules": [
+      "BasicAuth"
+    ]
+  },
+  {
+    "name": "kalutheo/elm-ui-explorer",
+    "latest": "1.0.3",
+    "modules": [
+      "UIExplorer"
+    ]
+  },
+  {
+    "name": "karldray/elm-ref",
+    "latest": "3.3.0",
+    "modules": [
+      "Ref",
+      "Array.Ref",
+      "Dict.Ref"
+    ]
+  },
+  {
+    "name": "kennib/elm-maps",
+    "latest": "4.2.0",
+    "modules": [
+      "Maps",
+      "Maps.Marker",
+      "Maps.Convert",
+      "Maps.Map",
+      "Maps.Geo"
+    ]
+  },
+  {
+    "name": "kennib/elm-swipe",
+    "latest": "3.0.0",
+    "modules": [
+      "Swipe"
+    ]
+  },
+  {
+    "name": "kfish/glsl-pasta",
+    "latest": "4.1.0",
+    "modules": [
+      "GLSLPasta.Lighting",
+      "GLSLPasta.Math",
+      "GLSLPasta",
+      "GLSLPasta.Core",
+      "GLSLPasta.Types"
+    ]
+  },
+  {
+    "name": "kfish/quaternion",
+    "latest": "2.1.0",
+    "modules": [
+      "Quaternion",
+      "Quaternion.Internal"
+    ]
+  },
+  {
+    "name": "kintail/input-widget",
+    "latest": "1.0.6",
+    "modules": [
+      "Kintail.InputWidget"
+    ]
+  },
+  {
+    "name": "kirchner/elm-selectize",
+    "latest": "2.0.5",
+    "modules": [
+      "Selectize"
+    ]
+  },
+  {
+    "name": "kirchner/form-validation",
+    "latest": "1.1.0",
+    "modules": [
+      "Validate"
+    ]
+  },
+  {
+    "name": "kkpoon/elm-auth0",
+    "latest": "2.0.0",
+    "modules": [
+      "Auth0"
+    ]
+  },
+  {
+    "name": "kkpoon/elm-auth0-urlparser",
+    "latest": "1.1.0",
+    "modules": [
+      "Auth0.UrlParser"
+    ]
+  },
+  {
+    "name": "kkpoon/elm-echarts",
+    "latest": "8.0.0",
+    "modules": [
+      "ECharts",
+      "ECharts.PieChart",
+      "ECharts.BarChart",
+      "ECharts.Style"
+    ]
+  },
+  {
+    "name": "klaftertief/elm-heatmap",
+    "latest": "1.0.0",
+    "modules": [
+      "Heatmap",
+      "Heatmap.Gradient"
+    ]
+  },
+  {
+    "name": "knewter/elm-rfc5988-parser",
+    "latest": "2.0.1",
+    "modules": [
+      "RFC5988"
+    ]
+  },
+  {
+    "name": "knledg/touch-events",
+    "latest": "2.1.2",
+    "modules": [
+      "TouchEvents"
+    ]
+  },
+  {
+    "name": "koyachi/elm-sha",
+    "latest": "1.0.0",
+    "modules": [
+      "Sha"
+    ]
+  },
+  {
+    "name": "kress95/random-pcg-extra",
+    "latest": "1.0.1",
+    "modules": [
+      "Random.Pcg.Date",
+      "Random.Pcg.Set",
+      "Random.Pcg.Order",
+      "Random.Pcg.List",
+      "Random.Pcg.Char",
+      "Random.Pcg.Array",
+      "Random.Pcg.Int",
+      "Random.Pcg.String",
+      "Random.Pcg.Color",
+      "Random.Pcg.Dict",
+      "Random.Pcg.Float",
+      "Random.Pcg.Extra"
+    ]
+  },
+  {
+    "name": "krisajenkins/elm-astar",
+    "latest": "2.1.2",
+    "modules": [
+      "AStar",
+      "AStar.Generalised"
+    ]
+  },
+  {
+    "name": "krisajenkins/elm-cdn",
+    "latest": "2.0.0",
+    "modules": [
+      "CDN"
+    ]
+  },
+  {
+    "name": "krisajenkins/elm-dialog",
+    "latest": "4.0.3",
+    "modules": [
+      "Dialog"
+    ]
+  },
+  {
+    "name": "krisajenkins/elm-exts",
+    "latest": "27.4.0",
+    "modules": [
+      "Exts.Html",
+      "Exts.Html.Events",
+      "Exts.List",
+      "Exts.Html.Attributes",
+      "Exts.Validation",
+      "Exts.Function",
+      "Exts.Float",
+      "Exts.Set",
+      "Exts.Tuple",
+      "Exts.Task",
+      "Exts.Result",
+      "Exts.Maybe",
+      "Exts.String",
+      "Exts.Int",
+      "Exts.Json.Encode",
+      "Exts.Json.Decode",
+      "Exts.LatLng",
+      "Exts.Html.Bootstrap",
+      "Exts.Html.Bootstrap.Glyphicons",
+      "Exts.Http",
+      "Exts.Html.Table",
+      "Exts.Dict",
+      "Exts.Delta",
+      "Exts.Basics",
+      "Exts.Date",
+      "Exts.Array"
+    ]
+  },
+  {
+    "name": "krisajenkins/formatting",
+    "latest": "4.2.0",
+    "modules": [
+      "Formatting"
+    ]
+  },
+  {
+    "name": "krisajenkins/history",
+    "latest": "1.1.1",
+    "modules": [
+      "History"
+    ]
+  },
+  {
+    "name": "krisajenkins/remotedata",
+    "latest": "4.3.3",
+    "modules": [
+      "RemoteData.Infix",
+      "RemoteData"
+    ]
+  },
+  {
+    "name": "ktonon/elm-aws-core",
+    "latest": "1.1.0",
+    "modules": [
+      "AWS.Core.Http",
+      "AWS.Core.Credentials",
+      "AWS.Core.Service",
+      "AWS.Core.Enum",
+      "AWS"
+    ]
+  },
+  {
+    "name": "ktonon/elm-child-update",
+    "latest": "1.0.2",
+    "modules": [
+      "ChildUpdate"
+    ]
+  },
+  {
+    "name": "ktonon/elm-crypto",
+    "latest": "1.1.1",
+    "modules": [
+      "Crypto.HMAC",
+      "Crypto.Hash"
+    ]
+  },
+  {
+    "name": "ktonon/elm-english-dictionary",
+    "latest": "2.0.2",
+    "modules": [
+      "EnglishDictionary",
+      "Words1To5",
+      "PartOfSpeech"
+    ]
+  },
+  {
+    "name": "ktonon/elm-hmac",
+    "latest": "1.0.1",
+    "modules": [
+      "HMAC"
+    ]
+  },
+  {
+    "name": "ktonon/elm-jsonwebtoken",
+    "latest": "1.0.2",
+    "modules": [
+      "JsonWebToken"
+    ]
+  },
+  {
+    "name": "ktonon/elm-memo-pure",
+    "latest": "1.0.0",
+    "modules": [
+      "Memo"
+    ]
+  },
+  {
+    "name": "ktonon/elm-serverless",
+    "latest": "4.0.1",
+    "modules": [
+      "Serverless",
+      "Serverless.Plug",
+      "Serverless.Conn",
+      "Serverless.Conn.Response",
+      "Serverless.Conn.Request"
+    ]
+  },
+  {
+    "name": "ktonon/elm-serverless-auth-jwt",
+    "latest": "1.0.0",
+    "modules": [
+      "Serverless.JWT"
+    ]
+  },
+  {
+    "name": "ktonon/elm-serverless-cors",
+    "latest": "2.1.0",
+    "modules": [
+      "Serverless.Cors"
+    ]
+  },
+  {
+    "name": "ktonon/elm-test-extra",
+    "latest": "1.6.2",
+    "modules": [
+      "Test.Extra",
+      "Fuzz.Extra",
+      "Expect.Extra"
+    ]
+  },
+  {
+    "name": "ktonon/elm-word",
+    "latest": "2.1.1",
+    "modules": [
+      "Word.Hex",
+      "Word",
+      "Word.Bytes"
+    ]
+  },
+  {
+    "name": "ktonon/url-parser",
+    "latest": "2.0.2",
+    "modules": [
+      "UrlParser"
+    ]
+  },
+  {
+    "name": "kuon/elm-hsluv",
+    "latest": "1.0.1",
+    "modules": [
+      "HSLuv"
+    ]
+  },
+  {
+    "name": "kuon/elm-string-normalize",
+    "latest": "1.0.0",
+    "modules": [
+      "String.Normalize"
+    ]
+  },
+  {
+    "name": "kuzminadya/mogeefont",
+    "latest": "1.0.3",
+    "modules": [
+      "MogeeFont"
+    ]
+  },
+  {
+    "name": "kuzzmi/elm-gravatar",
+    "latest": "2.0.1",
+    "modules": [
+      "Gravatar"
+    ]
+  },
+  {
+    "name": "labzero/elm-google-geocoding",
+    "latest": "4.0.1",
+    "modules": [
+      "Geocoding"
+    ]
+  },
+  {
+    "name": "lagunoff/elm-mdl",
+    "latest": "1.0.0",
+    "modules": [
+      "Material",
+      "Material.Scheme",
+      "Material.Layout",
+      "Material.Textfield",
+      "Material.Menu",
+      "Material.List",
+      "Material.Chip",
+      "Material.Spinner",
+      "Material.Tooltip",
+      "Material.Grid",
+      "Material.Color",
+      "Material.Footer",
+      "Material.Badge",
+      "Material.Elevation",
+      "Material.Toggles",
+      "Material.Typography",
+      "Material.Tabs",
+      "Material.Slider",
+      "Material.Table",
+      "Material.Progress",
+      "Material.Icon",
+      "Material.Card",
+      "Material.Button",
+      "Material.Dialog",
+      "Material.Options",
+      "Material.Snackbar",
+      "Material.Helpers"
+    ]
+  },
+  {
+    "name": "larribas/elm-image-slider",
+    "latest": "3.0.1",
+    "modules": [
+      "ImageSlider"
+    ]
+  },
+  {
+    "name": "larribas/elm-multi-email-input",
+    "latest": "1.0.0",
+    "modules": [
+      "MultiEmailInput"
+    ]
+  },
+  {
+    "name": "larribas/elm-multi-input",
+    "latest": "1.0.0",
+    "modules": [
+      "MultiInput"
+    ]
+  },
+  {
+    "name": "laszlopandy/elm-console",
+    "latest": "1.1.1",
+    "modules": [
+      "Console"
+    ]
+  },
+  {
+    "name": "lattenwald/elm-base64",
+    "latest": "1.0.3",
+    "modules": [
+      "Base64"
+    ]
+  },
+  {
+    "name": "layer6ai/elm-filter-box",
+    "latest": "1.1.2",
+    "modules": [
+      "FilterBox.Helpers",
+      "FilterBox"
+    ]
+  },
+  {
+    "name": "layer6ai/elm-query-builder",
+    "latest": "2.0.0",
+    "modules": [
+      "QueryBuilder.Update",
+      "QueryBuilder.View",
+      "QueryBuilder.State"
+    ]
+  },
+  {
+    "name": "league/difference-list",
+    "latest": "1.1.1",
+    "modules": [
+      "DList"
+    ]
+  },
+  {
+    "name": "league/unique-id",
+    "latest": "2.0.0",
+    "modules": [
+      "Unique"
+    ]
+  },
+  {
+    "name": "lgastako/elm-select",
+    "latest": "2.1.0",
+    "modules": [
+      "Select"
+    ]
+  },
+  {
+    "name": "liamcurry/elm-media",
+    "latest": "1.0.0",
+    "modules": [
+      "Media.Site",
+      "Media"
+    ]
+  },
+  {
+    "name": "lorenzo/elm-string-addons",
+    "latest": "2.0.1",
+    "modules": [
+      "String.Addons"
+    ]
+  },
+  {
+    "name": "lorenzo/elm-tree-diagram",
+    "latest": "1.0.0",
+    "modules": [
+      "TreeDiagram"
+    ]
+  },
+  {
+    "name": "lovasoa/choices",
+    "latest": "3.1.6",
+    "modules": [
+      "Choices"
+    ]
+  },
+  {
+    "name": "lovasoa/elm-component-list",
+    "latest": "1.0.6",
+    "modules": [
+      "ComponentList"
+    ]
+  },
+  {
+    "name": "lovasoa/elm-csv",
+    "latest": "1.1.4",
+    "modules": [
+      "Csv"
+    ]
+  },
+  {
+    "name": "lovasoa/elm-format-number",
+    "latest": "1.1.3",
+    "modules": [
+      "FormatNumber"
+    ]
+  },
+  {
+    "name": "lovasoa/elm-jsonpseudolist",
+    "latest": "1.0.2",
+    "modules": [
+      "JsonPseudoList"
+    ]
+  },
+  {
+    "name": "lovasoa/elm-median",
+    "latest": "1.0.4",
+    "modules": [
+      "Median"
+    ]
+  },
+  {
+    "name": "lovasoa/elm-nested-list",
+    "latest": "1.2.1",
+    "modules": [
+      "NestedList"
+    ]
+  },
+  {
+    "name": "lovasoa/elm-rolling-list",
+    "latest": "1.0.0",
+    "modules": [
+      "RollingList"
+    ]
+  },
+  {
+    "name": "lucasssm/simpledate",
+    "latest": "2.0.0",
+    "modules": [
+      "SimpleDate"
+    ]
+  },
+  {
+    "name": "ludvigsen/elm-svg-ast",
+    "latest": "1.0.0",
+    "modules": [
+      "SvgAst.Render",
+      "SvgAst.Parser",
+      "SvgAst.Encode",
+      "SvgAst.Decode",
+      "SvgAst"
+    ]
+  },
+  {
+    "name": "luftzig/elm-quadtree",
+    "latest": "1.0.1",
+    "modules": [
+      "QuadTree"
+    ]
+  },
+  {
+    "name": "lukewestby/elm-http-builder",
+    "latest": "5.1.0",
+    "modules": [
+      "HttpBuilder"
+    ]
+  },
+  {
+    "name": "lukewestby/elm-http-extra",
+    "latest": "5.2.0",
+    "modules": [
+      "Http.Extra"
+    ]
+  },
+  {
+    "name": "lukewestby/elm-i18n",
+    "latest": "1.0.0",
+    "modules": [
+      "I18n"
+    ]
+  },
+  {
+    "name": "lukewestby/elm-string-interpolate",
+    "latest": "1.0.1",
+    "modules": [
+      "String.Interpolate"
+    ]
+  },
+  {
+    "name": "lukewestby/elm-template",
+    "latest": "2.0.0",
+    "modules": [
+      "Template.Infix",
+      "Template"
+    ]
+  },
+  {
+    "name": "lukewestby/http-extra",
+    "latest": "2.0.0",
+    "modules": [
+      "Http.Extra"
+    ]
+  },
+  {
+    "name": "lukewestby/lru-cache",
+    "latest": "1.0.2",
+    "modules": [
+      "LruCache"
+    ]
+  },
+  {
+    "name": "lukewestby/package-info",
+    "latest": "1.0.0",
+    "modules": [
+      "PackageInfo",
+      "PackageInfo.VersionRange",
+      "PackageInfo.Version"
+    ]
+  },
+  {
+    "name": "lukewestby/worker",
+    "latest": "2.0.1",
+    "modules": [
+      "Worker"
+    ]
+  },
+  {
+    "name": "lukewestby-fake-elm-lang-1/redirect-test-1",
+    "latest": "1.0.0",
+    "modules": [
+      "RedirectTestOne"
+    ]
+  },
+  {
+    "name": "lynn/elm-arithmetic",
+    "latest": "2.0.3",
+    "modules": [
+      "Arithmetic"
+    ]
+  },
+  {
+    "name": "lynn/elm-ordinal",
+    "latest": "1.0.3",
+    "modules": [
+      "Ordinal"
+    ]
+  },
+  {
+    "name": "lzrski/elm-polymer",
+    "latest": "1.0.7",
+    "modules": [
+      "Polymer.Paper.Spinner.Attributes",
+      "Polymer.Paper.Tabs.Attributes",
+      "Polymer.Paper.Input.Attributes",
+      "Polymer.Paper.Listbox.Attributes",
+      "Polymer.Paper.Slider.Attributes",
+      "Polymer.Paper.Tooltip.Attributes",
+      "Polymer.App.Layout.Attributes",
+      "Polymer.Paper.Toolbar.Attributes",
+      "Polymer.Paper.Badge.Attributes",
+      "Polymer.Paper.IconButton.Attributes",
+      "Polymer.Paper.Progress.Attributes",
+      "Polymer.Paper.Item.Attributes",
+      "Polymer.Paper.RadioButton.Attributes",
+      "Polymer.Paper.RadioGroup.Attributes",
+      "Polymer.Paper.MenuButton.Attributes",
+      "Polymer.Paper.Checkbox.Attributes",
+      "Polymer.Paper.DropdownMenu.Attributes",
+      "Polymer.Paper.ToggleButton.Attributes",
+      "Polymer.Paper.SwatchPicker.Attributes",
+      "Polymer.Paper.Card.Attributes",
+      "Polymer.Paper.Button.Attributes",
+      "Polymer.Iron.Icons.Attributes",
+      "Polymer.Paper.RadioGroup",
+      "Polymer.Paper.RadioButton",
+      "Polymer.Paper.MenuButton",
+      "Polymer.Paper.Progress",
+      "Polymer.Paper.Item",
+      "Polymer.Paper.Listbox",
+      "Polymer.Paper.Toolbar",
+      "Polymer.Paper.Tooltip",
+      "Polymer.Paper.Tabs",
+      "Polymer.App.Layout",
+      "Polymer.Paper.Spinner",
+      "Polymer.Paper.ToggleButton",
+      "Polymer.Paper.Styles",
+      "Polymer.Paper.SwatchPicker",
+      "Polymer.Paper.Checkbox",
+      "Polymer.Paper.DropdownMenu",
+      "Polymer.Paper.Button",
+      "Polymer.Paper.Slider",
+      "Polymer.Paper.Input",
+      "Polymer.Paper.Card",
+      "Polymer.Iron.Icons",
+      "Polymer.Paper.Badge",
+      "Polymer.Attributes",
+      "Polymer.Paper.IconButton"
+    ]
+  },
+  {
+    "name": "maksar/elm-function-extra",
+    "latest": "2.0.0",
+    "modules": [
+      "Function.Extra"
+    ]
+  },
+  {
+    "name": "maksar/elm-workflow",
+    "latest": "2.0.0",
+    "modules": [
+      "Workflow",
+      "User",
+      "Permission"
+    ]
+  },
+  {
+    "name": "maorleger/elm-flash",
+    "latest": "1.0.3",
+    "modules": [
+      "Flash"
+    ]
+  },
+  {
+    "name": "maorleger/elm-infinite-zipper",
+    "latest": "2.1.0",
+    "modules": [
+      "List.InfiniteZipper"
+    ]
+  },
+  {
+    "name": "marcosccm/elm-datepicker",
+    "latest": "1.0.0",
+    "modules": [
+      "DatePicker"
+    ]
+  },
+  {
+    "name": "marcosh/elm-html-to-unicode",
+    "latest": "1.0.2",
+    "modules": [
+      "ElmEscapeHtml"
+    ]
+  },
+  {
+    "name": "marshallformula/arrangeable-list",
+    "latest": "1.1.0",
+    "modules": [
+      "ArrangeableList"
+    ]
+  },
+  {
+    "name": "marshallformula/elm-swiper",
+    "latest": "1.0.1",
+    "modules": [
+      "Swiper"
+    ]
+  },
+  {
+    "name": "martin-volf/elm-jsonrpc",
+    "latest": "1.0.0",
+    "modules": [
+      "JsonRPC.Infix",
+      "JsonRPC"
+    ]
+  },
+  {
+    "name": "martinsk/elm-datastructures",
+    "latest": "2.0.0",
+    "modules": [
+      "Queue"
+    ]
+  },
+  {
+    "name": "massung/elm-css",
+    "latest": "1.1.1",
+    "modules": [
+      "Css"
+    ]
+  },
+  {
+    "name": "matheus23/elm-drag-and-drop",
+    "latest": "5.0.0",
+    "modules": [
+      "DragAndDrop.ReorderList",
+      "DragAndDrop",
+      "DragAndDrop.Divider"
+    ]
+  },
+  {
+    "name": "matheus23/please-focus-more",
+    "latest": "1.0.0",
+    "modules": [
+      "FocusMore"
+    ]
+  },
+  {
+    "name": "matthewrankin/elm-mdl",
+    "latest": "1.0.0",
+    "modules": [
+      "Material",
+      "Material.Layout",
+      "Material.Textfield",
+      "Material.List",
+      "Material.Chip",
+      "Material.Menu",
+      "Material.Scheme",
+      "Material.Toggles",
+      "Material.Tabs",
+      "Material.Button",
+      "Material.Grid",
+      "Material.Badge",
+      "Material.Typography",
+      "Material.Table",
+      "Material.Footer",
+      "Material.Icon",
+      "Material.Slider",
+      "Material.Progress",
+      "Material.Tooltip",
+      "Material.Spinner",
+      "Material.Color",
+      "Material.Elevation",
+      "Material.Dialog",
+      "Material.Card",
+      "Material.Options",
+      "Material.Snackbar",
+      "Material.Helpers"
+    ]
+  },
+  {
+    "name": "matthewsj/elm-ordering",
+    "latest": "1.1.0",
+    "modules": [
+      "Ordering"
+    ]
+  },
+  {
+    "name": "mattjbray/elm-prismicio",
+    "latest": "3.0.0",
+    "modules": [
+      "Prismic",
+      "Prismic.Slice",
+      "Prismic.Group",
+      "Prismic.Field"
+    ]
+  },
+  {
+    "name": "mattrrichard/elm-disjoint-set",
+    "latest": "1.0.1",
+    "modules": [
+      "DisjointSet.Computation",
+      "DisjointSet"
+    ]
+  },
+  {
+    "name": "maximoleinyk/elm-parser-utils",
+    "latest": "1.1.0",
+    "modules": [
+      "BasicParsers",
+      "ParserUtils"
+    ]
+  },
+  {
+    "name": "maxsnew/IO",
+    "latest": "1.0.1",
+    "modules": [
+      "IO.IO",
+      "IO.Runner"
+    ]
+  },
+  {
+    "name": "maxsnew/lazy",
+    "latest": "1.1.0",
+    "modules": [
+      "Lazy"
+    ]
+  },
+  {
+    "name": "mbr/elm-mouse-events",
+    "latest": "1.0.4",
+    "modules": [
+      "MouseEvents"
+    ]
+  },
+  {
+    "name": "mbylstra/elm-html-helpers",
+    "latest": "1.0.2",
+    "modules": [
+      "HtmlHelpers",
+      "HtmlHelpers.Events"
+    ]
+  },
+  {
+    "name": "mc706/elm-clarity-ui",
+    "latest": "2.8.1",
+    "modules": [
+      "ClarityUI.Grid",
+      "ClarityUI.Header",
+      "ClarityUI.Subnav",
+      "ClarityUI.Sidenav",
+      "ClarityUI.ProgressBar",
+      "ClarityUI.Spinner",
+      "ClarityUI.Icon",
+      "ClarityUI.Label",
+      "ClarityUI.Card",
+      "ClarityUI.CDN",
+      "ClarityUI.Button",
+      "ClarityUI.Layout",
+      "ClarityUI.Badge",
+      "ClarityUI.Alert"
+    ]
+  },
+  {
+    "name": "mdgriffith/elm-animation-pack",
+    "latest": "1.0.0",
+    "modules": [
+      "Animation.Pack"
+    ]
+  },
+  {
+    "name": "mdgriffith/elm-color-mixing",
+    "latest": "1.1.1",
+    "modules": [
+      "Color.Mixing"
+    ]
+  },
+  {
+    "name": "mdgriffith/elm-html-animation",
+    "latest": "3.0.4",
+    "modules": [
+      "Html.Animation",
+      "Html.Animation.Properties"
+    ]
+  },
+  {
+    "name": "mdgriffith/elm-style-animation",
+    "latest": "3.5.5",
+    "modules": [
+      "Animation",
+      "Animation.Messenger",
+      "Animation.Spring.Presets"
+    ]
+  },
+  {
+    "name": "mdgriffith/elm-style-animation-0.16",
+    "latest": "1.0.0",
+    "modules": [
+      "Html.Animation",
+      "Html.Animation.Properties"
+    ]
+  },
+  {
+    "name": "mdgriffith/elm-style-animation-zero-sixteen",
+    "latest": "1.0.1",
+    "modules": [
+      "Html.Animation",
+      "Html.Animation.Properties"
+    ]
+  },
+  {
+    "name": "mdgriffith/style-elements",
+    "latest": "4.2.1",
+    "modules": [
+      "Element.Input",
+      "Element.Keyed",
+      "Style.Transition",
+      "Style.Font",
+      "Style.Border",
+      "Style.Sheet",
+      "Style.Color",
+      "Element",
+      "Style.Shadow",
+      "Style.Filter",
+      "Style.Background",
+      "Style",
+      "Element.Attributes",
+      "Element.Events",
+      "Style.Scale"
+    ]
+  },
+  {
+    "name": "mdgriffith/stylish-elephants",
+    "latest": "2.0.0",
+    "modules": [
+      "Element.Input",
+      "Element.Keyed",
+      "Element",
+      "Style.Transition",
+      "Style.Shadow",
+      "Style.Font",
+      "Style.Sheet",
+      "Style.Border",
+      "Style.Color",
+      "Style.Background",
+      "Style.Filter",
+      "Style",
+      "Element.Events",
+      "Element.Attributes",
+      "Style.Scale"
+    ]
+  },
+  {
+    "name": "mgold/Elm-Align-Distribute",
+    "latest": "1.0.1",
+    "modules": [
+      "Align",
+      "Distribute"
+    ]
+  },
+  {
+    "name": "mgold/Elm-Format-String",
+    "latest": "1.0.0",
+    "modules": [
+      "FormatString"
+    ]
+  },
+  {
+    "name": "mgold/Elm-Multiset",
+    "latest": "1.0.5",
+    "modules": [
+      "Multiset"
+    ]
+  },
+  {
+    "name": "mgold/Elm-Random-Sampling",
+    "latest": "2.0.3",
+    "modules": [
+      "Random.Array"
+    ]
+  },
+  {
+    "name": "mgold/elm-animation",
+    "latest": "1.0.5",
+    "modules": [
+      "Animation"
+    ]
+  },
+  {
+    "name": "mgold/elm-date-format",
+    "latest": "1.4.2",
+    "modules": [
+      "Time.Format",
+      "Date.Format",
+      "Date.Local"
+    ]
+  },
+  {
+    "name": "mgold/elm-geojson",
+    "latest": "2.0.0",
+    "modules": [
+      "GeoJson"
+    ]
+  },
+  {
+    "name": "mgold/elm-join",
+    "latest": "1.0.0",
+    "modules": [
+      "Join"
+    ]
+  },
+  {
+    "name": "mgold/elm-nonempty-list",
+    "latest": "3.1.0",
+    "modules": [
+      "List.Nonempty"
+    ]
+  },
+  {
+    "name": "mgold/elm-random-pcg",
+    "latest": "5.0.2",
+    "modules": [
+      "Random.Pcg.Interop",
+      "Random.Pcg"
+    ]
+  },
+  {
+    "name": "mgold/elm-random-sample",
+    "latest": "1.0.0",
+    "modules": [
+      "Random.Array"
+    ]
+  },
+  {
+    "name": "mgold/elm-socketio",
+    "latest": "2.0.4",
+    "modules": [
+      "SocketIO"
+    ]
+  },
+  {
+    "name": "mgold/elm-turtle-graphics",
+    "latest": "1.0.2",
+    "modules": [
+      "Turtle.Advanced",
+      "Turtle"
+    ]
+  },
+  {
+    "name": "mhoare/elm-stack",
+    "latest": "3.1.1",
+    "modules": [
+      "Stack"
+    ]
+  },
+  {
+    "name": "micktwomey/elmo-8",
+    "latest": "2.0.2",
+    "modules": [
+      "Elmo8.Pico8",
+      "Elmo8.Console"
+    ]
+  },
+  {
+    "name": "mikaxyz/elm-cropper",
+    "latest": "2.0.0",
+    "modules": [
+      "Cropper"
+    ]
+  },
+  {
+    "name": "milesrock/elm-creditcard",
+    "latest": "1.0.0",
+    "modules": [
+      "CreditCard"
+    ]
+  },
+  {
+    "name": "miyamoen/elm-todofuken",
+    "latest": "1.0.1",
+    "modules": [
+      "Todofuken"
+    ]
+  },
+  {
+    "name": "mkovacs/quaternion",
+    "latest": "1.0.0",
+    "modules": [
+      "Math.Quaternion"
+    ]
+  },
+  {
+    "name": "mmetcalfe/elm-random-distributions",
+    "latest": "2.0.0",
+    "modules": [
+      "Random.Distributions"
+    ]
+  },
+  {
+    "name": "monty5811/elm-bible",
+    "latest": "1.0.0",
+    "modules": [
+      "Bible"
+    ]
+  },
+  {
+    "name": "monty5811/remote-list",
+    "latest": "1.0.1",
+    "modules": [
+      "RemoteList"
+    ]
+  },
+  {
+    "name": "mpdairy/elm-component-updater",
+    "latest": "1.0.1",
+    "modules": [
+      "Updater"
+    ]
+  },
+  {
+    "name": "mpizenberg/elm-debounce",
+    "latest": "3.0.2",
+    "modules": [
+      "Control.Throttle",
+      "Control.Debounce",
+      "Control"
+    ]
+  },
+  {
+    "name": "mpizenberg/elm-image-annotation",
+    "latest": "8.2.0",
+    "modules": [
+      "Annotation.Svg",
+      "Annotation.Geometry.Stroke",
+      "Annotation.Style",
+      "Annotation.Viewer",
+      "Annotation.Geometry.BoundingBox",
+      "Annotation.Geometry.Outline",
+      "Annotation.Geometry.Contour",
+      "Annotation.Geometry.Point",
+      "Annotation.Color",
+      "Annotation.Geometry.Types"
+    ]
+  },
+  {
+    "name": "mpizenberg/elm-image-collection",
+    "latest": "4.0.2",
+    "modules": [
+      "Image.Collection",
+      "Image"
+    ]
+  },
+  {
+    "name": "mpizenberg/elm-mouse-events",
+    "latest": "2.0.0",
+    "modules": [
+      "Mouse"
+    ]
+  },
+  {
+    "name": "mpizenberg/elm-pointer-events",
+    "latest": "1.0.5",
+    "modules": [
+      "Pointer"
+    ]
+  },
+  {
+    "name": "mpizenberg/elm-touch-events",
+    "latest": "3.0.1",
+    "modules": [
+      "MultiTouch",
+      "SingleTouch",
+      "Touch"
+    ]
+  },
+  {
+    "name": "mrpinsky/elm-keyed-list",
+    "latest": "1.1.0",
+    "modules": [
+      "KeyedList"
+    ]
+  },
+  {
+    "name": "mrvicadai/elm-palette",
+    "latest": "1.0.0",
+    "modules": [
+      "Palette.FlatUI"
+    ]
+  },
+  {
+    "name": "mrvicadai/elm-stats",
+    "latest": "1.0.2",
+    "modules": [
+      "Stats.NormalDistribution"
+    ]
+  },
+  {
+    "name": "mthadley/elm-byte",
+    "latest": "1.0.1",
+    "modules": [
+      "Byte",
+      "Carry"
+    ]
+  },
+  {
+    "name": "mukeshsoni/elm-rope",
+    "latest": "1.0.0",
+    "modules": [
+      "Rope"
+    ]
+  },
+  {
+    "name": "mulander/diceware",
+    "latest": "1.0.1",
+    "modules": [
+      "Diceware"
+    ]
+  },
+  {
+    "name": "mxgrn/elm-phoenix-socket",
+    "latest": "1.0.0",
+    "modules": [
+      "Phoenix.Socket",
+      "Phoenix.Push",
+      "Phoenix.Channel"
+    ]
+  },
+  {
+    "name": "myrho/dive",
+    "latest": "1.0.1",
+    "modules": [
+      "Dive.ElmLogo",
+      "Dive"
+    ]
+  },
+  {
+    "name": "myrho/elm-round",
+    "latest": "1.0.2",
+    "modules": [
+      "Round"
+    ]
+  },
+  {
+    "name": "myrho/elm-statistics",
+    "latest": "1.0.0",
+    "modules": [
+      "Statistics"
+    ]
+  },
+  {
+    "name": "naddeoa/elm-simple-bootstrap",
+    "latest": "1.1.0",
+    "modules": [
+      "Bootstrap.Components",
+      "Bootstrap.Elements",
+      "Bootstrap.Properties"
+    ]
+  },
+  {
+    "name": "naddeoa/quick-cache",
+    "latest": "1.0.0",
+    "modules": [
+      "Cache"
+    ]
+  },
+  {
+    "name": "naddeoa/stream",
+    "latest": "2.4.0",
+    "modules": [
+      "Stream",
+      "Stream.Source"
+    ]
+  },
+  {
+    "name": "nathanfox/elm-string-format",
+    "latest": "1.0.2",
+    "modules": [
+      "String.Format"
+    ]
+  },
+  {
+    "name": "nathanjohnson320/elmark",
+    "latest": "4.0.0",
+    "modules": [
+      "ElmArk.Msgs",
+      "ElmArk.Account",
+      "ElmArk.Transaction",
+      "ElmArk.MultiSignature",
+      "ElmArk.Signature",
+      "ElmArk.Peer",
+      "ElmArk.Api",
+      "ElmArk.Block",
+      "ElmArk.Loader",
+      "ElmArk.Delegate"
+    ]
+  },
+  {
+    "name": "ndr-qef/microkanren.elm",
+    "latest": "1.0.1",
+    "modules": [
+      "MicroKanren.Operators",
+      "MicroKanren"
+    ]
+  },
+  {
+    "name": "newlandsvalley/elm-abc-parser",
+    "latest": "1.1.0",
+    "modules": [
+      "Music.Tempo",
+      "Music.Transposition",
+      "Music.Notation",
+      "Abc",
+      "Music.Octave",
+      "Music.Accidentals",
+      "Abc.Canonical",
+      "Abc.ParseTree"
+    ]
+  },
+  {
+    "name": "newlandsvalley/elm-binary-base64",
+    "latest": "1.0.0",
+    "modules": [
+      "BinaryBase64"
+    ]
+  },
+  {
+    "name": "newlandsvalley/elm-comidi",
+    "latest": "2.2.0",
+    "modules": [
+      "CoMidi",
+      "MidiTypes"
+    ]
+  },
+  {
+    "name": "nicklawls/elm-html-animation",
+    "latest": "1.0.1",
+    "modules": [
+      "Html.Animation",
+      "Html.Animation.Properties"
+    ]
+  },
+  {
+    "name": "nkotzias/elm-jsonp",
+    "latest": "1.0.0",
+    "modules": [
+      "Jsonp"
+    ]
+  },
+  {
+    "name": "noahzgordon/elm-jsonapi",
+    "latest": "2.2.1",
+    "modules": [
+      "JsonApi.Decode",
+      "JsonApi.Encode",
+      "JsonApi.Resources",
+      "JsonApi.Documents",
+      "JsonApi"
+    ]
+  },
+  {
+    "name": "noahzgordon/elm-jsonapi-http",
+    "latest": "2.0.1",
+    "modules": [
+      "JsonApi.Http"
+    ]
+  },
+  {
+    "name": "nonpop/elm-purl",
+    "latest": "2.1.0",
+    "modules": [
+      "Url"
+    ]
+  },
+  {
+    "name": "norpan/elm-html5-drag-drop",
+    "latest": "1.1.0",
+    "modules": [
+      "Html5.DragDrop"
+    ]
+  },
+  {
+    "name": "norpan/elm-json-patch",
+    "latest": "1.0.0",
+    "modules": [
+      "Json.Patch",
+      "Json.Pointer"
+    ]
+  },
+  {
+    "name": "nphollon/collision",
+    "latest": "3.0.2",
+    "modules": [
+      "Collision",
+      "Collision.Tree"
+    ]
+  },
+  {
+    "name": "nphollon/collisions",
+    "latest": "2.0.0",
+    "modules": [
+      "Collision3D",
+      "Collision2D"
+    ]
+  },
+  {
+    "name": "nphollon/geo3d",
+    "latest": "2.1.1",
+    "modules": [
+      "Frame",
+      "Quaternion",
+      "Vector"
+    ]
+  },
+  {
+    "name": "nphollon/interpolate",
+    "latest": "3.0.4",
+    "modules": [
+      "Interpolate.Bicubic",
+      "Interpolate.Cubic"
+    ]
+  },
+  {
+    "name": "nphollon/mechanics",
+    "latest": "4.0.0",
+    "modules": [
+      "Mechanics"
+    ]
+  },
+  {
+    "name": "nphollon/update-clock",
+    "latest": "2.1.0",
+    "modules": [
+      "Clock"
+    ]
+  },
+  {
+    "name": "nvaldes/elm-bootstrap",
+    "latest": "2.0.0",
+    "modules": [
+      "Main"
+    ]
+  },
+  {
+    "name": "ohanhi/autoexpand",
+    "latest": "2.1.0",
+    "modules": [
+      "AutoExpand"
+    ]
+  },
+  {
+    "name": "ohanhi/elm-web-data",
+    "latest": "2.0.3",
+    "modules": [
+      "WebData.Http",
+      "WebData"
+    ]
+  },
+  {
+    "name": "ohanhi/keyboard-extra",
+    "latest": "3.0.4",
+    "modules": [
+      "Keyboard.Extra"
+    ]
+  },
+  {
+    "name": "ohanhi/lorem",
+    "latest": "1.0.1",
+    "modules": [
+      "Lorem"
+    ]
+  },
+  {
+    "name": "ohanhi/remotedata-http",
+    "latest": "2.1.0",
+    "modules": [
+      "RemoteData.Http"
+    ]
+  },
+  {
+    "name": "oleiade/elm-maestro",
+    "latest": "1.0.0",
+    "modules": [
+      "Maestro.Scale",
+      "Maestro.Interval",
+      "Maestro.Note",
+      "Maestro",
+      "Maestro.Tone"
+    ]
+  },
+  {
+    "name": "omarroth/elm-dom",
+    "latest": "1.0.0",
+    "modules": [
+      "DOM"
+    ]
+  },
+  {
+    "name": "omarroth/elm-parts",
+    "latest": "2.0.0",
+    "modules": [
+      "Parts"
+    ]
+  },
+  {
+    "name": "omnidungeon/layout",
+    "latest": "2.0.0",
+    "modules": [
+      "Layout.Flex",
+      "Layout.Grid",
+      "Layout.Common"
+    ]
+  },
+  {
+    "name": "ondras/elm-irc",
+    "latest": "1.0.1",
+    "modules": [
+      "Irc.App",
+      "Irc",
+      "Irc.Commands",
+      "Irc.Types"
+    ]
+  },
+  {
+    "name": "opensolid/geometry",
+    "latest": "2.0.1",
+    "modules": [
+      "OpenSolid.Geometry.Decode",
+      "OpenSolid.Geometry.Encode",
+      "OpenSolid.Arc3d",
+      "OpenSolid.Polyline3d",
+      "OpenSolid.Triangle3d",
+      "OpenSolid.CubicSpline3d",
+      "OpenSolid.QuadraticSpline3d",
+      "OpenSolid.LineSegment3d",
+      "OpenSolid.Circle3d",
+      "OpenSolid.Frame3d",
+      "OpenSolid.Polygon2d",
+      "OpenSolid.Arc2d",
+      "OpenSolid.SketchPlane3d",
+      "OpenSolid.Triangle2d",
+      "OpenSolid.Polyline2d",
+      "OpenSolid.Plane3d",
+      "OpenSolid.CubicSpline2d",
+      "OpenSolid.LineSegment2d",
+      "OpenSolid.QuadraticSpline2d",
+      "OpenSolid.Circle2d",
+      "OpenSolid.Axis3d",
+      "OpenSolid.Frame2d",
+      "OpenSolid.Point3d",
+      "OpenSolid.Axis2d",
+      "OpenSolid.Direction3d",
+      "OpenSolid.Point2d",
+      "OpenSolid.Vector3d",
+      "OpenSolid.Direction2d",
+      "OpenSolid.BoundingBox3d",
+      "OpenSolid.Vector2d",
+      "OpenSolid.BoundingBox2d",
+      "OpenSolid.Scalar"
+    ]
+  },
+  {
+    "name": "opensolid/linear-algebra",
+    "latest": "1.0.3",
+    "modules": [
+      "OpenSolid.LinearAlgebra.Direction3d",
+      "OpenSolid.LinearAlgebra.Point2d",
+      "OpenSolid.LinearAlgebra.Frame3d",
+      "OpenSolid.LinearAlgebra.Vector2d",
+      "OpenSolid.LinearAlgebra.Vector3d",
+      "OpenSolid.LinearAlgebra.Point3d",
+      "OpenSolid.LinearAlgebra.Direction2d"
+    ]
+  },
+  {
+    "name": "opensolid/linear-algebra-interop",
+    "latest": "2.0.0",
+    "modules": [
+      "OpenSolid.Interop.LinearAlgebra.Direction3d",
+      "OpenSolid.Interop.LinearAlgebra.Point2d",
+      "OpenSolid.Interop.LinearAlgebra.Vector2d",
+      "OpenSolid.Interop.LinearAlgebra.Frame3d",
+      "OpenSolid.Interop.LinearAlgebra.Direction2d",
+      "OpenSolid.Interop.LinearAlgebra.Point3d",
+      "OpenSolid.Interop.LinearAlgebra.Vector3d"
+    ]
+  },
+  {
+    "name": "opensolid/mesh",
+    "latest": "1.0.1",
+    "modules": [
+      "OpenSolid.Mesh"
+    ]
+  },
+  {
+    "name": "opensolid/svg",
+    "latest": "2.0.1",
+    "modules": [
+      "OpenSolid.Svg"
+    ]
+  },
+  {
+    "name": "opensolid/webgl-math",
+    "latest": "1.0.1",
+    "modules": [
+      "OpenSolid.WebGLMath.Frame3d",
+      "OpenSolid.WebGLMath.Vector2d",
+      "OpenSolid.WebGLMath.Point3d",
+      "OpenSolid.WebGLMath.Vector3d",
+      "OpenSolid.WebGLMath.Frame2d",
+      "OpenSolid.WebGLMath.Point2d"
+    ]
+  },
+  {
+    "name": "opensolid/webgl-math-interop",
+    "latest": "1.0.0",
+    "modules": [
+      "OpenSolid.Interop.WebGLMath.Point3d",
+      "OpenSolid.Interop.WebGLMath.Vector3d",
+      "OpenSolid.Interop.WebGLMath.Frame2d",
+      "OpenSolid.Interop.WebGLMath.Frame3d",
+      "OpenSolid.Interop.WebGLMath.Point2d",
+      "OpenSolid.Interop.WebGLMath.Vector2d"
+    ]
+  },
+  {
+    "name": "overminddl1/program-ex",
+    "latest": "2.0.3",
+    "modules": [
+      "ProgramEx",
+      "ProgramEx.States"
+    ]
+  },
+  {
+    "name": "owanturist/elm-validation",
+    "latest": "1.0.0",
+    "modules": [
+      "Validation"
+    ]
+  },
+  {
+    "name": "pablen/toasty",
+    "latest": "1.0.4",
+    "modules": [
+      "Toasty.Defaults",
+      "Toasty"
+    ]
+  },
+  {
+    "name": "pablohirafuji/elm-char-codepoint",
+    "latest": "1.1.2",
+    "modules": [
+      "Char.CodePoint"
+    ]
+  },
+  {
+    "name": "pablohirafuji/elm-markdown",
+    "latest": "2.0.4",
+    "modules": [
+      "Markdown",
+      "Markdown.Block",
+      "Markdown.Config",
+      "Markdown.Inline"
+    ]
+  },
+  {
+    "name": "pablohirafuji/elm-qrcode",
+    "latest": "2.2.0",
+    "modules": [
+      "QRCode",
+      "QRCode.Error",
+      "QRCode.ECLevel"
+    ]
+  },
+  {
+    "name": "pablohirafuji/elm-syntax-highlight",
+    "latest": "2.0.1",
+    "modules": [
+      "SyntaxHighlight"
+    ]
+  },
+  {
+    "name": "paramanders/elm-hexagon",
+    "latest": "2.0.0",
+    "modules": [
+      "Hexagon"
+    ]
+  },
+  {
+    "name": "patrickjtoy/elm-table",
+    "latest": "4.1.0",
+    "modules": [
+      "Table"
+    ]
+  },
+  {
+    "name": "paulcorke/elm-number-format",
+    "latest": "1.0.0",
+    "modules": [
+      "Number.Format"
+    ]
+  },
+  {
+    "name": "paulcorke/elm-string-split",
+    "latest": "1.0.0",
+    "modules": [
+      "String.Split"
+    ]
+  },
+  {
+    "name": "pdamoc/elm-css",
+    "latest": "3.0.2",
+    "modules": [
+      "Css"
+    ]
+  },
+  {
+    "name": "pdamoc/elm-hashids",
+    "latest": "1.0.3",
+    "modules": [
+      "Hashids"
+    ]
+  },
+  {
+    "name": "periodic/elm-csv",
+    "latest": "1.0.3",
+    "modules": [
+      "Csv"
+    ]
+  },
+  {
+    "name": "peterszerzo/elm-arborist",
+    "latest": "2.1.0",
+    "modules": [
+      "Arborist",
+      "Arborist.Settings",
+      "Arborist.Context",
+      "Arborist.Tree"
+    ]
+  },
+  {
+    "name": "peterszerzo/elm-cms",
+    "latest": "1.0.3",
+    "modules": [
+      "Cms",
+      "Cms.Field"
+    ]
+  },
+  {
+    "name": "peterszerzo/elm-gameroom",
+    "latest": "3.0.0",
+    "modules": [
+      "Gameroom",
+      "Gameroom.Context"
+    ]
+  },
+  {
+    "name": "peterszerzo/elm-natural-ui",
+    "latest": "2.2.1",
+    "modules": [
+      "NaturalUi",
+      "NaturalUi.ListEditor",
+      "NaturalUi.Select",
+      "NaturalUi.Toggle",
+      "NaturalUi.SmartTable",
+      "NaturalUi.Sidebar",
+      "NaturalUi.Tabs",
+      "NaturalUi.LineChart",
+      "NaturalUi.Mixins",
+      "NaturalUi.Constants"
+    ]
+  },
+  {
+    "name": "peterszerzo/elm-porter",
+    "latest": "1.0.0",
+    "modules": [
+      "Porter"
+    ]
+  },
+  {
+    "name": "pietro909/elm-sticky-header",
+    "latest": "2.0.0",
+    "modules": [
+      "StickyHeader"
+    ]
+  },
+  {
+    "name": "pinx/elm-mdl",
+    "latest": "1.0.0",
+    "modules": [
+      "Material",
+      "Material.Menu",
+      "Material.Layout",
+      "Material.Button",
+      "Material.Scheme",
+      "Material.Snackbar",
+      "Material.Grid",
+      "Material.Elevation",
+      "Material.Progress",
+      "Material.Textfield",
+      "Material.Spinner",
+      "Material.Color",
+      "Material.Badge",
+      "Material.Icon",
+      "Material.Helpers",
+      "Material.Options"
+    ]
+  },
+  {
+    "name": "piotrdubiel/elm-art-in-pi",
+    "latest": "1.0.0",
+    "modules": [
+      "ArtInPi"
+    ]
+  },
+  {
+    "name": "powet/elm-funfolding",
+    "latest": "2.0.1",
+    "modules": [
+      "FunFolding"
+    ]
+  },
+  {
+    "name": "poying/elm-router",
+    "latest": "1.0.2",
+    "modules": [
+      "Router.Parameter",
+      "Router"
+    ]
+  },
+  {
+    "name": "poying/elm-style",
+    "latest": "1.0.0",
+    "modules": [
+      "Style"
+    ]
+  },
+  {
+    "name": "poying/sloth.elm",
+    "latest": "2.0.0",
+    "modules": [
+      "Sloth",
+      "Sloth.Reporters",
+      "Sloth.Assertion"
+    ]
+  },
+  {
+    "name": "prikhi/decimal",
+    "latest": "1.0.0",
+    "modules": [
+      "Decimal"
+    ]
+  },
+  {
+    "name": "prikhi/elm-http-builder",
+    "latest": "2.1.0",
+    "modules": [
+      "HttpBuilder"
+    ]
+  },
+  {
+    "name": "prikhi/paginate",
+    "latest": "5.1.0",
+    "modules": [
+      "Paginate"
+    ]
+  },
+  {
+    "name": "prikhi/remote-status",
+    "latest": "3.0.1",
+    "modules": [
+      "RemoteStatus",
+      "RemoteStatus.Internals"
+    ]
+  },
+  {
+    "name": "primait/elm-autocomplete",
+    "latest": "3.0.0",
+    "modules": [
+      "Prima.Autocomplete"
+    ]
+  },
+  {
+    "name": "pristap/smart-text",
+    "latest": "1.0.6",
+    "modules": [
+      "SmartText"
+    ]
+  },
+  {
+    "name": "pro100filipp/elm-graphql",
+    "latest": "2.1.0",
+    "modules": [
+      "GraphQL.Client.Http",
+      "GraphQL.Request.Builder",
+      "GraphQL.Request.Builder.Arg",
+      "GraphQL.Request.Builder.Variable"
+    ]
+  },
+  {
+    "name": "project-fuzzball/node",
+    "latest": "4.0.0",
+    "modules": [
+      "Deprecated"
+    ]
+  },
+  {
+    "name": "project-fuzzball/test",
+    "latest": "6.0.0",
+    "modules": [
+      "Expect"
+    ]
+  },
+  {
+    "name": "project-fuzzball/test-runner",
+    "latest": "4.0.0",
+    "modules": [
+      "Deprecated"
+    ]
+  },
+  {
+    "name": "prozacchiwawa/effmodel",
+    "latest": "2.0.1",
+    "modules": [
+      "EffModel"
+    ]
+  },
+  {
+    "name": "prozacchiwawa/elm-json-codec",
+    "latest": "1.0.0",
+    "modules": [
+      "JsonCodec"
+    ]
+  },
+  {
+    "name": "prozacchiwawa/elm-keccak",
+    "latest": "1.0.1",
+    "modules": [
+      "Keccak"
+    ]
+  },
+  {
+    "name": "prozacchiwawa/elm-urlbase64",
+    "latest": "1.0.0",
+    "modules": [
+      "UrlBase64"
+    ]
+  },
+  {
+    "name": "pukkamustard/elm-identicon",
+    "latest": "3.0.0",
+    "modules": [
+      "Identicon"
+    ]
+  },
+  {
+    "name": "pwentz/elm-pretty-printer",
+    "latest": "3.0.0",
+    "modules": [
+      "Doc"
+    ]
+  },
+  {
+    "name": "pzingg/elm-navigation-extra",
+    "latest": "1.1.3",
+    "modules": [
+      "Navigation.Builder",
+      "Navigation.Router"
+    ]
+  },
+  {
+    "name": "r-k-b/elm-interval",
+    "latest": "2.0.0",
+    "modules": [
+      "Union",
+      "Interval"
+    ]
+  },
+  {
+    "name": "r-k-b/map-accumulate",
+    "latest": "1.0.0",
+    "modules": [
+      "MapAccumulate"
+    ]
+  },
+  {
+    "name": "r31gN/elm-dropdown",
+    "latest": "1.0.2",
+    "modules": [
+      "Dropdown"
+    ]
+  },
+  {
+    "name": "rainteller/elm-capitalize",
+    "latest": "1.0.1",
+    "modules": [
+      "Capitalize"
+    ]
+  },
+  {
+    "name": "rajasharan/elm-automatic-differentiation",
+    "latest": "1.0.0",
+    "modules": [
+      "AD.Reverse"
+    ]
+  },
+  {
+    "name": "realyarilabs/yarimoji",
+    "latest": "1.2.0",
+    "modules": [
+      "Yarimoji"
+    ]
+  },
+  {
+    "name": "rehno-lindeque/elm-signal-alt",
+    "latest": "1.0.2",
+    "modules": [
+      "Signal.Alt",
+      "Signal.Alt.Internal",
+      "Signal.Prompt",
+      "Signal.Defered",
+      "Mouse.Defered",
+      "Touch.Defered"
+    ]
+  },
+  {
+    "name": "relabsoss/elm-date-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "Date.Extra.Utils",
+      "Date.Extra.TimeUnit",
+      "Date.Extra.Field",
+      "Date.Extra.Duration",
+      "Date.Extra.Format",
+      "Date.Extra.Create",
+      "Date.Extra.Config.Configs",
+      "Date.Extra.Config.Config_en_gb",
+      "Date.Extra.Config.Config_en_us",
+      "Date.Extra.Config.Config_en_au",
+      "Date.Extra.Config.Config_ro_ro",
+      "Date.Extra.Config.Config_pl_pl",
+      "Date.Extra.Config.Config_nl_nl",
+      "Date.Extra.Config.Config_pt_br",
+      "Date.Extra.Config.Config_fi_fi",
+      "Date.Extra.Config.Config_ja_jp",
+      "Date.Extra.Config.Config_et_ee",
+      "Date.Extra.Config.Config_fr_fr",
+      "Date.Extra.Period",
+      "Date.Extra.Compare",
+      "Date.Extra.I18n.I_en_us",
+      "Date.Extra.I18n.I_ro_ro",
+      "Date.Extra.Config",
+      "Date.Extra.I18n.I_pt_br",
+      "Date.Extra.I18n.I_nl_nl",
+      "Date.Extra.I18n.I_ja_jp",
+      "Date.Extra.I18n.I_pl_pl",
+      "Date.Extra.I18n.I_fr_fr",
+      "Date.Extra.I18n.I_et_ee",
+      "Date.Extra.I18n.I_fi_fi",
+      "Date.Extra.Core"
+    ]
+  },
+  {
+    "name": "remoteradio/elm-widgets",
+    "latest": "1.0.1",
+    "modules": [
+      "Html.Widgets"
+    ]
+  },
+  {
+    "name": "rgrempel/elm-http-decorators",
+    "latest": "2.0.0",
+    "modules": [
+      "Http.Decorators"
+    ]
+  },
+  {
+    "name": "rgrempel/elm-route-hash",
+    "latest": "1.0.5",
+    "modules": [
+      "RouteHash"
+    ]
+  },
+  {
+    "name": "rgrempel/elm-route-url",
+    "latest": "4.0.0",
+    "modules": [
+      "RouteUrl.Builder",
+      "RouteHash",
+      "RouteUrl"
+    ]
+  },
+  {
+    "name": "rhofour/elm-astar",
+    "latest": "1.0.0",
+    "modules": [
+      "AStar"
+    ]
+  },
+  {
+    "name": "rhofour/elm-pairing-heap",
+    "latest": "1.0.3",
+    "modules": [
+      "PairingHeap"
+    ]
+  },
+  {
+    "name": "rizafahmi/elm-semantic-ui",
+    "latest": "1.0.0",
+    "modules": [
+      "SemanticUi"
+    ]
+  },
+  {
+    "name": "rjbma/elm-modal",
+    "latest": "1.0.0",
+    "modules": [
+      "Modal"
+    ]
+  },
+  {
+    "name": "rjdestigter/elm-convert-units",
+    "latest": "1.0.0",
+    "modules": [
+      "ConvertUnits",
+      "ConvertUnits.Definitions"
+    ]
+  },
+  {
+    "name": "rkrupinski/elm-range-slider",
+    "latest": "1.0.2",
+    "modules": [
+      "Slider.Helpers",
+      "Slider.Styles",
+      "Slider.Core",
+      "Slider.ClassNames"
+    ]
+  },
+  {
+    "name": "rl-king/elm-modular-scale",
+    "latest": "1.0.3",
+    "modules": [
+      "ModularScale"
+    ]
+  },
+  {
+    "name": "rluiten/elm-date-extra",
+    "latest": "9.2.1",
+    "modules": [
+      "Date.Extra.Format",
+      "Date.Extra.Utils",
+      "Date.Extra.TimeUnit",
+      "Date.Extra.Field",
+      "Date.Extra.Duration",
+      "Date.Extra.Create",
+      "Date.Extra.Compare",
+      "Date.Extra.Config.Configs",
+      "Date.Extra.Core",
+      "Date.Extra.Config.Config_nl_nl",
+      "Date.Extra.Config.Config_en_au",
+      "Date.Extra.Config.Config_sv_se",
+      "Date.Extra.Config.Config_pl_pl",
+      "Date.Extra.Config.Config_tr_tr",
+      "Date.Extra.Config.Config_pt_br",
+      "Date.Extra.Config.Config_ro_ro",
+      "Date.Extra.Config.Config_lt_lt",
+      "Date.Extra.Config.Config_fi_fi",
+      "Date.Extra.Config.Config_fr_fr",
+      "Date.Extra.Config.Config_en_gb",
+      "Date.Extra.Config.Config_de_de",
+      "Date.Extra.Config.Config_en_us",
+      "Date.Extra.Config.Config_et_ee",
+      "Date.Extra.Config.Config_ja_jp",
+      "Date.Extra.Config.Config_ru_ru",
+      "Date.Extra.Config.Config_el_gr",
+      "Date.Extra.I18n.I_default",
+      "Date.Extra.I18n.I_ru_ru",
+      "Date.Extra.I18n.I_el_gr",
+      "Date.Extra.Config",
+      "Date.Extra.Period",
+      "Date.Extra.I18n.I_en_us",
+      "Date.Extra.I18n.I_pt_br",
+      "Date.Extra.I18n.I_nl_nl",
+      "Date.Extra.I18n.I_lt_lt",
+      "Date.Extra.I18n.I_fi_fi",
+      "Date.Extra.I18n.I_ja_jp",
+      "Date.Extra.I18n.I_et_ee",
+      "Date.Extra.I18n.I_de_de",
+      "Date.Extra.I18n.I_fr_fr",
+      "Date.Extra.TwelveHourClock",
+      "Date.Extra.I18n.I_sv_se",
+      "Date.Extra.I18n.I_tr_tr",
+      "Date.Extra.I18n.I_ro_ro",
+      "Date.Extra.I18n.I_pl_pl"
+    ]
+  },
+  {
+    "name": "rluiten/elm-text-search",
+    "latest": "4.0.0",
+    "modules": [
+      "ElmTextSearch",
+      "ElmTextSearch.Json.Encoder",
+      "Index.Defaults",
+      "StopWordFilter",
+      "ElmTextSearch.Json.Decoder"
+    ]
+  },
+  {
+    "name": "rluiten/lunrelm",
+    "latest": "1.0.3",
+    "modules": [
+      "Examples.LunrelmNewWith",
+      "Examples.LunrelmNew",
+      "Lunrelm",
+      "Lunrelm.Json.Encoder",
+      "IndexDefaults",
+      "StopWordFilter",
+      "Lunrelm.Json.Decoder"
+    ]
+  },
+  {
+    "name": "rluiten/mailcheck",
+    "latest": "4.1.3",
+    "modules": [
+      "Mailcheck"
+    ]
+  },
+  {
+    "name": "rluiten/sparsevector",
+    "latest": "1.0.2",
+    "modules": [
+      "SparseVector"
+    ]
+  },
+  {
+    "name": "rluiten/stemmer",
+    "latest": "1.0.3",
+    "modules": [
+      "Stemmer"
+    ]
+  },
+  {
+    "name": "rluiten/stringdistance",
+    "latest": "1.0.3",
+    "modules": [
+      "StringDistance"
+    ]
+  },
+  {
+    "name": "rluiten/trie",
+    "latest": "2.0.2",
+    "modules": [
+      "Trie.Json.Encoder",
+      "Trie.Json.Decoder",
+      "Trie"
+    ]
+  },
+  {
+    "name": "rnons/elm-svg-loader",
+    "latest": "1.0.0",
+    "modules": [
+      "InlineSvg"
+    ]
+  },
+  {
+    "name": "rnons/elm-svg-parser",
+    "latest": "1.2.1",
+    "modules": [
+      "SvgParser"
+    ]
+  },
+  {
+    "name": "rnons/ordered-containers",
+    "latest": "1.0.0",
+    "modules": [
+      "OrderedSet",
+      "OrderedDict"
+    ]
+  },
+  {
+    "name": "roSievers/font-awesome",
+    "latest": "1.0.1",
+    "modules": [
+      "FontAwesome",
+      "FontAwesome.Modifiers",
+      "FontAwesome.Icons"
+    ]
+  },
+  {
+    "name": "robertjlooby/elm-draggable-form",
+    "latest": "1.0.1",
+    "modules": [
+      "DraggableForm"
+    ]
+  },
+  {
+    "name": "robertjlooby/elm-generic-dict",
+    "latest": "1.0.2",
+    "modules": [
+      "GenericSet",
+      "GenericDict"
+    ]
+  },
+  {
+    "name": "robinpokorny/elm-brainfuck",
+    "latest": "2.0.3",
+    "modules": [
+      "Brainfuck",
+      "Brainfuck.Parser",
+      "Brainfuck.Tape"
+    ]
+  },
+  {
+    "name": "rodinalex/elm-cron",
+    "latest": "1.0.2",
+    "modules": [
+      "Cron.Decoder",
+      "Cron.Describe",
+      "Cron.Types"
+    ]
+  },
+  {
+    "name": "rogeriochaves/elm-ternary",
+    "latest": "1.0.0",
+    "modules": [
+      "Ternary"
+    ]
+  },
+  {
+    "name": "rogeriochaves/elm-test-bdd-style",
+    "latest": "6.1.0",
+    "modules": [
+      "ElmTestBDDStyle"
+    ]
+  },
+  {
+    "name": "rogeriochaves/elm-testable",
+    "latest": "4.1.1",
+    "modules": [
+      "Testable.TestContext",
+      "Testable",
+      "Testable.Html",
+      "Testable.Cmd",
+      "Testable.Http",
+      "Testable.Html.Selectors",
+      "Testable.Html.Events",
+      "Testable.Html.Attributes",
+      "Testable.Html.Keyed",
+      "Testable.Task",
+      "Testable.Process",
+      "Testable.Html.Types"
+    ]
+  },
+  {
+    "name": "rogeriochaves/elm-testable-css-helpers",
+    "latest": "1.0.1",
+    "modules": [
+      "Html.CssHelpers"
+    ]
+  },
+  {
+    "name": "roine/elm-perimeter",
+    "latest": "1.0.2",
+    "modules": [
+      "Perimeter"
+    ]
+  },
+  {
+    "name": "rolograaf/elm-favicon",
+    "latest": "1.0.0",
+    "modules": [
+      "Favicon"
+    ]
+  },
+  {
+    "name": "romstad/elm-chess",
+    "latest": "1.1.1",
+    "modules": [
+      "Notation",
+      "Game",
+      "Position",
+      "Move",
+      "Piece",
+      "Square",
+      "PieceType",
+      "SquareRank",
+      "SquareFile",
+      "PieceColor"
+    ]
+  },
+  {
+    "name": "rtfeldman/console-print",
+    "latest": "1.0.0",
+    "modules": [
+      "Console"
+    ]
+  },
+  {
+    "name": "rtfeldman/count",
+    "latest": "1.0.0",
+    "modules": [
+      "Count"
+    ]
+  },
+  {
+    "name": "rtfeldman/elm-css",
+    "latest": "13.0.1",
+    "modules": [
+      "Svg.Styled.Keyed",
+      "Svg.Styled.Events",
+      "Svg.Styled.Lazy",
+      "Svg.Styled.Attributes",
+      "Css.Foreign",
+      "Html.Styled.Lazy",
+      "Html.Styled.Events",
+      "Svg.Styled",
+      "Html.Styled.Keyed",
+      "Html.Styled.Attributes",
+      "Html.Styled",
+      "DEPRECATED.Css.File",
+      "Css.Colors",
+      "DEPRECATED.Css",
+      "Css.Media",
+      "DEPRECATED.Css.Namespace",
+      "Css"
+    ]
+  },
+  {
+    "name": "rtfeldman/elm-css-helpers",
+    "latest": "2.1.0",
+    "modules": [
+      "Html.CssHelpers"
+    ]
+  },
+  {
+    "name": "rtfeldman/elm-css-util",
+    "latest": "1.0.2",
+    "modules": [
+      "Css.Helpers"
+    ]
+  },
+  {
+    "name": "rtfeldman/elm-validate",
+    "latest": "1.1.3",
+    "modules": [
+      "Validate"
+    ]
+  },
+  {
+    "name": "rtfeldman/hashed-class",
+    "latest": "1.0.0",
+    "modules": [
+      "Css.Class"
+    ]
+  },
+  {
+    "name": "rtfeldman/hex",
+    "latest": "1.0.0",
+    "modules": [
+      "Hex"
+    ]
+  },
+  {
+    "name": "rtfeldman/html-test-runner",
+    "latest": "2.0.0",
+    "modules": [
+      "Test.Runner.Html",
+      "Test.Runner.Html.App"
+    ]
+  },
+  {
+    "name": "rtfeldman/legacy-elm-test",
+    "latest": "3.0.0",
+    "modules": [
+      "Legacy.Check.Test",
+      "Legacy.ElmTest"
+    ]
+  },
+  {
+    "name": "rtfeldman/node-test-runner",
+    "latest": "3.0.0",
+    "modules": [
+      "Test.Runner.Node"
+    ]
+  },
+  {
+    "name": "rtfeldman/selectlist",
+    "latest": "1.0.0",
+    "modules": [
+      "SelectList"
+    ]
+  },
+  {
+    "name": "rtfeldman/test-update",
+    "latest": "1.0.0",
+    "modules": [
+      "Test.Update"
+    ]
+  },
+  {
+    "name": "rtfeldman/ziplist",
+    "latest": "2.0.0",
+    "modules": [
+      "Deprecated"
+    ]
+  },
+  {
+    "name": "rundis/elm-bootstrap",
+    "latest": "3.0.0",
+    "modules": [
+      "Bootstrap.Accordion",
+      "Bootstrap.Card",
+      "Bootstrap.Dropdown",
+      "Bootstrap.ButtonGroup",
+      "Bootstrap.Form.InputGroup",
+      "Bootstrap.Text",
+      "Bootstrap.Grid",
+      "Bootstrap.Form",
+      "Bootstrap.Button",
+      "Bootstrap.Carousel",
+      "Bootstrap.ListGroup",
+      "Bootstrap.Form.Select",
+      "Bootstrap.Navbar",
+      "Bootstrap.Modal",
+      "Bootstrap.Grid.Col",
+      "Bootstrap.Grid.Row",
+      "Bootstrap.Form.Input",
+      "Bootstrap.Form.Textarea",
+      "Bootstrap.Form.Checkbox",
+      "Bootstrap.Form.Radio",
+      "Bootstrap.Carousel.Slide",
+      "Bootstrap.Table",
+      "Bootstrap.Tab",
+      "Bootstrap.Progress",
+      "Bootstrap.Form.Fieldset",
+      "Bootstrap.Alert",
+      "Bootstrap.Popover",
+      "Bootstrap.CDN",
+      "Bootstrap.Badge"
+    ]
+  },
+  {
+    "name": "ryanolsonx/elm-mock-http",
+    "latest": "2.0.0",
+    "modules": [
+      "MockHttp"
+    ]
+  },
+  {
+    "name": "ryanolsonx/elm-time-range",
+    "latest": "1.0.2",
+    "modules": [
+      "TimeRange"
+    ]
+  },
+  {
+    "name": "s6o/elm-simplify",
+    "latest": "1.0.0",
+    "modules": [
+      "Simplify"
+    ]
+  },
+  {
+    "name": "sanichi/elm-md5",
+    "latest": "1.0.6",
+    "modules": [
+      "MD5"
+    ]
+  },
+  {
+    "name": "sawaken-experiment/elm-lisp-parser",
+    "latest": "1.0.0",
+    "modules": [
+      "LispParser"
+    ]
+  },
+  {
+    "name": "sch/elm-aspect-ratio",
+    "latest": "1.0.0",
+    "modules": [
+      "AspectRatio"
+    ]
+  },
+  {
+    "name": "scottcorgan/elm-css-normalize",
+    "latest": "1.1.9",
+    "modules": [
+      "Css.Normalize"
+    ]
+  },
+  {
+    "name": "scottcorgan/elm-css-reset",
+    "latest": "1.0.5",
+    "modules": [
+      "Css.Reset"
+    ]
+  },
+  {
+    "name": "scottcorgan/elm-html-template",
+    "latest": "1.0.1",
+    "modules": [
+      "Html.Template"
+    ]
+  },
+  {
+    "name": "scottcorgan/elm-keyboard-combo",
+    "latest": "1.0.0",
+    "modules": [
+      "Keyboard.Combo"
+    ]
+  },
+  {
+    "name": "scottcorgan/keyboard-combo",
+    "latest": "5.0.0",
+    "modules": [
+      "Keyboard.Combo"
+    ]
+  },
+  {
+    "name": "seanhess/elm-style",
+    "latest": "2.0.0",
+    "modules": [
+      "Style"
+    ]
+  },
+  {
+    "name": "seanpile/elm-orbit-controls",
+    "latest": "2.0.0",
+    "modules": [
+      "OrbitControls"
+    ]
+  },
+  {
+    "name": "seurimas/slime",
+    "latest": "2.0.0",
+    "modules": [
+      "Slime.Engine",
+      "Slime"
+    ]
+  },
+  {
+    "name": "sgraf812/elm-access",
+    "latest": "1.0.0",
+    "modules": [
+      "Access"
+    ]
+  },
+  {
+    "name": "sgraf812/elm-graph",
+    "latest": "1.1.2",
+    "modules": [
+      "Graph",
+      "Graph.Tree"
+    ]
+  },
+  {
+    "name": "sgraf812/elm-intdict",
+    "latest": "1.4.3",
+    "modules": [
+      "IntDict.Safe",
+      "IntDict"
+    ]
+  },
+  {
+    "name": "sgraf812/elm-stateful",
+    "latest": "1.0.0",
+    "modules": [
+      "Stateful"
+    ]
+  },
+  {
+    "name": "sh4r3m4n/elm-piano",
+    "latest": "2.0.2",
+    "modules": [
+      "Piano",
+      "Piano.PianoStyle"
+    ]
+  },
+  {
+    "name": "shelakel/elm-validate",
+    "latest": "1.0.0",
+    "modules": [
+      "Validate"
+    ]
+  },
+  {
+    "name": "shmookey/cmd-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "Cmd.Extra"
+    ]
+  },
+  {
+    "name": "shutej/elm-rpcplus-runtime",
+    "latest": "1.0.1",
+    "modules": [
+      "Rpc"
+    ]
+  },
+  {
+    "name": "simanaitis/elm-mdl",
+    "latest": "1.0.2",
+    "modules": [
+      "Material",
+      "Material.Layout",
+      "Material.Tabs",
+      "Material.Toggles",
+      "Material.Menu",
+      "Material.Button",
+      "Material.Scheme",
+      "Material.Chip",
+      "Material.List",
+      "Material.Textfield",
+      "Material.Footer",
+      "Material.Tooltip",
+      "Material.Typography",
+      "Material.Card",
+      "Material.Grid",
+      "Material.Slider",
+      "Material.Color",
+      "Material.Icon",
+      "Material.Badge",
+      "Material.Table",
+      "Material.Spinner",
+      "Material.Progress",
+      "Material.Dialog",
+      "Material.Elevation",
+      "Material.Options",
+      "Material.Snackbar",
+      "Material.Helpers"
+    ]
+  },
+  {
+    "name": "simonewebdesign/elm-timer",
+    "latest": "1.0.0",
+    "modules": [
+      "Timer"
+    ]
+  },
+  {
+    "name": "simonh1000/elm-charts",
+    "latest": "3.1.0",
+    "modules": [
+      "Chart"
+    ]
+  },
+  {
+    "name": "simonh1000/elm-colorpicker",
+    "latest": "1.1.2",
+    "modules": [
+      "ColorPicker"
+    ]
+  },
+  {
+    "name": "simonh1000/elm-jwt",
+    "latest": "5.2.2",
+    "modules": [
+      "Jwt",
+      "Jwt.Decoders"
+    ]
+  },
+  {
+    "name": "simonh1000/elm-sliding-menus",
+    "latest": "1.0.0",
+    "modules": [
+      "SlidingMenu"
+    ]
+  },
+  {
+    "name": "sindikat/elm-array-experimental",
+    "latest": "1.0.4",
+    "modules": [
+      "Array.Experimental"
+    ]
+  },
+  {
+    "name": "sindikat/elm-list-experimental",
+    "latest": "2.0.0",
+    "modules": [
+      "List.Experimental"
+    ]
+  },
+  {
+    "name": "sindikat/elm-matrix",
+    "latest": "1.2.0",
+    "modules": [
+      "Matrix"
+    ]
+  },
+  {
+    "name": "sindikat/elm-maybe-experimental",
+    "latest": "1.0.0",
+    "modules": [
+      "Maybe.Experimental"
+    ]
+  },
+  {
+    "name": "sixty-north/elm-price-chart",
+    "latest": "2.0.0",
+    "modules": [
+      "PriceChart",
+      "PriceChart.Types"
+    ]
+  },
+  {
+    "name": "sixty-north/elm-task-repeater",
+    "latest": "1.0.1",
+    "modules": [
+      "TaskRepeater.Schedulers",
+      "TaskRepeater"
+    ]
+  },
+  {
+    "name": "sjorn3/elm-fields",
+    "latest": "1.0.1",
+    "modules": [
+      "FieldLens"
+    ]
+  },
+  {
+    "name": "soenkehahn/elm-operational",
+    "latest": "1.1.0",
+    "modules": [
+      "Operational"
+    ]
+  },
+  {
+    "name": "soenkehahn/elm-operational-mocks",
+    "latest": "4.0.0",
+    "modules": [
+      "Operational.Mocks"
+    ]
+  },
+  {
+    "name": "spect88/romkan-elm",
+    "latest": "1.0.0",
+    "modules": [
+      "Romkan"
+    ]
+  },
+  {
+    "name": "spisemisu/elm-bytes",
+    "latest": "1.1.0",
+    "modules": [
+      "Bytes"
+    ]
+  },
+  {
+    "name": "spisemisu/elm-merkletree",
+    "latest": "2.0.1",
+    "modules": [
+      "Merkle"
+    ]
+  },
+  {
+    "name": "spisemisu/elm-sha",
+    "latest": "1.1.0",
+    "modules": [
+      "SHA"
+    ]
+  },
+  {
+    "name": "spisemisu/elm-utf8",
+    "latest": "1.0.1",
+    "modules": [
+      "UTF8"
+    ]
+  },
+  {
+    "name": "splodingsocks/elm-add-import",
+    "latest": "1.0.4",
+    "modules": [
+      "AddImport"
+    ]
+  },
+  {
+    "name": "splodingsocks/elm-easy-events",
+    "latest": "1.2.0",
+    "modules": [
+      "EasyEvents"
+    ]
+  },
+  {
+    "name": "splodingsocks/elm-html-table",
+    "latest": "1.0.1",
+    "modules": [
+      "Table"
+    ]
+  },
+  {
+    "name": "splodingsocks/elm-tailwind",
+    "latest": "2.1.0",
+    "modules": [
+      "Tailwind",
+      "Tailwind.Classes"
+    ]
+  },
+  {
+    "name": "splodingsocks/elm-type-extractor",
+    "latest": "1.0.0",
+    "modules": [
+      "TypeExtractor"
+    ]
+  },
+  {
+    "name": "splodingsocks/hipstore-ui",
+    "latest": "3.0.0",
+    "modules": [
+      "HipstoreUI"
+    ]
+  },
+  {
+    "name": "splodingsocks/validatable",
+    "latest": "1.0.1",
+    "modules": [
+      "Validatable"
+    ]
+  },
+  {
+    "name": "sporto/elm-autocomplete",
+    "latest": "1.0.0",
+    "modules": [
+      "AutoComplete"
+    ]
+  },
+  {
+    "name": "sporto/elm-dropdown",
+    "latest": "1.3.0",
+    "modules": [
+      "Dropdown"
+    ]
+  },
+  {
+    "name": "sporto/elm-select",
+    "latest": "2.14.0",
+    "modules": [
+      "Select"
+    ]
+  },
+  {
+    "name": "sporto/erl",
+    "latest": "13.0.1",
+    "modules": [
+      "Erl",
+      "Erl.Query"
+    ]
+  },
+  {
+    "name": "sporto/hop",
+    "latest": "6.0.1",
+    "modules": [
+      "Hop",
+      "Hop.Types"
+    ]
+  },
+  {
+    "name": "sporto/polylinear-scale",
+    "latest": "1.0.1",
+    "modules": [
+      "PolylinearScale"
+    ]
+  },
+  {
+    "name": "sporto/qs",
+    "latest": "1.0.0",
+    "modules": [
+      "QS"
+    ]
+  },
+  {
+    "name": "stasdavydov/elm-cart",
+    "latest": "1.1.0",
+    "modules": [
+      "Cart"
+    ]
+  },
+  {
+    "name": "stephenreddek/elm-range-slider",
+    "latest": "2.0.1",
+    "modules": [
+      "RangeSlider",
+      "CssHooks"
+    ]
+  },
+  {
+    "name": "stephenreddek/elm-time-picker",
+    "latest": "1.0.2",
+    "modules": [
+      "TimePicker"
+    ]
+  },
+  {
+    "name": "stil4m/elm-aui-css",
+    "latest": "4.1.1",
+    "modules": [
+      "Aui.Dropdown",
+      "Aui.Select",
+      "Aui.Toolbar",
+      "Aui.Tabs",
+      "Aui.Toggle",
+      "Aui.ProgressIndicator",
+      "Aui.ProgressTracker",
+      "Aui.Avatars",
+      "Aui.Labels",
+      "Aui.Lozenge",
+      "Aui.Expander",
+      "Aui.Icons",
+      "Aui.Backdrop",
+      "Aui.PaginationBar",
+      "Aui.Badges",
+      "Aui.Buttons",
+      "Aui.Messages"
+    ]
+  },
+  {
+    "name": "stil4m/elm-syntax",
+    "latest": "3.1.2",
+    "modules": [
+      "Elm.Parser",
+      "Elm.Processing",
+      "Elm.Dependency",
+      "Elm.RawFile",
+      "Elm.Json.Encode",
+      "Elm.Json.Decode",
+      "Elm.Interface",
+      "Elm.Writer",
+      "Elm.Syntax.File",
+      "Elm.Syntax.Declaration",
+      "Elm.Syntax.Module",
+      "Elm.Syntax.Expression",
+      "Elm.Syntax.TypeAlias",
+      "Elm.Syntax.Type",
+      "Elm.Syntax.Exposing",
+      "Elm.Syntax.Pattern",
+      "Elm.Syntax.TypeAnnotation",
+      "Elm.Syntax.Ranged",
+      "Elm.Syntax.Documentation",
+      "Elm.Syntax.Base",
+      "Elm.Syntax.Infix",
+      "Elm.Syntax.Range"
+    ]
+  },
+  {
+    "name": "stil4m/rfc2822-datetime",
+    "latest": "1.0.2",
+    "modules": [
+      "Rfc2822Datetime"
+    ]
+  },
+  {
+    "name": "stil4m/structured-writer",
+    "latest": "1.0.0",
+    "modules": [
+      "StructuredWriter"
+    ]
+  },
+  {
+    "name": "stoeffel/editable",
+    "latest": "2.0.0",
+    "modules": [
+      "Editable"
+    ]
+  },
+  {
+    "name": "stoeffel/elm-verify",
+    "latest": "3.0.0",
+    "modules": [
+      "Maybe.Verify",
+      "List.Verify",
+      "Set.Verify",
+      "String.Verify",
+      "Dict.Verify",
+      "Verify"
+    ]
+  },
+  {
+    "name": "stoeffel/resetable",
+    "latest": "1.0.1",
+    "modules": [
+      "Resetable"
+    ]
+  },
+  {
+    "name": "stoeffel/set-extra",
+    "latest": "1.2.2",
+    "modules": [
+      "Set.Extra"
+    ]
+  },
+  {
+    "name": "supermario/elm-countries",
+    "latest": "1.0.2",
+    "modules": [
+      "Countries"
+    ]
+  },
+  {
+    "name": "surprisetalk/elm-bulma",
+    "latest": "5.0.0",
+    "modules": [
+      "Bulma.Components",
+      "Bulma.Elements",
+      "Bulma.Form",
+      "Bulma.Elements.Icon",
+      "Bulma.Layout",
+      "Bulma.Helpers",
+      "Bulma.Modifiers",
+      "Bulma.Grid",
+      "Bulma.CDN"
+    ]
+  },
+  {
+    "name": "surprisetalk/elm-pointless",
+    "latest": "1.0.2",
+    "modules": [
+      "Pointless"
+    ]
+  },
+  {
+    "name": "swiftsnamesake/euclidean-space",
+    "latest": "2.0.0",
+    "modules": [
+      "Euclid.Rectangle",
+      "Euclid.Vector"
+    ]
+  },
+  {
+    "name": "synbioz/elm-time-overlap",
+    "latest": "1.0.1",
+    "modules": [
+      "Time.Overlap"
+    ]
+  },
+  {
+    "name": "szabba/elm-animations",
+    "latest": "2.0.0",
+    "modules": [
+      "Animation"
+    ]
+  },
+  {
+    "name": "szabba/elm-laws",
+    "latest": "1.0.0",
+    "modules": [
+      "Laws"
+    ]
+  },
+  {
+    "name": "szabba/elm-timestamp",
+    "latest": "2.0.0",
+    "modules": [
+      "Time.Timestamp"
+    ]
+  },
+  {
+    "name": "tapeinosyne/elm-microkanren",
+    "latest": "1.0.0",
+    "modules": [
+      "MicroKanren.Operators",
+      "MicroKanren"
+    ]
+  },
+  {
+    "name": "techanvil/key-constants",
+    "latest": "1.0.0",
+    "modules": [
+      "Keyboard.Keys"
+    ]
+  },
+  {
+    "name": "teepark/elmoji",
+    "latest": "2.0.2",
+    "modules": [
+      "Elmoji"
+    ]
+  },
+  {
+    "name": "teocollin1995/complex",
+    "latest": "1.0.1",
+    "modules": [
+      "Complex"
+    ]
+  },
+  {
+    "name": "terezka/colors",
+    "latest": "1.0.0",
+    "modules": [
+      "Colors"
+    ]
+  },
+  {
+    "name": "terezka/coordinates",
+    "latest": "2.1.0",
+    "modules": [
+      "Svg.Path",
+      "Svg.Coordinate"
+    ]
+  },
+  {
+    "name": "terezka/elm-cartesian-svg",
+    "latest": "1.0.1",
+    "modules": [
+      "Svg.Coordinates"
+    ]
+  },
+  {
+    "name": "terezka/elm-plot",
+    "latest": "5.1.0",
+    "modules": [
+      "Plot"
+    ]
+  },
+  {
+    "name": "terezka/elm-plot-rouge",
+    "latest": "4.1.0",
+    "modules": [
+      "Svg.Plot",
+      "Svg.Coordinates",
+      "Svg.Tiles"
+    ]
+  },
+  {
+    "name": "terezka/elm-view-utils",
+    "latest": "1.0.2",
+    "modules": [
+      "View.Utils"
+    ]
+  },
+  {
+    "name": "tesk9/accessible-html",
+    "latest": "3.1.0",
+    "modules": [
+      "Accessibility",
+      "Accessibility.Role",
+      "Accessibility.Widget",
+      "Accessibility.Style",
+      "Accessibility.Live",
+      "Accessibility.Landmark",
+      "Accessibility.Aria",
+      "Accessibility.Key"
+    ]
+  },
+  {
+    "name": "tesk9/elm-html-a11y",
+    "latest": "3.1.2",
+    "modules": [
+      "Html.A11y",
+      "Html.Attributes.A11y"
+    ]
+  },
+  {
+    "name": "tesk9/elm-html-textup",
+    "latest": "2.0.0",
+    "modules": [
+      "TextUp"
+    ]
+  },
+  {
+    "name": "tesk9/elm-tabs",
+    "latest": "3.0.1",
+    "modules": [
+      "Tabs.View",
+      "Tabs.Update",
+      "Tabs.Model"
+    ]
+  },
+  {
+    "name": "thSoft/ElmCache",
+    "latest": "1.0.0",
+    "modules": [
+      "Cache"
+    ]
+  },
+  {
+    "name": "thSoft/ExternalStorage",
+    "latest": "5.1.0",
+    "modules": [
+      "ExternalStorage.Cache",
+      "ExternalStorage.Loader"
+    ]
+  },
+  {
+    "name": "thSoft/key-constants",
+    "latest": "1.0.3",
+    "modules": [
+      "Keyboard.Keys"
+    ]
+  },
+  {
+    "name": "thalissonmelo/elmcounter",
+    "latest": "1.0.0",
+    "modules": [
+      "Contador"
+    ]
+  },
+  {
+    "name": "thaterikperson/elm-blackjack",
+    "latest": "2.1.0",
+    "modules": [
+      "Blackjack"
+    ]
+  },
+  {
+    "name": "thaterikperson/elm-strftime",
+    "latest": "1.0.4",
+    "modules": [
+      "Strftime"
+    ]
+  },
+  {
+    "name": "the-sett/ai-search",
+    "latest": "4.0.2",
+    "modules": [
+      "Search"
+    ]
+  },
+  {
+    "name": "the-sett/auth-elm",
+    "latest": "1.0.0",
+    "modules": [
+      "AuthController",
+      "Auth"
+    ]
+  },
+  {
+    "name": "the-sett/elm-pretty-printer",
+    "latest": "1.0.1",
+    "modules": [
+      "Pretty"
+    ]
+  },
+  {
+    "name": "the-sett/elm-string-case",
+    "latest": "1.0.0",
+    "modules": [
+      "String.Case"
+    ]
+  },
+  {
+    "name": "thebritican/elm-autocomplete",
+    "latest": "4.0.3",
+    "modules": [
+      "Autocomplete"
+    ]
+  },
+  {
+    "name": "thomasloh/elm-phone",
+    "latest": "2.0.2",
+    "modules": [
+      "Phone"
+    ]
+  },
+  {
+    "name": "tilmans/elm-style-elements-drag-drop",
+    "latest": "1.0.3",
+    "modules": [
+      "Html5.DragDrop"
+    ]
+  },
+  {
+    "name": "timjs/elm-collage",
+    "latest": "1.5.0",
+    "modules": [
+      "Collage.Render",
+      "Collage.Layout",
+      "Collage.Events",
+      "Collage",
+      "Collage.Text"
+    ]
+  },
+  {
+    "name": "tiziano88/elm-oauth",
+    "latest": "3.0.0",
+    "modules": [
+      "OAuth.Config",
+      "OAuth"
+    ]
+  },
+  {
+    "name": "tiziano88/elm-protobuf",
+    "latest": "2.0.1",
+    "modules": [
+      "Protobuf"
+    ]
+  },
+  {
+    "name": "tiziano88/elm-tfl",
+    "latest": "1.0.0",
+    "modules": [
+      "Tfl"
+    ]
+  },
+  {
+    "name": "tlentz/elm-adjustable-table",
+    "latest": "1.0.3",
+    "modules": [
+      "AdjustableTable"
+    ]
+  },
+  {
+    "name": "tlentz/elm-fancy-table",
+    "latest": "1.0.3",
+    "modules": [
+      "FancyTable"
+    ]
+  },
+  {
+    "name": "toastal/either",
+    "latest": "3.4.0",
+    "modules": [
+      "Either.Prism",
+      "Either.Decode",
+      "Either"
+    ]
+  },
+  {
+    "name": "toastal/return-optics",
+    "latest": "1.1.1",
+    "modules": [
+      "Return.Optics"
+    ]
+  },
+  {
+    "name": "toastal/select-prism",
+    "latest": "1.0.1",
+    "modules": [
+      "Html.SelectPrism"
+    ]
+  },
+  {
+    "name": "toastal/trinary",
+    "latest": "1.0.1",
+    "modules": [
+      "Trinary"
+    ]
+  },
+  {
+    "name": "tomjkidd/elm-multiway-tree-zipper",
+    "latest": "1.10.2",
+    "modules": [
+      "MultiwayTreeZipper",
+      "MultiwayTree"
+    ]
+  },
+  {
+    "name": "torgeir/elm-github-events",
+    "latest": "2.0.0",
+    "modules": [
+      "Github"
+    ]
+  },
+  {
+    "name": "tortus/elm-array-2d",
+    "latest": "2.1.1",
+    "modules": [
+      "Array2D.Json",
+      "Array2D"
+    ]
+  },
+  {
+    "name": "treffynnon/elm-tfn",
+    "latest": "1.0.0",
+    "modules": [
+      "Tfn"
+    ]
+  },
+  {
+    "name": "trifectalabs/elm-geojson",
+    "latest": "1.0.1",
+    "modules": [
+      "GeoJson"
+    ]
+  },
+  {
+    "name": "trifectalabs/elm-polyline",
+    "latest": "1.0.1",
+    "modules": [
+      "Polyline"
+    ]
+  },
+  {
+    "name": "tripokey/elm-fuzzy",
+    "latest": "5.2.0",
+    "modules": [
+      "Fuzzy"
+    ]
+  },
+  {
+    "name": "truqu/elm-base64",
+    "latest": "2.0.2",
+    "modules": [
+      "Base64"
+    ]
+  },
+  {
+    "name": "truqu/elm-dictset",
+    "latest": "1.0.5",
+    "modules": [
+      "DictSet"
+    ]
+  },
+  {
+    "name": "truqu/elm-mustache",
+    "latest": "1.0.3",
+    "modules": [
+      "Mustache"
+    ]
+  },
+  {
+    "name": "truqu/elm-oauth2",
+    "latest": "2.2.0",
+    "modules": [
+      "OAuth.Password",
+      "OAuth.Implicit",
+      "OAuth.ClientCredentials",
+      "OAuth.AuthorizationCode",
+      "OAuth.Decode",
+      "OAuth"
+    ]
+  },
+  {
+    "name": "truqu/elm-oauth2.0",
+    "latest": "2.0.1",
+    "modules": [
+      "OAuth"
+    ]
+  },
+  {
+    "name": "tryzniak/assoc",
+    "latest": "1.0.0",
+    "modules": [
+      "Assoc"
+    ]
+  },
+  {
+    "name": "tunguski/elm-ast",
+    "latest": "3.0.3",
+    "modules": [
+      "Ast",
+      "Ast.Expression",
+      "Ast.BinOp"
+    ]
+  },
+  {
+    "name": "turboMaCk/chae-tree",
+    "latest": "2.1.0",
+    "modules": [
+      "Chae.Tree",
+      "Chae.Node",
+      "Chae.Id"
+    ]
+  },
+  {
+    "name": "turboMaCk/glue",
+    "latest": "2.0.0",
+    "modules": [
+      "Glue"
+    ]
+  },
+  {
+    "name": "turboMaCk/grid-solver",
+    "latest": "2.0.0",
+    "modules": [
+      "Grid"
+    ]
+  },
+  {
+    "name": "turboMaCk/queue",
+    "latest": "1.0.1",
+    "modules": [
+      "Queue"
+    ]
+  },
+  {
+    "name": "typed-wire/elm-typed-wire-utils",
+    "latest": "2.0.1",
+    "modules": [
+      "TypedWire"
+    ]
+  },
+  {
+    "name": "ucode/elm-path",
+    "latest": "1.0.1",
+    "modules": [
+      "Path.Windows",
+      "Path.Url",
+      "Path.Posix",
+      "Path.Generic"
+    ]
+  },
+  {
+    "name": "uehaj/IntRange",
+    "latest": "1.0.1",
+    "modules": [
+      "IntRange"
+    ]
+  },
+  {
+    "name": "valberg/elm-django-channels",
+    "latest": "3.0.0",
+    "modules": [
+      "DjangoChannels.Initial",
+      "DjangoChannels.Binding",
+      "DjangoChannels"
+    ]
+  },
+  {
+    "name": "vieiralucas/elm-collections",
+    "latest": "1.1.0",
+    "modules": [
+      "Stack",
+      "Queue"
+    ]
+  },
+  {
+    "name": "vilterp/elm-diagrams",
+    "latest": "7.2.0",
+    "modules": [
+      "Diagrams.Layout",
+      "Diagrams.Debug",
+      "Diagrams.Pad",
+      "Diagrams.Interact",
+      "Diagrams.Align",
+      "Diagrams.Bezier",
+      "Diagrams.Query",
+      "Diagrams.Envelope",
+      "Diagrams.FullWindow",
+      "Diagrams.Core",
+      "Diagrams.Type",
+      "Diagrams.Actions",
+      "Diagrams.Wiring",
+      "Diagrams.Geom",
+      "Diagrams.FillStroke"
+    ]
+  },
+  {
+    "name": "vilterp/elm-html-extra",
+    "latest": "1.0.1",
+    "modules": [
+      "Html.Events.Extra",
+      "Html.Attributes.Extra"
+    ]
+  },
+  {
+    "name": "vilterp/elm-pretty-print",
+    "latest": "1.0.1",
+    "modules": [
+      "PrettyPrint.Util",
+      "PrettyPrint"
+    ]
+  },
+  {
+    "name": "vipentti/elm-dispatch",
+    "latest": "1.0.1",
+    "modules": [
+      "Dispatch"
+    ]
+  },
+  {
+    "name": "vito/elm-ansi",
+    "latest": "8.1.0",
+    "modules": [
+      "Ansi.Log",
+      "Ansi"
+    ]
+  },
+  {
+    "name": "vmchale/elm-composition",
+    "latest": "2.0.0",
+    "modules": [
+      "Data.Composition"
+    ]
+  },
+  {
+    "name": "w0rm/elm-slice-show",
+    "latest": "4.1.0",
+    "modules": [
+      "SliceShow",
+      "SliceShow.Slide",
+      "SliceShow.Content"
+    ]
+  },
+  {
+    "name": "waratuman/elm-coder",
+    "latest": "2.0.0",
+    "modules": [
+      "Base32",
+      "Base64",
+      "Base16"
+    ]
+  },
+  {
+    "name": "warry/ascii-table",
+    "latest": "1.0.0",
+    "modules": [
+      "Ascii"
+    ]
+  },
+  {
+    "name": "wende/elm-ast",
+    "latest": "1.0.0",
+    "modules": [
+      "Ast",
+      "Ast.Statement",
+      "Ast.Expression",
+      "Ast.BinOp"
+    ]
+  },
+  {
+    "name": "wende/elmchemy-core",
+    "latest": "1.2.0",
+    "modules": [
+      "Elmchemy.XString",
+      "Elmchemy.XResult",
+      "Elmchemy.XChar",
+      "Elmchemy.XDebug",
+      "Elmchemy.XBasics",
+      "Elmchemy.XList",
+      "Elmchemy.XTuple",
+      "Elmchemy.XMaybe",
+      "Elmchemy"
+    ]
+  },
+  {
+    "name": "werner/diyalog",
+    "latest": "2.0.1",
+    "modules": [
+      "Diyalog",
+      "Diyalog.Message"
+    ]
+  },
+  {
+    "name": "wernerdegroot/listzipper",
+    "latest": "3.0.0",
+    "modules": [
+      "List.Zipper"
+    ]
+  },
+  {
+    "name": "williamwhitacre/elm-encoding",
+    "latest": "1.1.0",
+    "modules": [
+      "Encoding.URL",
+      "Encoding.Integral"
+    ]
+  },
+  {
+    "name": "williamwhitacre/elm-lexer",
+    "latest": "1.2.0",
+    "modules": [
+      "Lexer"
+    ]
+  },
+  {
+    "name": "williamwhitacre/gigan",
+    "latest": "4.0.6",
+    "modules": [
+      "Gigan.Knowledge",
+      "Gigan.Stem",
+      "Gigan.Error",
+      "Gigan.Core",
+      "Gigan.Layout"
+    ]
+  },
+  {
+    "name": "williamwhitacre/pylon",
+    "latest": "9.0.0",
+    "modules": [
+      "Pylon.DB.Filter",
+      "Pylon.DB.Mirror",
+      "Pylon.DB.Legacy.Group",
+      "Pylon.DB.Meta",
+      "Pylon.DB.Group",
+      "Pylon.DB",
+      "Pylon.DB.Path",
+      "Pylon.App",
+      "Pylon.Resource"
+    ]
+  },
+  {
+    "name": "williamwhitacre/scaffold",
+    "latest": "6.1.8",
+    "modules": [
+      "Scaffold.Resource.Fire",
+      "Scaffold.Machine",
+      "Scaffold.Resource",
+      "Scaffold.Error",
+      "Scaffold.Layout",
+      "Scaffold.App"
+    ]
+  },
+  {
+    "name": "willnwhite/bigratio",
+    "latest": "1.2.0",
+    "modules": [
+      "BigRatio"
+    ]
+  },
+  {
+    "name": "wintvelt/elm-print-any",
+    "latest": "1.0.0",
+    "modules": [
+      "PrintAny"
+    ]
+  },
+  {
+    "name": "wittjosiah/elm-alerts",
+    "latest": "1.0.2",
+    "modules": [
+      "Alert",
+      "Alert.Stylesheets"
+    ]
+  },
+  {
+    "name": "wittjosiah/elm-css",
+    "latest": "1.0.0",
+    "modules": [
+      "Css.File",
+      "Css.Namespace",
+      "Css",
+      "Css.Elements"
+    ]
+  },
+  {
+    "name": "wittjosiah/elm-ordered-dict",
+    "latest": "1.0.0",
+    "modules": [
+      "OrderedDict"
+    ]
+  },
+  {
+    "name": "wjdhamilton/elm-json-api-helpers",
+    "latest": "2.0.1",
+    "modules": [
+      "JsonApi"
+    ]
+  },
+  {
+    "name": "wuct/elm-charts",
+    "latest": "1.0.2",
+    "modules": [
+      "LineChart",
+      "ScatterPlot",
+      "BarChart",
+      "Chart"
+    ]
+  },
+  {
+    "name": "xarvh/elm-dropdown-menu",
+    "latest": "1.0.0",
+    "modules": [
+      "DropdownMenu"
+    ]
+  },
+  {
+    "name": "xarvh/elm-gamepad",
+    "latest": "1.1.0",
+    "modules": [
+      "Gamepad.Remap",
+      "Gamepad"
+    ]
+  },
+  {
+    "name": "xarvh/elm-slides",
+    "latest": "4.0.1",
+    "modules": [
+      "Slides",
+      "Slides.FragmentAnimation",
+      "Slides.SlideAnimation",
+      "Slides.Styles"
+    ]
+  },
+  {
+    "name": "xarvh/elm-styled-html",
+    "latest": "1.1.1",
+    "modules": [
+      "StyledHtml.Attributes",
+      "StyledHtml",
+      "StyledHtml.Css",
+      "StyledHtml.Events"
+    ]
+  },
+  {
+    "name": "xarvh/lexical-random-generator",
+    "latest": "1.0.0",
+    "modules": [
+      "LexicalRandom"
+    ]
+  },
+  {
+    "name": "ydschneider/regex-builder",
+    "latest": "1.0.1",
+    "modules": [
+      "RegexBuilder.Extra",
+      "RegexBuilder"
+    ]
+  },
+  {
+    "name": "ymtszw/elm-http-xml",
+    "latest": "1.0.1",
+    "modules": [
+      "Http.Xml"
+    ]
+  },
+  {
+    "name": "ymtszw/elm-xml-decode",
+    "latest": "1.0.1",
+    "modules": [
+      "Xml.Decode.Extra",
+      "Xml.Decode.Pipeline",
+      "Xml.Decode"
+    ]
+  },
+  {
+    "name": "yotamDvir/elm-katex",
+    "latest": "2.0.0",
+    "modules": [
+      "Katex.Configs.Math",
+      "Katex.Configs.Human",
+      "Katex",
+      "Katex.Configs"
+    ]
+  },
+  {
+    "name": "yotamDvir/elm-pivot",
+    "latest": "2.0.0",
+    "modules": [
+      "Pivot"
+    ]
+  },
+  {
+    "name": "z5h/time-app",
+    "latest": "1.0.1",
+    "modules": [
+      "TimeApp",
+      "TimeApp.Simple"
+    ]
+  },
+  {
+    "name": "zaboco/elm-draggable",
+    "latest": "3.1.0",
+    "modules": [
+      "Draggable.Events",
+      "Draggable"
+    ]
+  },
+  {
+    "name": "zaidan/elm-collision",
+    "latest": "1.0.1",
+    "modules": [
+      "Collision"
+    ]
+  },
+  {
+    "name": "zaidan/elm-gridbox",
+    "latest": "1.0.0",
+    "modules": [
+      "Form.Grid",
+      "Form.Row",
+      "Form.GridPoints",
+      "Form.Box",
+      "Grid",
+      "Extract",
+      "Row",
+      "Position",
+      "Coordinate",
+      "Box"
+    ]
+  },
+  {
+    "name": "zaptic/elm-decode-pipeline-strict",
+    "latest": "1.0.0",
+    "modules": [
+      "Json.Decode.Pipeline.Strict"
+    ]
+  },
+  {
+    "name": "zarvunk/tuple-map",
+    "latest": "1.0.0",
+    "modules": [
+      "Tuple.Map"
+    ]
+  },
+  {
+    "name": "zeckalpha/char-extra",
+    "latest": "1.0.0",
+    "modules": [
+      "Char.Extra"
+    ]
+  },
+  {
+    "name": "zeckalpha/elm-sexp",
+    "latest": "1.0.0",
+    "modules": [
+      "Sexp"
+    ]
+  },
+  {
+    "name": "zwilias/elm-avl-dict-exploration",
+    "latest": "1.2.2",
+    "modules": [
+      "Dict.AVL"
+    ]
+  },
+  {
+    "name": "zwilias/elm-disco",
+    "latest": "1.0.0",
+    "modules": [
+      "Disco"
+    ]
+  },
+  {
+    "name": "zwilias/elm-html-string",
+    "latest": "1.0.2",
+    "modules": [
+      "Html.String.Lazy",
+      "Html.String.Keyed",
+      "Html.String.Events",
+      "Html.String.Attributes",
+      "Html.String"
+    ]
+  },
+  {
+    "name": "zwilias/elm-reorderable",
+    "latest": "1.0.1",
+    "modules": [
+      "Reorderable"
+    ]
+  },
+  {
+    "name": "zwilias/elm-touch-events",
+    "latest": "1.2.0",
+    "modules": [
+      "Touch"
+    ]
+  },
+  {
+    "name": "zwilias/elm-transcoder",
+    "latest": "1.0.0",
+    "modules": [
+      "Transcode"
+    ]
+  },
+  {
+    "name": "zwilias/elm-tree",
+    "latest": "1.0.0",
+    "modules": [
+      "Tree.AVL",
+      "Tree.TwoThree",
+      "Tree.AA"
+    ]
+  },
+  {
+    "name": "zwilias/elm-utf-tools",
+    "latest": "1.0.1",
+    "modules": [
+      "String.UTF8",
+      "String.UTF32"
+    ]
+  },
+  {
+    "name": "zwilias/json-decode-exploration",
+    "latest": "5.0.0",
+    "modules": [
+      "Json.Decode.Exploration.Pipeline",
+      "Json.Decode.Exploration",
+      "Json.Decode.Exploration.Located"
+    ]
+  },
+  {
+    "name": "zwilias/json-encode-exploration",
+    "latest": "1.0.0",
+    "modules": [
+      "Json.Encode.Exploration"
+    ]
+  }
+]
